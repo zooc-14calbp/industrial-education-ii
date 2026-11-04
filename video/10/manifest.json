@@ -81,5 +81,6 @@
       "sha256": "714c1350dbc8239ece22b3e6f9ddb9035ff5072557bc58ad55f80c38d0708948"
     }
   },
-  "timing_panel_revision": "exercise-first-v1"
+  "timing_panel_revision": "exercise-first-v1",
+  "study_instructions": "thinking_time_included_90min_target"
 }

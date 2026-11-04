@@ -1,0 +1,32 @@
+{
+  "source_title": "総務省統計局 日本の統計2026 表19-5",
+  "source_url": "https://www.stat.go.jp/data/nihon/pdf/26nihon.pdf#page=207",
+  "checked_on": "2026-11-04",
+  "data_year": 2024,
+  "period": "年平均",
+  "total_ten_thousands": 6781,
+  "grouping": "講義独自の集約。1=農林漁業、2=鉱業・建設・製造、3=それ以外の分類可能な産業、0=分類不能",
+  "sectors": [
+    {
+      "label": "第一次産業",
+      "employed_ten_thousands": 192,
+      "share_percent": 2.8
+    },
+    {
+      "label": "第二次産業",
+      "employed_ten_thousands": 1525,
+      "share_percent": 22.5
+    },
+    {
+      "label": "第三次産業",
+      "employed_ten_thousands": 4944,
+      "share_percent": 72.9
+    },
+    {
+      "label": "分類不能",
+      "employed_ten_thousands": 122,
+      "share_percent": 1.8
+    }
+  ],
+  "rounding_note": "元の万人単位の丸めにより内訳合計6783と総数6781は一致しない。総数を分母とした概算比率。"
+}

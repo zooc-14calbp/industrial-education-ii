@@ -63,3 +63,7 @@
 ## 演習中心の改訂版
 
 各回に8枚の演習を追加し、現在のスライドは全15回で548枚です。教材一覧のPPTX・PDFも動画と対応する版へ更新しました。概要ガイドの初期の時間配分に代わり、[各回の利用案内](video/README.md)と演習ガイドの進め方を使います。
+
+## 職業指導と社会の基礎を充実させる改訂案
+
+[社会と産業の基礎](docs/social-foundations.md)／[職業指導の設計](docs/career-guidance-plan.md)／[演習案](docs/career-guidance-exercises.md)／[第10回 ICTの学びの接続](docs/ict-transition-plan.md)／[資格・免許・検定](docs/qualifications-plan.md)／[統計とグラフを読む](docs/statistics-reading.md)・[演習PDF](docs/statistics-exercise.pdf)。改訂用の案で、現行動画への反映前です。

@@ -1,0 +1,62 @@
+{
+  "source_title": "文部科学省 高等学校卒業者の学科別進路状況",
+  "source_url": "https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm",
+  "underlying_source": "令和7年度学校基本統計",
+  "checked_on": "2026-11-04",
+  "graduate_cohort": "令和7年3月卒",
+  "selection": "原表から5学科を抜粋。全学科の一覧ではない。",
+  "denominator": "各学科の卒業者数",
+  "note": "就職者には就職進学者を含めない。原表の集約区分名を使用。",
+  "rows": [
+    {
+      "department": "農業科",
+      "graduates": 21324,
+      "percent": [
+        18.2,
+        31.2,
+        47.5,
+        3.1
+      ]
+    },
+    {
+      "department": "工業科",
+      "graduates": 63695,
+      "percent": [
+        18.2,
+        16.6,
+        63.3,
+        1.9
+      ]
+    },
+    {
+      "department": "商業科",
+      "graduates": 51570,
+      "percent": [
+        34.5,
+        29.3,
+        33.6,
+        2.6
+      ]
+    },
+    {
+      "department": "水産科",
+      "graduates": 2302,
+      "percent": [
+        24.6,
+        17.1,
+        56.5,
+        1.8
+      ]
+    },
+    {
+      "department": "普通科",
+      "graduates": 691147,
+      "percent": [
+        71.8,
+        16.7,
+        6.1,
+        5.4
+      ]
+    }
+  ]
+}
