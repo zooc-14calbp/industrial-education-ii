@@ -1,0 +1,302 @@
+[
+  {
+    "lesson": 1,
+    "status": "draft",
+    "slides": 32,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 2,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 3,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 5,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 8,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 9,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 10,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 11,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 12,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 13,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 14,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  },
+  {
+    "lesson": 15,
+    "status": "planned",
+    "slides": null,
+    "video_recorded": false,
+    "content_minutes_planned": 70,
+    "activity_minutes_planned": 20,
+    "formats": {
+      "slides": [
+        "pptx",
+        "pdf"
+      ],
+      "student_guide": [
+        "pdf"
+      ],
+      "instructor_guide": [
+        "docx"
+      ]
+    }
+  }
+]
