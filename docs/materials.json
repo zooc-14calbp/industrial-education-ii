@@ -22,7 +22,10 @@
     "video_status": "prototype",
     "video_seconds": 2287.166666666667,
     "video_voice": "ja-JP-NanamiNeural",
-    "video_guide": "video/01/README.md"
+    "video_guide": "video/01/README.md",
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "prototype_cued_total_below_90"
   },
   {
     "lesson": 2,
@@ -42,7 +45,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 3,
@@ -62,7 +68,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 4,
@@ -82,7 +91,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 5,
@@ -102,7 +114,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 6,
@@ -122,7 +137,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 7,
@@ -142,7 +160,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 8,
@@ -162,7 +183,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 9,
@@ -182,7 +206,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 10,
@@ -202,7 +229,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 11,
@@ -222,7 +252,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 12,
@@ -242,7 +275,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 13,
@@ -262,7 +298,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 14,
@@ -282,7 +321,10 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   },
   {
     "lesson": 15,
@@ -302,6 +344,9 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "total_study_time_verified": false,
+    "timing_audit_date": "2026-11-04",
+    "timing_status": "planned_not_measured"
   }
 ]
