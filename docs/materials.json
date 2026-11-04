@@ -36,7 +36,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "中学校教師が知っておきたい進路と職業指導",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/01/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 2,
@@ -75,7 +79,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 32
+    "initial_slides": 32,
+    "planned_title": "産業の構造と仕事と働き方の基礎",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/02/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 3,
@@ -114,7 +122,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "学校情報と資格と免許を読み分ける",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/03/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 4,
@@ -153,7 +165,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "工業高校の学びと仕事と進学",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/04/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 5,
@@ -192,7 +208,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "農業と食品と森林と環境を学ぶ高校",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/05/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 6,
@@ -231,7 +251,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "水産と海洋を学ぶ高校とキャリア",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/06/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 7,
@@ -270,7 +294,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "商業とビジネスと情報を学ぶ高校",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/07/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 8,
@@ -309,7 +337,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "家庭と看護と福祉の学びと資格の経路",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/08/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 9,
@@ -348,7 +380,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "卒業後の経路と働く条件と学び直し",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/09/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 10,
@@ -387,7 +423,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "中学校の情報活用と専門高校の初期学習",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/10/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 11,
@@ -426,7 +466,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "職場体験とインターンシップと地域連携",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/11/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 12,
@@ -465,7 +509,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "国内外の職業教育と学校と企業の役割",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/12/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 13,
@@ -504,7 +552,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "高校で学び続ける条件と進路変更への支援",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/13/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 14,
@@ -543,7 +595,11 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "高校進学以外の経路と学びと就業への支援",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/14/revision-plan.md",
+    "planned_content_in_current_media": false
   },
   {
     "lesson": 15,
@@ -582,6 +638,10 @@
     "learning_design": "exercise-first-v1",
     "student_trial_completed": false,
     "human_full_audio_review": false,
-    "initial_slides": 28
+    "initial_slides": 28,
+    "planned_title": "選択肢を広げる職業指導と進路相談",
+    "curriculum_revision": "overall-review-20261104",
+    "curriculum_plan": "lessons/15/revision-plan.md",
+    "planned_content_in_current_media": false
   }
 ]

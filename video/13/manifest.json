@@ -82,5 +82,8 @@
     }
   },
   "timing_panel_revision": "exercise-first-v1",
-  "study_instructions": "thinking_time_included_90min_target"
+  "study_instructions": "thinking_time_included_90min_target",
+  "curriculum_plan": "lessons/13/revision-plan.md",
+  "curriculum_revision": "overall-review-20261104",
+  "planned_content_in_current_media": false
 }

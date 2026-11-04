@@ -1,0 +1,786 @@
+{
+  "revision": "overall-review-20261104",
+  "review_date": "2026-11-04",
+  "course": "Ⅱ",
+  "aim": "中学校教師として社会・産業・仕事と専門高校の学びを理解し、生徒の探索・選択・学びの継続を支える情報提供と相談を考える。",
+  "status": "design_review_complete_media_revision_pending",
+  "lesson_count": 15,
+  "minutes_target": 90,
+  "includes": [
+    "動画視聴",
+    "資料確認",
+    "Thinking time",
+    "小休止"
+  ],
+  "video_minutes_fixed": false,
+  "reports_per_course": 2,
+  "weekly_submission": false,
+  "lessons": [
+    {
+      "title": "中学校教師が知っておきたい進路と職業指導",
+      "goals": [
+        "中学校卒業後の学びの経路を、学校制度の違いに注意して示せる。",
+        "キャリア教育・職業教育・進路指導の役割を事例で区別できる。"
+      ],
+      "core": [
+        "高校の学科・課程、高専、高等専修学校等の見取り図",
+        "職業指導を情報提供・相談・学習・見直しにつなぐ",
+        "小学校の気付き、中学校の探索、高校以後の専門性という接続"
+      ],
+      "task": "架空の学校情報カードを、制度、学習内容、確認が必要な条件に分ける。",
+      "product": "三列の短い表",
+      "check": "職業指導は就職先を紹介する活動だけか。",
+      "answer": "学ぶ過程、情報、相談、選択後の見直し等をつないで考える。",
+      "listen": "用語と制度は短い説明で補い、Ⅰの基礎を再利用する。",
+      "reduce": "Ⅰ第1回の学校制度の詳しい紹介は繰り返さない。",
+      "report": "A・Bの土台",
+      "bridge": "第2回で社会・仕事の前提知識を整える。",
+      "links": [
+        "career-guidance-plan.md"
+      ],
+      "lesson": 1,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "中学校卒業後の多様な学びと進路",
+      "existing_slides": 40,
+      "existing_video_seconds": 2635.7000000000007,
+      "existing_content_sha256": "aab8d881e7462973389647df9fb29e475af53db9190178421c0477a48b9c5a59",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "special": [
+          "文部科学省 専門高校と産業教育",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/main19_a2.htm"
+        ],
+        "portal": [
+          "文部科学省 専門高校とは",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ],
+        "general": [
+          "文部科学省 総合学科について",
+          "https://www.mext.go.jp/a_menu/shotou/kaikaku/seido/04033101.htm"
+        ],
+        "ibaraki": [
+          "茨城県教育委員会 高等学校の課程について",
+          "https://kyoiku.pref.ibaraki.jp/gakko/highschool/high-school-guide/study-course/"
+        ],
+        "hiroshima": [
+          "広島県教育委員会 課程と学科",
+          "https://www.pref.hiroshima.lg.jp/site/kyouiku/06senior-2nd-h21-advance-p04-katei.html"
+        ],
+        "kosen": [
+          "文部科学省 高等専門学校について",
+          "https://www.mext.go.jp/a_menu/koutou/kousen/"
+        ],
+        "senshu": [
+          "文部科学省 高等専修学校とは",
+          "https://www.mext.go.jp/a_menu/shougai/senshuu/kotosensyu00961.html"
+        ]
+      }
+    },
+    {
+      "title": "産業の構造と仕事と働き方の基礎",
+      "goals": [
+        "三つの産業部門、産業と職業、就業者と雇用者を区別できる。",
+        "就業者の構成比の分母と限界を確認して説明できる。"
+      ],
+      "core": [
+        "産業セクターと就業者数の比率、人数とGDP等の比率の違い",
+        "産業・職業・仕事の内容、雇用・自営等の基礎",
+        "AI等による仕事の変化を、仕事全体と個別の作業に分ける"
+      ],
+      "task": "産業のグラフと食品が届く流れを見て、比率から言えることと見えない仕事を一つずつ示す。",
+      "product": "グラフの読み取りと仕事のつながりの二行メモ",
+      "check": "第三次産業の割合が大きければ、第一次産業の重要性は低いか。",
+      "answer": "人数の構成比と、社会を支える役割・重要性は同じではない。",
+      "listen": "基礎用語は既知とせず説明する。AIの具体的な導入例は断定せず作業の比較例で扱う。",
+      "reduce": "職業を大量に列挙せず、一つの流れと一つの図を読む。",
+      "report": "Aの比較観点、Bの候補の広がり",
+      "bridge": "第3回で学校・資格・仕事の情報を読む。",
+      "links": [
+        "social-foundations.md",
+        "statistics-reading.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 2,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "社会を支える産業と仕事の多様性",
+      "existing_slides": 40,
+      "existing_video_seconds": 1801.4333333333325,
+      "existing_content_sha256": "394a61400b4691bf257a8627c642fdba3797af71878e1d16607d4e27ea609608",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "terms": [
+          "総務省統計局 令和2年国勢調査 用語の解説",
+          "https://www.stat.go.jp/data/kokusei/2020/kekka/pdf/ug_03.pdf"
+        ],
+        "food": [
+          "厚生労働省 job tag 食品技術者",
+          "https://shigoto.mhlw.go.jp/User/Occupation/Detail/288"
+        ],
+        "system": [
+          "厚生労働省 job tag システムエンジニア 基盤システム",
+          "https://shigoto.mhlw.go.jp/User/Occupation/Detail/318"
+        ],
+        "school": [
+          "文部科学省 専門高校とは",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ]
+      }
+    },
+    {
+      "title": "学校情報と資格と免許を読み分ける",
+      "goals": [
+        "学校案内から学習・進路・条件を分けて読み取れる。",
+        "資格・検定の種類と、受験・合格・免状交付の違いを説明できる。"
+      ],
+      "core": [
+        "教育課程、募集、進路実績と学校紹介記事の違い",
+        "国家資格・免許と民間検定、指定課程や免除等の確認",
+        "学校数・学科数、実人数・延べ人数、年度の読み方"
+      ],
+      "task": "架空の資格紹介文を、試験合格、免状取得、業務の範囲に分けて直し、確認先を示す。",
+      "product": "修正した説明と公式の確認先",
+      "check": "学校の資格一覧にあれば、入学した全員が卒業時に取得できるか。",
+      "answer": "条件、学校の支援、年度・対象者・取得実績を分けて確かめる。",
+      "listen": "資格の代表例は紹介として聞き、全名称や要件の暗記を求めない。",
+      "reduce": "教員免許の詳しい取得経路はⅠ第14回へ戻る案内にする。",
+      "report": "Aの根拠と限界、Bの条件",
+      "bridge": "第4～8回で各分野の具体的な学びと経路を見る。",
+      "links": [
+        "qualifications-plan.md",
+        "career-guidance-exercises.md"
+      ],
+      "lesson": 3,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "専門高校の種類と学校情報の読み方",
+      "existing_slides": 36,
+      "existing_video_seconds": 1492.6333333333332,
+      "existing_content_sha256": "e715913272525cf60b281e5c4967236e4ffc1a5feb25371105107cd81a1e7f33",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "numbers": [
+          "文科省 学科別生徒数 2025年5月",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021201.htm"
+        ],
+        "curriculum": [
+          "徳島科学技術高校 教育課程の入口",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ],
+        "machine": [
+          "徳島科学技術高校 R8機械コース教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2779"
+        ],
+        "license": [
+          "文科省 免許取得可能大学一覧 2025年4月",
+          "https://www.mext.go.jp/a_menu/shotou/kyoin/daigaku/1286948.htm"
+        ]
+      }
+    },
+    {
+      "title": "工業高校の学びと仕事と進学",
+      "goals": [
+        "Ⅰで学んだ専門分野を、複数の仕事や進学経路と結び付けて説明できる。",
+        "求人や進路の実績と個人の選択条件を区別できる。"
+      ],
+      "core": [
+        "工業分野の学びと、設計・生産・管理等の仕事",
+        "電気工事士・危険物・各種検定と学習の関係",
+        "進学・就職の経路と、求人情報の対象・時点"
+      ],
+      "task": "二つの工業分野の案内から、学ぶ活動とその先の経路を一つずつ選び、同じ観点で比べる。",
+      "product": "レポートAに使える二行の比較表",
+      "check": "求人倍率だけで、生徒一人の希望に合う就職のしやすさが決まるか。",
+      "answer": "対象、地域、仕事内容、本人が確かめる条件を分ける。",
+      "listen": "専門原理はⅠの説明へ参照し、Ⅱは生徒への説明に重点を置く。",
+      "reduce": "Ⅰ第2・7回と同じ専門科目の詳説を繰り返さない。",
+      "report": "Aの題材",
+      "bridge": "第5回で農林・食品等へ対象を広げる。",
+      "links": [
+        "qualifications-plan.md"
+      ],
+      "lesson": 4,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "工業高校の学びとキャリア",
+      "existing_slides": 36,
+      "existing_video_seconds": 1476.7,
+      "existing_content_sha256": "a43e193b435f49ff5a98befe77dd231b392043d1a6eb81fb6b5a6c08fd755944",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "machine": [
+          "徳島科学技術高校 R8機械コース教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2779"
+        ],
+        "career": [
+          "名古屋市立工業高校 2026年3月卒進路",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/job.html"
+        ],
+        "summit": [
+          "全国工業高校長協会 工大サミット基調講演",
+          "https://www.kait.jp/summit/program/pdf/program1.pdf"
+        ]
+      }
+    },
+    {
+      "title": "農業と食品と森林と環境を学ぶ高校",
+      "goals": [
+        "生産・加工・流通・森林・環境等の学びの違いを説明できる。",
+        "学科やコースの内容を仕事や進学へ複数の観点で結び付けられる。"
+      ],
+      "core": [
+        "農林業に加え、食品・環境・地域の学習を知る",
+        "農業の学校資料と代表的な検定の読み方",
+        "地域資源の利用と、観察・記録・改善の活動"
+      ],
+      "task": "森林と地域利用の資料を、対象、学ぶ活動、卒業後に確認することの三項目で整理する。",
+      "product": "比較に使う一枚の資料メモ",
+      "check": "農業に関する学科は、農業への就職だけを想定して説明すればよいか。",
+      "answer": "学ぶ内容と複数の経路を資料で確認する。",
+      "listen": "初学者が知らない農林・食品分野の対象を図で紹介する。",
+      "reduce": "資格の一般的な読み方は第3回を参照し、学校例を増やし過ぎない。",
+      "report": "Aの題材",
+      "bridge": "第6回で水産・海洋の学びと比べる。",
+      "links": [
+        "qualifications-plan.md"
+      ],
+      "lesson": 5,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "農業・食品・森林・環境を学ぶ高校",
+      "existing_slides": 36,
+      "existing_video_seconds": 1491.033333333333,
+      "existing_content_sha256": "dfa76598e68f79f0962858993085ec2435b5dd165314eb639b0828959827d9d4",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "agri": [
+          "城西高校神山校 地域創生類の案内",
+          "https://joseikamiyama-hs.tokushima-ec.ed.jp/file/573"
+        ],
+        "forest": [
+          "林野庁 森林・林業関係高校一覧 2024年4月",
+          "https://www.rinya.maff.go.jp/j/ken_sidou/fukyuu/attach/pdf/230329-1.pdf"
+        ],
+        "portal": [
+          "文科省 専門高校の紹介",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ]
+      }
+    },
+    {
+      "title": "水産と海洋を学ぶ高校とキャリア",
+      "goals": [
+        "漁業以外にも広がる海洋・食品・機関・情報等の学びを説明できる。",
+        "資格と進学・就業の条件を資料の範囲で整理できる。"
+      ],
+      "core": [
+        "水産資源・食品・航海・機関・海洋環境等の広がり",
+        "小型船舶等の免許と学習の経路",
+        "海洋情報技術、記録、安全、情報や語学の役割"
+      ],
+      "task": "海洋分野の二つの活動を比べ、学ぶ内容と免許等で追加確認することを分ける。",
+      "product": "活動・学習・条件の比較表",
+      "check": "水産高校の学びを、一つの漁業の仕事だけで説明できるか。",
+      "answer": "学科やコースで対象・活動が異なり、進路にも複数の可能性がある。",
+      "listen": "海洋の専門用語は映像や図と短い説明で補う。",
+      "reduce": "操船等の技能の習得や実機操作を、この講義の課題にしない。",
+      "report": "Aの題材、Bの条件",
+      "bridge": "第7回で商業・ビジネス・情報を扱う。",
+      "links": [
+        "qualifications-plan.md",
+        "ict-transition-plan.md"
+      ],
+      "lesson": 6,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "水産・海洋を学ぶ高校",
+      "existing_slides": 36,
+      "existing_video_seconds": 1459.833333333333,
+      "existing_content_sha256": "12b6b51d97ddbd48486619c4fa1928f4b7f9053a1eb602c0a25454f74d77cea6",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "marine": [
+          "徳島科学技術高校 R8海洋総合コース教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2785"
+        ],
+        "curriculum": [
+          "徳島科学技術高校 教育課程の入口",
+          "https://tokushima-hst.tokushima-ec.ed.jp/prospetus/curriculum"
+        ],
+        "portal": [
+          "文科省 専門高校の紹介",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ]
+      }
+    },
+    {
+      "title": "商業とビジネスと情報を学ぶ高校",
+      "goals": [
+        "会計・流通・販売・情報等の学びと仕事の違いを説明できる。",
+        "AIや情報技術を使う活動でも、確認と判断の役割を挙げられる。"
+      ],
+      "core": [
+        "商品・サービスを支える会計・マーケティング・情報",
+        "簿記・情報処理等の検定と授業内容",
+        "専門教科の情報と商業の情報、生成AIで案を作ることと判断すること"
+      ],
+      "task": "架空の販売企画を読み、売上以外に学習として確かめたい記録と、情報の確認を一つずつ示す。",
+      "product": "活動と学びの証拠の二行メモ",
+      "check": "AIで宣伝文を作れれば、正確な商品情報を伝えられると言えるか。",
+      "answer": "根拠、対象、誇張や誤り等を確かめる必要がある。",
+      "listen": "仕訳や高度なプログラムを解かせず、学びの役割を説明する。",
+      "reduce": "検定の受験方法の詳細やソフトの操作講習へ広げ過ぎない。",
+      "report": "Aの題材、Bの情報の確認",
+      "bridge": "第8回で人の暮らしを支える分野へ広げる。",
+      "links": [
+        "qualifications-plan.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 7,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "商業・ビジネス・情報を学ぶ高校",
+      "existing_slides": 36,
+      "existing_video_seconds": 1474.033333333333,
+      "existing_content_sha256": "e657c2ec60268a1bbe186613646efc44b941fd35a2a305c16b63b9ed22d20bf7",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "business": [
+          "徳島商業高校 R9募集案内 学校情報",
+          "https://tokusho.tokushima-ec.ed.jp/file/1367"
+        ],
+        "portal": [
+          "文科省 専門高校の紹介",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ],
+        "dest": [
+          "文科省 学科別進路 2025年3月卒",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm"
+        ]
+      }
+    },
+    {
+      "title": "家庭と看護と福祉の学びと資格の経路",
+      "goals": [
+        "暮らし・看護・福祉の学習対象と課程の違いを説明できる。",
+        "卒業・養成課程・国家試験等の条件を確認する必要性を示せる。"
+      ],
+      "core": [
+        "家庭・看護・福祉を一括りにしない学習内容",
+        "指定課程、資格取得と受験資格、卒業後の学び",
+        "多様な利用者、実習と支援、安全の条件"
+      ],
+      "task": "二つの架空の課程案内を読み、卒業・受験・免許取得の段階と、確認すべき条件を分ける。",
+      "product": "経路の段階を示す短い表",
+      "check": "高校で関連内容を学べば、全員が同じ国家資格を得られるか。",
+      "answer": "学校や課程の指定、履修、受験等の条件を公式情報で確認する。",
+      "listen": "課程や職業の背景を説明する。看護・介護等の個人の経験は尋ねない。",
+      "reduce": "家庭・看護・福祉の全資格を一度に覚える構成にしない。",
+      "report": "Aの題材、Bの条件",
+      "bridge": "第9回で卒業時点とその後のキャリアを見渡す。",
+      "links": [
+        "qualifications-plan.md"
+      ],
+      "lesson": 8,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "家庭・看護・福祉などを学ぶ高校",
+      "existing_slides": 36,
+      "existing_video_seconds": 1500.666666666666,
+      "existing_content_sha256": "d9b7427847b015c9347091a36e9652c8de8781462d58d371bbbb875d1bccdb02",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "home": [
+          "倉敷中央高校 家政科の紹介",
+          "https://www.kurachuo.okayama-c.ed.jp/2022new/02department/home-economics-course.php"
+        ],
+        "nurse": [
+          "倉敷中央高校 看護科の紹介",
+          "https://www.kurachuo.okayama-c.ed.jp/2022new/02department/nursing-course.php"
+        ],
+        "schoolqa": [
+          "倉敷中央高校 中学生向けQ&A",
+          "https://www.kurachuo.okayama-c.ed.jp/2022new/05junior-high-school-students/junior-high-school-students.php"
+        ],
+        "carequal": [
+          "厚労省 介護福祉士の資格取得方法",
+          "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/shakai-kaigo-fukushi1/shakai-kaigo-fukushi4.html"
+        ]
+      }
+    },
+    {
+      "title": "卒業後の経路と働く条件と学び直し",
+      "goals": [
+        "卒業時の進路と、その後の学び・仕事の変化を区別できる。",
+        "進路・就労統計と働く条件を、対象に注意して説明できる。"
+      ],
+      "core": [
+        "学科別進路の実データと、就職・離職等の統計の読み方",
+        "雇用・労働条件・権利と、公式の情報・相談先",
+        "探索・選択・振り返り・学び直しという継続する過程"
+      ],
+      "task": "学科別進路の図を読み、比較の説明と限界を一文ずつ示し、働く条件について次に確かめることを挙げる。",
+      "product": "レポートAの比較・限界・説明と確認に対応するメモ",
+      "check": "卒業時の就職区分から、その人の生涯の仕事が分かるか。",
+      "answer": "その後の進学、転職、学び直し等は別に確認する。",
+      "listen": "労働関係の制度は場面・目的・確認先を説明し、条文暗記にしない。",
+      "reduce": "離職率の大小から原因や本人の責任を断定する課題は置かない。",
+      "report": "Aのまとめ 第9回後",
+      "bridge": "第10回で学校段階をまたぐ学びの接続を扱う。",
+      "links": [
+        "statistics-reading.md",
+        "career-guidance-plan.md",
+        "social-foundations.md"
+      ],
+      "lesson": 9,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "専門高校生のキャリアパスと学びの継続",
+      "existing_slides": 36,
+      "existing_video_seconds": 1512.6333333333337,
+      "existing_content_sha256": "5e53a37b04e7ca215538ddc5d64bb9b09fe9bd22a366ae55d425b01c752e460c",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "dest": [
+          "文科省 学科別進路 2025年3月卒",
+          "https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm"
+        ],
+        "business": [
+          "徳島商業高校 R9募集案内 学校情報",
+          "https://tokusho.tokushima-ec.ed.jp/file/1367"
+        ],
+        "career": [
+          "名古屋市立工業高校 2026年3月卒進路",
+          "https://www.nagoya-c.ed.jp/school/kogyo-th/job.html"
+        ],
+        "saposute": [
+          "厚労省委託 サポステの支援内容",
+          "https://saposute-net.mhlw.go.jp/about.html"
+        ]
+      }
+    },
+    {
+      "title": "中学校の情報活用と専門高校の初期学習",
+      "goals": [
+        "中学校の読解・数量・ICTの学びと専門高校の導入を対応させられる。",
+        "中学校の工夫と高校側の確認・補足を分けて提案できる。"
+      ],
+      "core": [
+        "各教科を通じた情報活用能力と技術分野の情報の技術",
+        "工業情報数理・海洋情報技術等への接続",
+        "データ、単位、保存・共有、手順・プログラミングとAI出力の確認"
+      ],
+      "task": "水温等の架空の学習記録から、既習の活動、中学校で加える工夫、高校で確かめる内容を整理する。",
+      "product": "中学校と高校の役割を分けた接続表",
+      "check": "同じアプリを使った経験があれば、専門高校の情報の学習は習得済みと判断できるか。",
+      "answer": "情報の扱い方や説明・検証を確認し、専門的な文脈は高校で補う。",
+      "listen": "機器やアプリの操作講習にせず、学ぶ内容のつながりを説明する。",
+      "reduce": "学力調査の詳細と同じ誤答の検討はⅠ第9回へ戻り、ICT接続を中心に組み替える。",
+      "report": "Bの条件・支援と次の確認",
+      "bridge": "第11回で教室と職場をつなぐ学びを考える。",
+      "links": [
+        "ict-transition-plan.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 10,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "小中高の学びの接続と基礎学力",
+      "existing_slides": 36,
+      "existing_video_seconds": 1486.0999999999997,
+      "existing_content_sha256": "3fb377a0e5966d295cb8956c92642ee0e92243685871838c140b374570d49c87",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "survey": [
+          "文科省 全国学力・学習状況調査の概要",
+          "https://www.mext.go.jp/a_menu/shotou/gakuryoku-chousa/zenkoku/1344101.htm"
+        ],
+        "basic": [
+          "全工協 R7工業基礎学力テスト報告",
+          "https://zenkoukyo.or.jp/web/content/uploads/r07kisogaku_kekka.pdf"
+        ],
+        "machine": [
+          "徳島科学技術高校 R8機械コース教育課程",
+          "https://tokushima-hst.tokushima-ec.ed.jp/file/2779"
+        ],
+        "careerbook": [
+          "文科省 中高キャリア教育の手引き 2023年",
+          "https://www.mext.go.jp/a_menu/shotou/career/detail/mext_00010.html"
+        ]
+      }
+    },
+    {
+      "title": "職場体験とインターンシップと地域連携",
+      "goals": [
+        "体験の目的と学校・受入先の役割を区別できる。",
+        "事前・体験中・事後の問いと支援を提案できる。"
+      ],
+      "core": [
+        "中学校の職場体験と高校等の就業体験の目的",
+        "実施条件、安全、担当者、相談、情報の扱い",
+        "見た仕事の範囲と、振り返り・次の調べ方"
+      ],
+      "task": "ある見学計画に、事前の問いと事後の確かめ方、連絡・相談の経路を一つずつ補う。",
+      "product": "事前・事後・実施条件の三項目",
+      "check": "一つの職場での体験で、その職業の全てが分かるか。",
+      "answer": "見た担当や条件の範囲を明示し、他の仕事も調べる。",
+      "listen": "写真等の事例は内容と活動の目的を中心に説明する。",
+      "reduce": "学生本人への新たな訪問、インタビュー、体験記の提出を求めない。",
+      "report": "Bの関心の具体化と次の確認",
+      "bridge": "第12回で学校と企業の役割を制度比較で考える。",
+      "links": [
+        "career-guidance-exercises.md"
+      ],
+      "lesson": 11,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "職場体験・インターンシップ・地域との連携",
+      "existing_slides": 36,
+      "existing_video_seconds": 1487.6666666666663,
+      "existing_content_sha256": "b57d00eee3226575e4d4586d262890db7d7aada076699e29e399c0d6eda5459e",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "careerbook": [
+          "文科省 中高キャリア教育の手引き 2023年",
+          "https://www.mext.go.jp/a_menu/shotou/career/detail/mext_00010.html"
+        ],
+        "intern": [
+          "文科省 キャリア教育手引き 第4章",
+          "https://www.mext.go.jp/content/20230626-mxt_jidou01-000030273_1.pdf"
+        ],
+        "business": [
+          "徳島商業高校 R9募集案内 学校情報",
+          "https://tokusho.tokushima-ec.ed.jp/file/1367"
+        ]
+      }
+    },
+    {
+      "title": "国内外の職業教育と学校と企業の役割",
+      "goals": [
+        "共通の観点で学ぶ場と制度の違いを比較できる。",
+        "海外の制度名から効果や日本での実施可能性を断定しない。"
+      ],
+      "core": [
+        "学校・企業・行政の役割、学習・費用・資格の条件",
+        "既存のドイツ・フィンランド等の事例を指定部分で比較",
+        "既習の認定、移行、継続学習の見方"
+      ],
+      "task": "二つの制度の指定資料を、学ぶ場、責任、確認方法、支援のうち二つの観点で比べる。",
+      "product": "二制度二観点の小さな比較表",
+      "check": "同じ制度名の取組を入れれば、日本でも同じ成果が出るか。",
+      "answer": "制度、対象、企業・学校等の条件と、効果を示す証拠を区別する。",
+      "listen": "国の制度全体の暗記にせず、比較の方法を示す。",
+      "reduce": "国数を増やすことを目的にせず、未確認の現行制度や成果を断定しない。",
+      "report": "Aで学んだ比較方法をBへ転用",
+      "bridge": "第13回で学びを継続する条件を考える。",
+      "links": [
+        "career-guidance-plan.md"
+      ],
+      "lesson": 12,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "国内外の職業教育と学校・企業の役割",
+      "existing_slides": 36,
+      "existing_video_seconds": 1489.0999999999997,
+      "existing_content_sha256": "c351528ae21f2bc27fbcf8994228ceec1ce590fe62000a229a6ccc4feaa5a4f8",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "germany": [
+          "BIBB ドイツのデュアルシステム",
+          "https://www.bibb.de/en/77203.php"
+        ],
+        "finland": [
+          "フィンランド教育庁 VETの概要",
+          "https://www.oph.fi/en/education-system/vocational-education-and-training"
+        ],
+        "recognition": [
+          "フィンランド教育庁 既習の認定 2026年6月",
+          "https://www.oph.fi/en/news/2026/quality-identification-prior-learning-developed-vocational-education-and-training"
+        ],
+        "careerbook": [
+          "文科省 中高キャリア教育の手引き 2023年",
+          "https://www.mext.go.jp/a_menu/shotou/career/detail/mext_00010.html"
+        ]
+      }
+    },
+    {
+      "title": "高校で学び続ける条件と進路変更への支援",
+      "goals": [
+        "普通科・専門学科に共通する課題と条件を捉えられる。",
+        "集計の区分から個人の原因を決めず、学校と生徒を支える方法を示せる。"
+      ],
+      "core": [
+        "不登校・中退・転学等の定義と集計の範囲",
+        "学習・相談・課程・生活条件と学校側の体制",
+        "進路の見直しと、継続できる学習機会"
+      ],
+      "task": "人物の設定を使わず、架空の学校の学習・相談・転入等の情報を整理し、足りない確認項目を二つ示す。",
+      "product": "支援情報と学校側で整える条件の表",
+      "check": "欠席や提出状況の記録だけで、対応を一つに決められるか。",
+      "answer": "分からない条件を確かめ、本人の意向と支援体制を含めて考える。",
+      "listen": "扱う内容を事前に案内し、当事者の申告の有無に依存しない。",
+      "reduce": "個人の苦境を追体験させる描写や、体験談・感情の告白を求めない。共通回は維持する。",
+      "report": "Bの条件と支援",
+      "bridge": "第14回で学校外の学びと相談も含めて考える。",
+      "links": [
+        "career-guidance-exercises.md"
+      ],
+      "lesson": 13,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "高校での学びの継続と多様な進路への支援",
+      "existing_slides": 36,
+      "existing_video_seconds": 1564.6999999999998,
+      "existing_content_sha256": "a1a174726a04db7927f2a4860767882b6755ef4e14c65fa569920a8023d0f79b",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "dropout": [
+          "文科省 生徒指導上の諸課題調査の概要",
+          "https://www.mext.go.jp/b_menu/toukei/chousa01/shidou/gaiyou/chousa/1267368.htm"
+        ],
+        "dropnotice": [
+          "文科省 R6調査結果と対応 2025年10月通知",
+          "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422178_00006.htm"
+        ],
+        "dropdata": [
+          "文科省 生徒指導上の諸課題の統計入口",
+          "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302902.htm"
+        ],
+        "equiv": [
+          "文科省 高卒認定と高校卒業の違い",
+          "https://www.mext.go.jp/a_menu/koutou/shiken/mext_01768.html"
+        ]
+      }
+    },
+    {
+      "title": "高校進学以外の経路と学びと就業への支援",
+      "goals": [
+        "高校非進学・在学中の困難・退学後の状況を混同せず整理できる。",
+        "学びと就業の窓口について、相談内容と利用条件の確認先を示せる。"
+      ],
+      "core": [
+        "中学校卒業時の進路と、その後の多様な状況",
+        "定時制・通信制等の学び、職業訓練、高卒認定等の違い",
+        "学校・行政・就業支援等の連携と本人の選択"
+      ],
+      "task": "架空の窓口案内を、相談できること、利用条件、確認先に分ける。人物の事情は推測しない。",
+      "product": "相談情報の三列の表",
+      "check": "高卒認定への合格と、高校卒業は同じか。",
+      "answer": "異なる制度であり、進学等の要件と学校の卒業を分けて確認する。",
+      "listen": "制度の全要件ではなく、相談先へつなぐための見取り図を説明する。",
+      "reduce": "非進学や中退を一つの人物像として説明しない。",
+      "report": "Bの条件と支援、次の確認・相談",
+      "bridge": "第15回で情報提供と対話を統合する。",
+      "links": [
+        "career-guidance-plan.md"
+      ],
+      "lesson": 14,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "高校に進学しない若者と学び・就業への支援",
+      "existing_slides": 36,
+      "existing_video_seconds": 1562.5333333333333,
+      "existing_content_sha256": "82c9f88d014a12a30210d96618cc9c33aa437274282f92818beac24b1d88716d",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "schoolstats": [
+          "文科省 R7学校基本統計 確定値",
+          "https://www.mext.go.jp/content/20251226-mxt_chousa01-000044291_01.pdf"
+        ],
+        "support": [
+          "厚労省 地域若者サポートステーション",
+          "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/saposute.html"
+        ],
+        "saposute": [
+          "厚労省委託 サポステの支援内容",
+          "https://saposute-net.mhlw.go.jp/about.html"
+        ],
+        "equiv": [
+          "文科省 高卒認定と高校卒業の違い",
+          "https://www.mext.go.jp/a_menu/koutou/shiken/mext_01768.html"
+        ]
+      }
+    },
+    {
+      "title": "選択肢を広げる職業指導と進路相談",
+      "goals": [
+        "複数の候補、関心を確かめる問い、条件と相談先を組み合わせられる。",
+        "AIや検査結果だけに依存せず、生徒の選択と見直しを支える説明ができる。"
+      ],
+      "core": [
+        "関心を具体的な活動へ言い換える質問",
+        "根拠のある情報提供と相談、探索・選択・見直し",
+        "適性検査やAI出力の役割と限界、個人情報等の取扱い"
+      ],
+      "task": "架空の相談または二つの公開資料から、候補、質問、条件・支援、次の確認を整理し、一文を修正する。",
+      "product": "レポートBの四項目に対応するメモ",
+      "check": "AIや検査が示した一つの候補を、そのまま本人の進路に決めてよいか。",
+      "answer": "判断の根拠と限界を確かめ、本人の関心・選択と他の経路を含めて考える。",
+      "listen": "検査を実際に受けさせず、模擬の説明案を教材として扱う。",
+      "reduce": "新たな適性検査の受検、AIサービスの登録、面接・模擬授業の提出を必須にしない。",
+      "report": "Bのまとめ 第15回後",
+      "bridge": "卒業後も学校資料・制度・情報源を更新しながら使う。",
+      "links": [
+        "career-guidance-exercises.md",
+        "ai-learning-plan.md"
+      ],
+      "lesson": 15,
+      "course": "Ⅱ",
+      "course_slug": "ii",
+      "status": "reviewed_design_media_not_rebuilt",
+      "existing_title": "生徒の選択肢を広げる進路指導",
+      "existing_slides": 36,
+      "existing_video_seconds": 1479.633333333333,
+      "existing_content_sha256": "575048eef7004f30d89d14e1571c3194ec2ccc8aad442506d3b54ae0ecca41a0",
+      "required_thinking_tasks": 1,
+      "weekly_submission": false,
+      "source_materials": {
+        "portal": [
+          "文科省 専門高校の紹介",
+          "https://www.mext.go.jp/sugoizo_senmonkoukou/"
+        ],
+        "careerbook": [
+          "文科省 中高キャリア教育の手引き 2023年",
+          "https://www.mext.go.jp/a_menu/shotou/career/detail/mext_00010.html"
+        ],
+        "schoolqa": [
+          "倉敷中央高校 中学生向けQ&A",
+          "https://www.kurachuo.okayama-c.ed.jp/2022new/05junior-high-school-students/junior-high-school-students.php"
+        ],
+        "saposute": [
+          "厚労省委託 サポステの支援内容",
+          "https://saposute-net.mhlw.go.jp/about.html"
+        ]
+      }
+    }
+  ]
+}

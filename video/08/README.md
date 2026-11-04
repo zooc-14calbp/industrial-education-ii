@@ -1,5 +1,7 @@
 # 工業科教育論Ⅱ 第8回 動画・演習
 
+[全体見直し後の第8回の設計](../../lessons/08/revision-plan.md)。以下は現在の動画初稿の利用案内です。
+
 家庭・看護・福祉などを学ぶ高校。2026年11月4日、検討用の動画初稿。
 
 [動画MP4](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/videos-exercise-first-20261104/industrial-education-ii-08.mp4)／[音声MP3](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/videos-exercise-first-20261104/industrial-education-ii-08-audio.mp3)／[動画用PPTX](slides.pptx)／[動画用PDF](slides.pdf)／[演習ガイドPDF](exercise-guide.pdf)／[演習の問い](exercise.md)／[字幕SRT](captions.srt)／[字幕VTT](captions.vtt)／[原稿](narration.txt)。[既出の学生用ガイド](../../lessons/08/student-guide.pdf)も使えます。
