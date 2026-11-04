@@ -53,3 +53,7 @@
 ## 課題・評価基準と今後の推敲
 
 [レポート課題と評価基準](assessment/README.md)／[学生向けPDF](assessment/assessment-guide.pdf)／[70分＋20分に向けた改訂方針](docs/revision-plan.md)。担当者用資料と学生用ガイドの編集元は別管理します。
+
+## 長時間の視聴に向けた配色
+
+白地を淡い灰緑に変更し、濃い青灰の本文と青緑の強調文字にそろえました。PPTX・PDFに反映しています。[共通配色と表示例](docs/visual-design.md)を参照してください。

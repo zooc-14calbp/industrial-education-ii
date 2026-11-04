@@ -1,0 +1,17 @@
+{
+  "profile": "long-view-v1",
+  "updated": "2026-11-04",
+  "palette": {
+    "background": "#F1F3EF",
+    "activity": "#E5ECE7",
+    "text": "#243746",
+    "accent": "#246A70",
+    "muted": "#52616A",
+    "tableHeader": "#344B53",
+    "tableAlternate": "#E2E8E5",
+    "rule": "#A9B8B1",
+    "lightText": "#F1F3EF",
+    "captionBackground": "#344B53",
+    "captionText": "#F1F3EF"
+  }
+}

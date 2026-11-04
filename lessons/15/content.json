@@ -699,5 +699,6 @@
     ]
   },
   "updated": "2026-11-04",
-  "video_recorded": false
+  "video_recorded": false,
+  "visual_design": "long-view-v1"
 }

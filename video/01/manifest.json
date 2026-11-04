@@ -14,23 +14,23 @@
   "original_content_minutes_planned": 70,
   "total_study_time_verified": false,
   "human_full_audio_review": false,
-  "download_page": "https://github.com/zooc-14calbp/industrial-education-ii/releases/tag/video-ii01-prototype-20261104",
+  "download_page": "https://github.com/zooc-14calbp/industrial-education-ii/releases/tag/video-ii01-comfort-20261104",
   "files": {
     "動画の案内.txt": {
-      "bytes": 3027,
-      "sha256": "30f88930dac7836b3b70d67408b1f84a3bd4f18ac99bc1d63d2b472f4f0de5b4"
+      "bytes": 3545,
+      "sha256": "2adc309fa96e0332ce77e63d6398b2f8cba7e86986832fed60d79d49eeef5b7f"
     },
     "工業科教育論Ⅱ_第01回_Nanami_試作.mp4": {
-      "bytes": 146250549,
-      "sha256": "42c91a44108e839c2395b0a1f911c8c09d64c036a33101d8dca3fea7499efb81"
+      "bytes": 137879909,
+      "sha256": "e0fa7bf5324529c788fb40c2b9ce0af9f93166bbd2fbe19a87d416aa9051f21a"
     },
     "第01回_動画対応スライド.pdf": {
-      "bytes": 503342,
-      "sha256": "4d289a5ac5d1965455ab84a1ead09b075def0eb8d373dd5a9a191055c02b3e03"
+      "bytes": 503889,
+      "sha256": "5a4c8b0e3c541c6be28fb9761d4f5799e685f8e6ae5a9288ec8f8c0c559c939d"
     },
     "第01回_動画対応スライド.pptx": {
-      "bytes": 155732,
-      "sha256": "a35fe759a40e88b1763a81ab0eaaa188c4f8f53ebdd07b02a220a9f742f0e1ae"
+      "bytes": 156813,
+      "sha256": "5dab0181c87cb0cbe00dbde48a47395ec3c5c4816caeba06c6e5c3cae94289ec"
     },
     "第01回_動画情報.json": {
       "bytes": 8887,
@@ -51,6 +51,42 @@
     "第01回_音声.mp3": {
       "bytes": 27447020,
       "sha256": "7ea22084b187b16f1137496957d8418be5988e0b692b20e111e1f0e781a774a2"
+    }
+  },
+  "visual_design": "long-view-v1",
+  "visual_design_updated": "2026-11-04",
+  "release_assets": {
+    "industrial-education-ii-01-nanami-comfort.mp4": {
+      "bytes": 137879909,
+      "sha256": "e0fa7bf5324529c788fb40c2b9ce0af9f93166bbd2fbe19a87d416aa9051f21a"
+    },
+    "industrial-education-ii-01-slides.pptx": {
+      "bytes": 156813,
+      "sha256": "5dab0181c87cb0cbe00dbde48a47395ec3c5c4816caeba06c6e5c3cae94289ec"
+    },
+    "industrial-education-ii-01-slides.pdf": {
+      "bytes": 503889,
+      "sha256": "5a4c8b0e3c541c6be28fb9761d4f5799e685f8e6ae5a9288ec8f8c0c559c939d"
+    },
+    "industrial-education-ii-01-audio.mp3": {
+      "bytes": 27447020,
+      "sha256": "7ea22084b187b16f1137496957d8418be5988e0b692b20e111e1f0e781a774a2"
+    },
+    "industrial-education-ii-01-captions.srt": {
+      "bytes": 44925,
+      "sha256": "55748b8d9daf57dbe04fd90ef08f455281c95d4b5f38fe05ca9abff0161e0d55"
+    },
+    "industrial-education-ii-01-captions.vtt": {
+      "bytes": 43303,
+      "sha256": "b91a79720414feb320226cca8646ece6130e5f6e5109b9e7b3684117f144a2b1"
+    },
+    "industrial-education-ii-01-narration.txt": {
+      "bytes": 32538,
+      "sha256": "01bf2bc63517640a27c3a000c64464c2a410fe9174efb2e0f077c02150f9c189"
+    },
+    "industrial-education-ii-01-guide.txt": {
+      "bytes": 3545,
+      "sha256": "2adc309fa96e0332ce77e63d6398b2f8cba7e86986832fed60d79d49eeef5b7f"
     }
   }
 }

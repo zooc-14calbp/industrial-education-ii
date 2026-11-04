@@ -29,7 +29,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 2,
@@ -56,7 +58,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 3,
@@ -83,7 +87,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 4,
@@ -110,7 +116,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 5,
@@ -137,7 +145,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 6,
@@ -164,7 +174,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 7,
@@ -191,7 +203,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 8,
@@ -218,7 +232,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 9,
@@ -245,7 +261,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 10,
@@ -272,7 +290,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 11,
@@ -299,7 +319,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 12,
@@ -326,7 +348,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 13,
@@ -353,7 +377,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 14,
@@ -380,7 +406,9 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   },
   {
     "lesson": 15,
@@ -407,6 +435,8 @@
       "thinking_minutes": 15,
       "break_minutes": 5,
       "verified": false
-    }
+    },
+    "visual_design": "long-view-v1",
+    "visual_design_updated": "2026-11-04"
   }
 ]

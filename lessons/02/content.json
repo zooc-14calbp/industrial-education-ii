@@ -750,5 +750,6 @@
   "status": "first-pass draft",
   "video_recorded": false,
   "content_minutes_planned": 70,
-  "activity_minutes_planned": 20
+  "activity_minutes_planned": 20,
+  "visual_design": "long-view-v1"
 }

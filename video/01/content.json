@@ -792,5 +792,6 @@
     "pitch": "+0Hz",
     "pause_mode": "learner_pauses",
     "runtime_verified": false
-  }
+  },
+  "visual_design": "long-view-v1"
 }
