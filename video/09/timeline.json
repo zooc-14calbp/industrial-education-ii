@@ -1,0 +1,374 @@
+{
+  "seconds": 1512.6333333333337,
+  "fps": 30,
+  "slides": 36,
+  "captions": 233,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 60,
+  "reading_minutes_planned": 10,
+  "combined_minutes_planned": 95.21055555555556,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "専門高校生のキャリアパスと学びの継続",
+      "start": 0,
+      "end": 54.56666666666667,
+      "seconds": 54.56666666666667,
+      "spoken_seconds": 53.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回でできるようになること",
+      "start": 54.56666666666667,
+      "end": 84.36666666666667,
+      "seconds": 29.8,
+      "spoken_seconds": 28.272,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "前回から、今回の問いへ",
+      "start": 84.36666666666667,
+      "end": 117.10000000000001,
+      "seconds": 32.733333333333334,
+      "spoken_seconds": 31.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "90分の進め方",
+      "start": 117.10000000000001,
+      "end": 165.16666666666669,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "まず考えるメモ",
+      "start": 165.16666666666669,
+      "end": 212.4666666666667,
+      "seconds": 47.3,
+      "spoken_seconds": 45.792,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "卒業時の集計は、その後の全経路ではない",
+      "start": 212.4666666666667,
+      "end": 249.73333333333335,
+      "seconds": 37.266666666666666,
+      "spoken_seconds": 35.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "全国の学科別進路を読む",
+      "start": 249.73333333333335,
+      "end": 299.0,
+      "seconds": 49.266666666666666,
+      "spoken_seconds": 47.736,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "見方を整理する",
+      "start": 299.0,
+      "end": 357.93333333333334,
+      "seconds": 58.93333333333333,
+      "spoken_seconds": 57.408,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "指定資料を、部分的に読む",
+      "start": 357.93333333333334,
+      "end": 403.9666666666667,
+      "seconds": 46.03333333333333,
+      "spoken_seconds": 44.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "読み取りの確認",
+      "start": 403.9666666666667,
+      "end": 466.40000000000003,
+      "seconds": 62.43333333333333,
+      "spoken_seconds": 60.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "確認クイズ ○か×か",
+      "start": 466.40000000000003,
+      "end": 506.6666666666667,
+      "seconds": 40.266666666666666,
+      "spoken_seconds": 38.736,
+      "pause_minutes": 5,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "クイズの解説",
+      "start": 506.6666666666667,
+      "end": 539.9666666666667,
+      "seconds": 33.3,
+      "spoken_seconds": 31.776,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "ここで小休止",
+      "start": 539.9666666666667,
+      "end": 559.3666666666667,
+      "seconds": 19.4,
+      "spoken_seconds": 17.88,
+      "pause_minutes": 2,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "合格の延べ人数と進学者は異なる",
+      "start": 559.3666666666667,
+      "end": 602.7,
+      "seconds": 43.333333333333336,
+      "spoken_seconds": 41.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "就職後にも、学習や相談が続く",
+      "start": 602.7,
+      "end": 644.7333333333333,
+      "seconds": 42.03333333333333,
+      "spoken_seconds": 40.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "資料や条件を、並べて確かめる",
+      "start": 644.7333333333333,
+      "end": 713.5,
+      "seconds": 68.76666666666667,
+      "spoken_seconds": 67.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "二つ目の指定箇所を読む",
+      "start": 713.5,
+      "end": 764.5333333333333,
+      "seconds": 51.03333333333333,
+      "spoken_seconds": 49.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "架空の相談で考える",
+      "start": 764.5333333333333,
+      "end": 802.0333333333333,
+      "seconds": 37.5,
+      "spoken_seconds": 35.976,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "説明の組み立て方",
+      "start": 802.0333333333333,
+      "end": 836.0333333333333,
+      "seconds": 34.0,
+      "spoken_seconds": 32.496,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "ここで小休止",
+      "start": 836.0333333333333,
+      "end": 855.6333333333333,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "考える順序を見える形にする",
+      "start": 855.6333333333333,
+      "end": 891.9666666666667,
+      "seconds": 36.333333333333336,
+      "spoken_seconds": 34.824,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "整理のメモ",
+      "start": 891.9666666666667,
+      "end": 941.2666666666667,
+      "seconds": 49.3,
+      "spoken_seconds": 47.784,
+      "pause_minutes": 7,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "メモの一例",
+      "start": 941.2666666666667,
+      "end": 973.2666666666667,
+      "seconds": 32.0,
+      "spoken_seconds": 30.48,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "レポートAへ、既出の比較メモを使う",
+      "start": 973.2666666666667,
+      "end": 1014.7333333333333,
+      "seconds": 41.46666666666667,
+      "spoken_seconds": 39.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "この回の情報の限界",
+      "start": 1014.7333333333333,
+      "end": 1068.1333333333334,
+      "seconds": 53.4,
+      "spoken_seconds": 51.888,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "今日のまとめ",
+      "start": 1068.1333333333334,
+      "end": 1097.1000000000001,
+      "seconds": 28.966666666666665,
+      "spoken_seconds": 27.456,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "レポートと、次の学び",
+      "start": 1097.1000000000001,
+      "end": 1137.8000000000002,
+      "seconds": 40.7,
+      "spoken_seconds": 39.192,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "参照先と、更新時の確認",
+      "start": 1137.8000000000002,
+      "end": 1167.5666666666668,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "演習の資料カード",
+      "start": 1167.5666666666668,
+      "end": 1218.5666666666668,
+      "seconds": 51.0,
+      "spoken_seconds": 49.488,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 30,
+      "title": "事実と未確認を分ける",
+      "start": 1218.5666666666668,
+      "end": 1260.1000000000001,
+      "seconds": 41.53333333333333,
+      "spoken_seconds": 40.032,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 31,
+      "title": "説明案を点検する",
+      "start": 1260.1000000000001,
+      "end": 1301.0333333333335,
+      "seconds": 40.93333333333333,
+      "spoken_seconds": 39.432,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 32,
+      "title": "説明を修正する",
+      "start": 1301.0333333333335,
+      "end": 1346.466666666667,
+      "seconds": 45.43333333333333,
+      "spoken_seconds": 43.92,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 33,
+      "title": "説明の一例",
+      "start": 1346.466666666667,
+      "end": 1393.6000000000004,
+      "seconds": 47.13333333333333,
+      "spoken_seconds": 45.624,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 34,
+      "title": "条件を変えて考える",
+      "start": 1393.6000000000004,
+      "end": 1436.2333333333338,
+      "seconds": 42.63333333333333,
+      "spoken_seconds": 41.112,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 35,
+      "title": "自分の説明を見直す",
+      "start": 1436.2333333333338,
+      "end": 1473.566666666667,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 36,
+      "title": "メモを次の学びへ",
+      "start": 1473.566666666667,
+      "end": 1512.6333333333337,
+      "seconds": 39.06666666666667,
+      "spoken_seconds": 37.536,
+      "pause_minutes": 0,
+      "exercise": true
+    }
+  ]
+}

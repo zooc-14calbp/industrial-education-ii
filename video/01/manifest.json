@@ -1,92 +1,85 @@
 {
-  "status": "prototype",
+  "status": "draft_review_pending",
   "created": "2026-11-04",
   "voice": "ja-JP-NanamiNeural",
   "voice_display_name": "Nanami (Natural)",
   "rate": "-5%",
-  "seconds": 2287.166666666667,
+  "pitch": "+0Hz",
+  "seconds": 2635.7000000000007,
   "fps": 30,
-  "slides": 32,
-  "captions": 348,
-  "pause_mode": "learner_pauses",
-  "activity_minutes": 20,
-  "reading_minutes_cued": 10,
-  "original_content_minutes_planned": 70,
-  "total_study_time_verified": false,
-  "human_full_audio_review": false,
-  "download_page": "https://github.com/zooc-14calbp/industrial-education-ii/releases/tag/video-ii01-comfort-20261104",
-  "files": {
-    "動画の案内.txt": {
-      "bytes": 3545,
-      "sha256": "2adc309fa96e0332ce77e63d6398b2f8cba7e86986832fed60d79d49eeef5b7f"
-    },
-    "工業科教育論Ⅱ_第01回_Nanami_試作.mp4": {
-      "bytes": 137879909,
-      "sha256": "e0fa7bf5324529c788fb40c2b9ce0af9f93166bbd2fbe19a87d416aa9051f21a"
-    },
-    "第01回_動画対応スライド.pdf": {
-      "bytes": 503889,
-      "sha256": "5a4c8b0e3c541c6be28fb9761d4f5799e685f8e6ae5a9288ec8f8c0c559c939d"
-    },
-    "第01回_動画対応スライド.pptx": {
-      "bytes": 156813,
-      "sha256": "5dab0181c87cb0cbe00dbde48a47395ec3c5c4816caeba06c6e5c3cae94289ec"
-    },
-    "第01回_動画情報.json": {
-      "bytes": 8887,
-      "sha256": "dbf688d50f3737dafd4744fb13d41f9539614fad83b72e5e3deae96abce5a917"
-    },
-    "第01回_字幕.srt": {
-      "bytes": 44925,
-      "sha256": "55748b8d9daf57dbe04fd90ef08f455281c95d4b5f38fe05ca9abff0161e0d55"
-    },
-    "第01回_字幕.vtt": {
-      "bytes": 43303,
-      "sha256": "b91a79720414feb320226cca8646ece6130e5f6e5109b9e7b3684117f144a2b1"
-    },
-    "第01回_読み上げ原稿.txt": {
-      "bytes": 32538,
-      "sha256": "01bf2bc63517640a27c3a000c64464c2a410fe9174efb2e0f077c02150f9c189"
-    },
-    "第01回_音声.mp3": {
-      "bytes": 27447020,
-      "sha256": "7ea22084b187b16f1137496957d8418be5988e0b692b20e111e1f0e781a774a2"
-    }
-  },
+  "slides": 40,
+  "captions": 401,
   "visual_design": "long-view-v1",
-  "visual_design_updated": "2026-11-04",
-  "release_assets": {
-    "industrial-education-ii-01-nanami-comfort.mp4": {
-      "bytes": 137879909,
-      "sha256": "e0fa7bf5324529c788fb40c2b9ce0af9f93166bbd2fbe19a87d416aa9051f21a"
+  "learning_design": "exercise-first-v1",
+  "total_study_time_verified": false,
+  "student_trial_completed": false,
+  "human_full_audio_review": false,
+  "timing": {
+    "course": "Ⅱ",
+    "lesson": 1,
+    "title": "中学校卒業後の多様な学びと進路",
+    "video_seconds": 2635.7,
+    "video_minutes": 43.93,
+    "reading_minutes_min": 5,
+    "reading_minutes_max": 10,
+    "existing_thinking_minutes": 15,
+    "break_minutes": 5,
+    "basic_exercise_minutes_min": 10,
+    "basic_exercise_minutes_max": 13,
+    "optional_exercise_minutes": 5,
+    "basic_total_minutes_min": 78.9,
+    "basic_total_minutes_max": 86.9,
+    "including_optional_minutes_max": 91.9,
+    "student_trial_completed": false,
+    "human_full_audio_review": false
+  },
+  "video_url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/videos-exercise-first-20261104/industrial-education-ii-01.mp4",
+  "audio_url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/videos-exercise-first-20261104/industrial-education-ii-01-audio.mp3",
+  "files": {
+    "slides.pptx": {
+      "bytes": 182864,
+      "sha256": "c0321221d453db3f8245dc769383a7242814cbf7bff77e3630eaa0885df981af"
     },
-    "industrial-education-ii-01-slides.pptx": {
-      "bytes": 156813,
-      "sha256": "5dab0181c87cb0cbe00dbde48a47395ec3c5c4816caeba06c6e5c3cae94289ec"
+    "slides.pdf": {
+      "bytes": 553244,
+      "sha256": "c1abef404083d99fed2379942fd473cdca08012610c2c8c83c7f1f6b5be20da2"
     },
-    "industrial-education-ii-01-slides.pdf": {
-      "bytes": 503889,
-      "sha256": "5a4c8b0e3c541c6be28fb9761d4f5799e685f8e6ae5a9288ec8f8c0c559c939d"
+    "exercise-guide.pdf": {
+      "bytes": 110932,
+      "sha256": "d1964a5c7a38e5a50b0444034c96ef4786db210331e4c8752f10d21ab4060505"
+    },
+    "exercise.md": {
+      "bytes": 2160,
+      "sha256": "19df3043e150d80f03bd9689468c5253f6cb07843eb6b8c8a8bdaf74ca379ed9"
+    },
+    "captions.srt": {
+      "bytes": 51753,
+      "sha256": "644fda8dbd9ff23f5992ed2324bb9b712cd92455d1dcf77a277e509f17b13c04"
+    },
+    "captions.vtt": {
+      "bytes": 49866,
+      "sha256": "f9f30a717cffe6a7cffb9522d2172bbc5fee9eb109a449b251cc18c08fbf1430"
+    },
+    "narration.txt": {
+      "bytes": 37446,
+      "sha256": "3ca931d11a568f5aca5b23b238daf46dc7d5943201d08603eb7667d5e8fba96b"
+    },
+    "content.json": {
+      "bytes": 80835,
+      "sha256": "aab8d881e7462973389647df9fb29e475af53db9190178421c0477a48b9c5a59"
+    },
+    "timeline.json": {
+      "bytes": 11058,
+      "sha256": "912c9ae1df1eb4abca4669937ba46edc0f42d4a2955ad8743c0c4098a1425b39"
+    },
+    "industrial-education-ii-01.mp4": {
+      "bytes": 158327503,
+      "sha256": "31522f3255621d28810e909eb6da091d38d13af89829ef56de65611e4a05fd9d"
     },
     "industrial-education-ii-01-audio.mp3": {
-      "bytes": 27447020,
-      "sha256": "7ea22084b187b16f1137496957d8418be5988e0b692b20e111e1f0e781a774a2"
-    },
-    "industrial-education-ii-01-captions.srt": {
-      "bytes": 44925,
-      "sha256": "55748b8d9daf57dbe04fd90ef08f455281c95d4b5f38fe05ca9abff0161e0d55"
-    },
-    "industrial-education-ii-01-captions.vtt": {
-      "bytes": 43303,
-      "sha256": "b91a79720414feb320226cca8646ece6130e5f6e5109b9e7b3684117f144a2b1"
-    },
-    "industrial-education-ii-01-narration.txt": {
-      "bytes": 32538,
-      "sha256": "01bf2bc63517640a27c3a000c64464c2a410fe9174efb2e0f077c02150f9c189"
-    },
-    "industrial-education-ii-01-guide.txt": {
-      "bytes": 3545,
-      "sha256": "2adc309fa96e0332ce77e63d6398b2f8cba7e86986832fed60d79d49eeef5b7f"
+      "bytes": 31629356,
+      "sha256": "69fb692b353741a4e84a2e886805ec12a7533fa312b6433bf15d84fffc827794"
     }
-  }
+  },
+  "timing_panel_revision": "exercise-first-v1"
 }

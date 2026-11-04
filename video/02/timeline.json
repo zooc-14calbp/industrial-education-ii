@@ -1,0 +1,414 @@
+{
+  "seconds": 1801.4333333333325,
+  "fps": 30,
+  "slides": 40,
+  "captions": 277,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 60,
+  "reading_minutes_planned": 10,
+  "combined_minutes_planned": 100.02388888888888,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "社会を支える産業と仕事の多様性",
+      "start": 0,
+      "end": 61.266666666666666,
+      "seconds": 61.266666666666666,
+      "spoken_seconds": 59.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "今日の到達目標",
+      "start": 61.266666666666666,
+      "end": 99.46666666666667,
+      "seconds": 38.2,
+      "spoken_seconds": 36.696,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "前回の食品の相談を広げる",
+      "start": 99.46666666666667,
+      "end": 138.43333333333334,
+      "seconds": 38.96666666666667,
+      "spoken_seconds": 37.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "中学校教師が仕事を知る意味",
+      "start": 138.43333333333334,
+      "end": 182.9,
+      "seconds": 44.46666666666667,
+      "spoken_seconds": 42.96,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "90分の進め方",
+      "start": 182.9,
+      "end": 230.96666666666667,
+      "seconds": 48.06666666666667,
+      "spoken_seconds": 46.56,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "最初のメモ",
+      "start": 230.96666666666667,
+      "end": 281.6,
+      "seconds": 50.63333333333333,
+      "spoken_seconds": 49.104,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "産業と職業は、異なる観点",
+      "start": 281.6,
+      "end": 344.5,
+      "seconds": 62.9,
+      "spoken_seconds": 61.392,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "同じ食品工場でも、担当する仕事は違う",
+      "start": 344.5,
+      "end": 372.3333333333333,
+      "seconds": 27.833333333333332,
+      "spoken_seconds": 26.328,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "似た仕事が、異なる産業にもある",
+      "start": 372.3333333333333,
+      "end": 433.76666666666665,
+      "seconds": 61.43333333333333,
+      "spoken_seconds": 59.928,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "第1次・第2次・第3次産業を整理する",
+      "start": 433.76666666666665,
+      "end": 500.66666666666663,
+      "seconds": 66.9,
+      "spoken_seconds": 65.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "工業高校と製造業は、同じ範囲ではない",
+      "start": 500.66666666666663,
+      "end": 549.5,
+      "seconds": 48.833333333333336,
+      "spoken_seconds": 47.304,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "分類名だけでは、働き方まで分からない",
+      "start": 549.5,
+      "end": 594.6333333333333,
+      "seconds": 45.13333333333333,
+      "spoken_seconds": 43.608,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "学科と仕事は、一対一に結び付かない",
+      "start": 594.6333333333333,
+      "end": 639.3666666666667,
+      "seconds": 44.733333333333334,
+      "spoken_seconds": 43.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "確認クイズ",
+      "start": 639.3666666666667,
+      "end": 682.9,
+      "seconds": 43.53333333333333,
+      "spoken_seconds": 42.024,
+      "pause_minutes": 5,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "クイズの解説",
+      "start": 682.9,
+      "end": 731.2333333333333,
+      "seconds": 48.333333333333336,
+      "spoken_seconds": 46.824,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "ここで小休止",
+      "start": 731.2333333333333,
+      "end": 750.6333333333333,
+      "seconds": 19.4,
+      "spoken_seconds": 17.88,
+      "pause_minutes": 2,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "パンが届くまでの流れを考える",
+      "start": 750.6333333333333,
+      "end": 783.2666666666667,
+      "seconds": 32.63333333333333,
+      "spoken_seconds": 31.104,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "流れの外側にも、支える仕事がある",
+      "start": 783.2666666666667,
+      "end": 846.4333333333333,
+      "seconds": 63.166666666666664,
+      "spoken_seconds": 61.656,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "品質と安全を確かめる仕事にも注目する",
+      "start": 846.4333333333333,
+      "end": 890.3666666666666,
+      "seconds": 43.93333333333333,
+      "spoken_seconds": 42.408,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "ネット通販も、画面の外の仕事に支えられる",
+      "start": 890.3666666666666,
+      "end": 919.8999999999999,
+      "seconds": 29.533333333333335,
+      "spoken_seconds": 28.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "読む資料1 食品技術者",
+      "start": 919.8999999999999,
+      "end": 970.2999999999998,
+      "seconds": 50.4,
+      "spoken_seconds": 48.888,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "読む資料2 システムエンジニア",
+      "start": 970.2999999999998,
+      "end": 1019.2333333333331,
+      "seconds": 48.93333333333333,
+      "spoken_seconds": 47.424,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "二つの職業を、仕事内容で比べる",
+      "start": 1019.2333333333331,
+      "end": 1088.7999999999997,
+      "seconds": 69.56666666666666,
+      "spoken_seconds": 68.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "ここで小休止",
+      "start": 1088.7999999999997,
+      "end": 1108.3999999999996,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 3,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "身近な題材を一つ選ぶ",
+      "start": 1108.3999999999996,
+      "end": 1145.733333333333,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "仕事を具体的にする三つの問い",
+      "start": 1145.733333333333,
+      "end": 1177.0666666666662,
+      "seconds": 31.333333333333332,
+      "spoken_seconds": 29.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "仕事内容から、高校の学びを調べる",
+      "start": 1177.0666666666662,
+      "end": 1244.3999999999994,
+      "seconds": 67.33333333333333,
+      "spoken_seconds": 65.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "仕事のつながりのメモ",
+      "start": 1244.3999999999994,
+      "end": 1311.6333333333328,
+      "seconds": 67.23333333333333,
+      "spoken_seconds": 65.712,
+      "pause_minutes": 7,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "メモの説明例",
+      "start": 1311.6333333333328,
+      "end": 1357.9999999999993,
+      "seconds": 46.36666666666667,
+      "spoken_seconds": 44.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "今日のまとめ",
+      "start": 1357.9999999999993,
+      "end": 1390.8666666666659,
+      "seconds": 32.86666666666667,
+      "spoken_seconds": 31.344,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "次回は、学校情報を具体的に読む",
+      "start": 1390.8666666666659,
+      "end": 1423.066666666666,
+      "seconds": 32.2,
+      "spoken_seconds": 30.672,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参照資料",
+      "start": 1423.066666666666,
+      "end": 1452.8333333333326,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "演習の資料カード",
+      "start": 1452.8333333333326,
+      "end": 1505.3999999999992,
+      "seconds": 52.56666666666667,
+      "spoken_seconds": 51.048,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 34,
+      "title": "事実と未確認を分ける",
+      "start": 1505.3999999999992,
+      "end": 1547.5333333333326,
+      "seconds": 42.13333333333333,
+      "spoken_seconds": 40.632,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 35,
+      "title": "説明案を点検する",
+      "start": 1547.5333333333326,
+      "end": 1589.1999999999994,
+      "seconds": 41.666666666666664,
+      "spoken_seconds": 40.152,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 36,
+      "title": "説明を修正する",
+      "start": 1589.1999999999994,
+      "end": 1635.266666666666,
+      "seconds": 46.06666666666667,
+      "spoken_seconds": 44.544,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 37,
+      "title": "説明の一例",
+      "start": 1635.266666666666,
+      "end": 1682.9999999999993,
+      "seconds": 47.733333333333334,
+      "spoken_seconds": 46.224,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 38,
+      "title": "条件を変えて考える",
+      "start": 1682.9999999999993,
+      "end": 1725.0333333333326,
+      "seconds": 42.03333333333333,
+      "spoken_seconds": 40.512,
+      "pause_minutes": 10,
+      "exercise": true
+    },
+    {
+      "slide": 39,
+      "title": "自分の説明を見直す",
+      "start": 1725.0333333333326,
+      "end": 1762.3666666666659,
+      "seconds": 37.333333333333336,
+      "spoken_seconds": 35.832,
+      "pause_minutes": 0,
+      "exercise": true
+    },
+    {
+      "slide": 40,
+      "title": "メモを次の学びへ",
+      "start": 1762.3666666666659,
+      "end": 1801.4333333333325,
+      "seconds": 39.06666666666667,
+      "spoken_seconds": 37.536,
+      "pause_minutes": 0,
+      "exercise": true
+    }
+  ]
+}
