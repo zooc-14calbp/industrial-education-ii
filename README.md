@@ -1,26 +1,41 @@
 # 工業科教育論Ⅱ
 
-中学校卒業後の多様な学びと仕事を理解し、生徒の進路選択と学びの継続を支える視点を育てるオンデマンド教材を設計します。工業に加え農業・森林・水産・商業等の専門高校、産業とキャリア、小中高の接続、就業体験、国内外比較、学習上の困難や学び直しを扱います。
+中学校卒業後の多様な学びと仕事を理解し、生徒の進路選択と学びの継続を支える視点を育てるオンデマンド教材です。普通科出身で専門高校に詳しくない教員養成課程の学生を想定しています。
 
-後期90分×15回を想定した検討段階です。[15回の構成と到達目標](docs/syllabus.md)に沿って制作しています。2026年11月4日に第1・2回の初稿を作成しました。第3～15回の教材と全回の動画は未制作です。大学の正式な公開講座や確定シラバスではありません。
+後期90分×15回を想定した検討用初稿です。2026年11月4日に全15回のスライド・学生用ガイド・担当者用手引きがそろいました。スライドは合計428枚です。全回の動画は未収録です。大学の正式な公開講座や確定シラバスではありません。
 
-## 作成済みの教材
+[15回の構成と到達目標](docs/syllabus.md)／[課題と評価ガイド PDF](assessment/assessment-guide.pdf)／[初稿の確認状況と次の検討事項](docs/first-pass-review.md)
 
-| 回 | 内容 | スライド PPTX | スライド PDF | 学生用ガイド PDF | 担当者用手引き |
+## 各回の教材
+
+| 回 | 内容 | スライド | スライド | 学生用ガイド | 担当者用手引き |
 |---|---|---|---|---|---|
-| 1 | 中学校卒業後の多様な学びと進路 | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [PDF](lessons/01/student-guide.pdf) | [DOCX](lessons/01/instructor-guide.docx) |
-| 2 | 社会を支える産業と仕事の多様性 | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [PDF](lessons/02/student-guide.pdf) | [DOCX](lessons/02/instructor-guide.docx) |
+| 1 | 中学校卒業後の多様な学びと進路（32枚） | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [PDF](lessons/01/student-guide.pdf) | [DOCX](lessons/01/instructor-guide.docx) |
+| 2 | 社会を支える産業と仕事の多様性（32枚） | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [PDF](lessons/02/student-guide.pdf) | [DOCX](lessons/02/instructor-guide.docx) |
+| 3 | 専門高校の種類と学校情報の読み方（28枚） | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [PDF](lessons/03/student-guide.pdf) | [DOCX](lessons/03/instructor-guide.docx) |
+| 4 | 工業高校の学びとキャリア（28枚） | [PPTX](lessons/04/slides.pptx) | [PDF](lessons/04/slides.pdf) | [PDF](lessons/04/student-guide.pdf) | [DOCX](lessons/04/instructor-guide.docx) |
+| 5 | 農業・食品・森林・環境を学ぶ高校（28枚） | [PPTX](lessons/05/slides.pptx) | [PDF](lessons/05/slides.pdf) | [PDF](lessons/05/student-guide.pdf) | [DOCX](lessons/05/instructor-guide.docx) |
+| 6 | 水産・海洋を学ぶ高校（28枚） | [PPTX](lessons/06/slides.pptx) | [PDF](lessons/06/slides.pdf) | [PDF](lessons/06/student-guide.pdf) | [DOCX](lessons/06/instructor-guide.docx) |
+| 7 | 商業・ビジネス・情報を学ぶ高校（28枚） | [PPTX](lessons/07/slides.pptx) | [PDF](lessons/07/slides.pdf) | [PDF](lessons/07/student-guide.pdf) | [DOCX](lessons/07/instructor-guide.docx) |
+| 8 | 家庭・看護・福祉などを学ぶ高校（28枚） | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [PDF](lessons/08/student-guide.pdf) | [DOCX](lessons/08/instructor-guide.docx) |
+| 9 | 専門高校生のキャリアパスと学びの継続（28枚） | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [PDF](lessons/09/student-guide.pdf) | [DOCX](lessons/09/instructor-guide.docx) |
+| 10 | 小中高の学びの接続と基礎学力（28枚） | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [PDF](lessons/10/student-guide.pdf) | [DOCX](lessons/10/instructor-guide.docx) |
+| 11 | 職場体験・インターンシップ・地域との連携（28枚） | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [PDF](lessons/11/student-guide.pdf) | [DOCX](lessons/11/instructor-guide.docx) |
+| 12 | 国内外の職業教育と学校・企業の役割（28枚） | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [PDF](lessons/12/student-guide.pdf) | [DOCX](lessons/12/instructor-guide.docx) |
+| 13 | 高校での学びの継続と多様な進路への支援（28枚） | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [PDF](lessons/13/student-guide.pdf) | [DOCX](lessons/13/instructor-guide.docx) |
+| 14 | 高校に進学しない若者と学び・就業への支援（28枚） | [PPTX](lessons/14/slides.pptx) | [PDF](lessons/14/slides.pdf) | [PDF](lessons/14/student-guide.pdf) | [DOCX](lessons/14/instructor-guide.docx) |
+| 15 | 生徒の選択肢を広げる進路指導（28枚） | [PPTX](lessons/15/slides.pptx) | [PDF](lessons/15/slides.pdf) | [PDF](lessons/15/student-guide.pdf) | [DOCX](lessons/15/instructor-guide.docx) |
 
-第1回は32枚です。学科と課程、専門高校・高専・高等専修学校の違いを整理し、食品やコンピューターへの関心をもつ中学生の架空の相談を扱います。公開資料の指定範囲と短いクイズ・メモを組み合わせます。本人の学校歴や経験の開示は求めません。
+## 授業と課題の設計
 
-第2回も32枚です。産業と職業の違い、パンと物品のネット通販を支える仕事のつながり、食品技術者と基盤システムの技術者の職務の読み取りを扱います。統計局の用語解説と厚生労働省job tagの紹介文を指定範囲で読み、仕事の内容から学校の学びを調べる問いへつなぎます。
+各回の解説・指定資料読解70分と、クイズ・メモ・小休止20分を目安に設計しています。実時間は収録・試用後に調整します。毎回のメモは提出せず、科目全体でレポート2本を提出する案です。Aは第9回後に学びの候補を比較（600～800字）、Bは第15回後に進路の選択肢と支援を組み立てます（800～1000字）。既出資料と学習メモで取り組め、字数は負担の目安です。締切・成績への比重・再提出は実施前に確定します。
 
-スライドはPPTXとPDF、学生用ガイドはPDFで配布します。学生用ガイドの編集元DOCXは制作・引継ぎ用に別保存します。各回のcontent.jsonに本文、解説メモ、出典と時間の設計を残します。教材はAIを利用して制作した初稿で、配信前に担当者による内容確認と試用を行います。
+全員が架空事例または公開情報の分析を理由の説明なしに選べます。本人や家族の学校歴・職業・経験・感情の開示は求めず、開示の有無を評価しません。第13回は中途退学・不登校・進路変更を含む共通回として、事前案内と複数の活動方法を用意しています。普通科・専門学科の双方について、学習と支援の条件を考えます。
 
-## 教材制作の方針
+課題別ルーブリックと架空の答案抜粋による採点例を用意しています。AIは答案中の根拠箇所を伴う評価案を作り、担当者が全答案を確認して最終判断する運用案です。実際の学生答案を使ったAI評価は未実施です。
 
-動画・スライド・補助資料を整備します。各回の教材70分と確認活動・小休止20分を目安に設計し、収録・試用後に実時間を確認します。科目全体の提出レポートは2本程度とし、担当交代に備え課題別ルーブリック、採点例、出典・更新方法を残します。AIの評価案を担当者が確認し最終判断する運用を検討しています。
+## 制作・引継ぎ
 
-前期の[工業科教育論Ⅰ](https://github.com/zooc-14calbp/industrial-education-i)は別リポジトリです。分野を学力や学校の優劣として説明せず、資料の事実と解釈・支援案を区別します。
+スライドはPPTXとPDF、学生用ガイドはPDFで配布します。学生用ガイドの編集元DOCXは別保存します。各回のcontent.jsonに本文、解説メモ、出典と時間の設計を残しています。教材はAIを利用して制作した初稿です。担当者による内容確認と試用を経て配信します。写真・動画の追加や詳しい収録原稿は次の検討段階です。
 
-[利用と出典](RIGHTS.md)を確認してください。未公表研究、第三者資料本体、学生の答案、個人情報は収録しません。
+前期の[工業科教育論Ⅰ](https://github.com/zooc-14calbp/industrial-education-i)は別リポジトリです。[利用と出典](RIGHTS.md)を確認してください。未公表研究、第三者資料本体、実際の学生答案、個人情報は収録しません。
