@@ -21,8 +21,8 @@
   },
   {
     "lesson": 2,
-    "status": "planned",
-    "slides": null,
+    "status": "draft",
+    "slides": 32,
     "video_recorded": false,
     "content_minutes_planned": 70,
     "activity_minutes_planned": 20,
