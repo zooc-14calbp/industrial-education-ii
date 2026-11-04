@@ -13,9 +13,6 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "video_created": true,
@@ -25,7 +22,14 @@
     "video_guide": "video/01/README.md",
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "prototype_cued_total_below_90"
+    "timing_status": "prototype_cued_total_below_90",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 2,
@@ -41,14 +45,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 3,
@@ -64,14 +72,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 4,
@@ -87,14 +99,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 5,
@@ -110,14 +126,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 6,
@@ -133,14 +153,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 7,
@@ -156,14 +180,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 8,
@@ -179,14 +207,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 9,
@@ -202,14 +234,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 10,
@@ -225,14 +261,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 11,
@@ -248,14 +288,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 12,
@@ -271,14 +315,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 13,
@@ -294,14 +342,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 14,
@@ -317,14 +369,18 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   },
   {
     "lesson": 15,
@@ -340,13 +396,17 @@
       ],
       "student_guide": [
         "pdf"
-      ],
-      "instructor_guide": [
-        "docx"
       ]
     },
     "total_study_time_verified": false,
     "timing_audit_date": "2026-11-04",
-    "timing_status": "planned_not_measured"
+    "timing_status": "planned_not_measured",
+    "instructor_guide_distribution": "staff_only",
+    "revision_target": {
+      "content_minutes": 70,
+      "thinking_minutes": 15,
+      "break_minutes": 5,
+      "verified": false
+    }
   }
 ]

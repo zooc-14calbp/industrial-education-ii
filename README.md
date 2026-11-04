@@ -8,23 +8,23 @@
 
 ## 各回の教材
 
-| 回 | 内容 | スライド | スライド | 学生用ガイド | 担当者用手引き |
-|---|---|---|---|---|---|
-| 1 | 中学校卒業後の多様な学びと進路（32枚） | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [PDF](lessons/01/student-guide.pdf) | [DOCX](lessons/01/instructor-guide.docx) |
-| 2 | 社会を支える産業と仕事の多様性（32枚） | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [PDF](lessons/02/student-guide.pdf) | [DOCX](lessons/02/instructor-guide.docx) |
-| 3 | 専門高校の種類と学校情報の読み方（28枚） | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [PDF](lessons/03/student-guide.pdf) | [DOCX](lessons/03/instructor-guide.docx) |
-| 4 | 工業高校の学びとキャリア（28枚） | [PPTX](lessons/04/slides.pptx) | [PDF](lessons/04/slides.pdf) | [PDF](lessons/04/student-guide.pdf) | [DOCX](lessons/04/instructor-guide.docx) |
-| 5 | 農業・食品・森林・環境を学ぶ高校（28枚） | [PPTX](lessons/05/slides.pptx) | [PDF](lessons/05/slides.pdf) | [PDF](lessons/05/student-guide.pdf) | [DOCX](lessons/05/instructor-guide.docx) |
-| 6 | 水産・海洋を学ぶ高校（28枚） | [PPTX](lessons/06/slides.pptx) | [PDF](lessons/06/slides.pdf) | [PDF](lessons/06/student-guide.pdf) | [DOCX](lessons/06/instructor-guide.docx) |
-| 7 | 商業・ビジネス・情報を学ぶ高校（28枚） | [PPTX](lessons/07/slides.pptx) | [PDF](lessons/07/slides.pdf) | [PDF](lessons/07/student-guide.pdf) | [DOCX](lessons/07/instructor-guide.docx) |
-| 8 | 家庭・看護・福祉などを学ぶ高校（28枚） | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [PDF](lessons/08/student-guide.pdf) | [DOCX](lessons/08/instructor-guide.docx) |
-| 9 | 専門高校生のキャリアパスと学びの継続（28枚） | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [PDF](lessons/09/student-guide.pdf) | [DOCX](lessons/09/instructor-guide.docx) |
-| 10 | 小中高の学びの接続と基礎学力（28枚） | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [PDF](lessons/10/student-guide.pdf) | [DOCX](lessons/10/instructor-guide.docx) |
-| 11 | 職場体験・インターンシップ・地域との連携（28枚） | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [PDF](lessons/11/student-guide.pdf) | [DOCX](lessons/11/instructor-guide.docx) |
-| 12 | 国内外の職業教育と学校・企業の役割（28枚） | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [PDF](lessons/12/student-guide.pdf) | [DOCX](lessons/12/instructor-guide.docx) |
-| 13 | 高校での学びの継続と多様な進路への支援（28枚） | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [PDF](lessons/13/student-guide.pdf) | [DOCX](lessons/13/instructor-guide.docx) |
-| 14 | 高校に進学しない若者と学び・就業への支援（28枚） | [PPTX](lessons/14/slides.pptx) | [PDF](lessons/14/slides.pdf) | [PDF](lessons/14/student-guide.pdf) | [DOCX](lessons/14/instructor-guide.docx) |
-| 15 | 生徒の選択肢を広げる進路指導（28枚） | [PPTX](lessons/15/slides.pptx) | [PDF](lessons/15/slides.pdf) | [PDF](lessons/15/student-guide.pdf) | [DOCX](lessons/15/instructor-guide.docx) |
+| 回 | 内容 | スライド | スライド | 学生用ガイド |
+|---|---|---|---|---|
+| 1 | 中学校卒業後の多様な学びと進路（32枚） | [PPTX](lessons/01/slides.pptx) | [PDF](lessons/01/slides.pdf) | [PDF](lessons/01/student-guide.pdf) |
+| 2 | 社会を支える産業と仕事の多様性（32枚） | [PPTX](lessons/02/slides.pptx) | [PDF](lessons/02/slides.pdf) | [PDF](lessons/02/student-guide.pdf) |
+| 3 | 専門高校の種類と学校情報の読み方（28枚） | [PPTX](lessons/03/slides.pptx) | [PDF](lessons/03/slides.pdf) | [PDF](lessons/03/student-guide.pdf) |
+| 4 | 工業高校の学びとキャリア（28枚） | [PPTX](lessons/04/slides.pptx) | [PDF](lessons/04/slides.pdf) | [PDF](lessons/04/student-guide.pdf) |
+| 5 | 農業・食品・森林・環境を学ぶ高校（28枚） | [PPTX](lessons/05/slides.pptx) | [PDF](lessons/05/slides.pdf) | [PDF](lessons/05/student-guide.pdf) |
+| 6 | 水産・海洋を学ぶ高校（28枚） | [PPTX](lessons/06/slides.pptx) | [PDF](lessons/06/slides.pdf) | [PDF](lessons/06/student-guide.pdf) |
+| 7 | 商業・ビジネス・情報を学ぶ高校（28枚） | [PPTX](lessons/07/slides.pptx) | [PDF](lessons/07/slides.pdf) | [PDF](lessons/07/student-guide.pdf) |
+| 8 | 家庭・看護・福祉などを学ぶ高校（28枚） | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [PDF](lessons/08/student-guide.pdf) |
+| 9 | 専門高校生のキャリアパスと学びの継続（28枚） | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [PDF](lessons/09/student-guide.pdf) |
+| 10 | 小中高の学びの接続と基礎学力（28枚） | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [PDF](lessons/10/student-guide.pdf) |
+| 11 | 職場体験・インターンシップ・地域との連携（28枚） | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [PDF](lessons/11/student-guide.pdf) |
+| 12 | 国内外の職業教育と学校・企業の役割（28枚） | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [PDF](lessons/12/student-guide.pdf) |
+| 13 | 高校での学びの継続と多様な進路への支援（28枚） | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [PDF](lessons/13/student-guide.pdf) |
+| 14 | 高校に進学しない若者と学び・就業への支援（28枚） | [PPTX](lessons/14/slides.pptx) | [PDF](lessons/14/slides.pdf) | [PDF](lessons/14/student-guide.pdf) |
+| 15 | 生徒の選択肢を広げる進路指導（28枚） | [PPTX](lessons/15/slides.pptx) | [PDF](lessons/15/slides.pdf) | [PDF](lessons/15/student-guide.pdf) |
 
 ## 授業と課題の設計
 
@@ -32,7 +32,7 @@
 
 全員が架空事例または公開情報の分析を理由の説明なしに選べます。本人や家族の学校歴・職業・経験・感情の開示は求めず、開示の有無を評価しません。第13回は中途退学・不登校・進路変更を含む共通回として、事前案内と複数の活動方法を用意しています。普通科・専門学科の双方について、学習と支援の条件を考えます。
 
-課題別ルーブリックと架空の答案抜粋による採点例を用意しています。AIは答案中の根拠箇所を伴う評価案を作り、担当者が全答案を確認して最終判断する運用案です。実際の学生答案を使ったAI評価は未実施です。
+成績は提出レポート2本により評価します。課題別のルーブリックは、[課題文と評価基準](assessment/README.md)で確認できます。
 
 ## 制作・引継ぎ
 
@@ -49,3 +49,7 @@
 ## 全30回の授業時間点検
 
 [Ⅰ・Ⅱの時間点検（2026年11月4日）](docs/duration-audit.md)。全30回で70＋20分の計画値は一致するが、90分程度の学習時間の確認は未完了。Ⅱ第1回の動画試作と案内を積算すると約68分で、約22分の補充が必要。残る29回は全文原稿・音声・動画がなく実時間未測定であり、計画値を構築済み時間とは扱わない。
+
+## 課題・評価基準と今後の推敲
+
+[レポート課題と評価基準](assessment/README.md)／[学生向けPDF](assessment/assessment-guide.pdf)／[70分＋20分に向けた改訂方針](docs/revision-plan.md)。担当者用資料と学生用ガイドの編集元は別管理します。
