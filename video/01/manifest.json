@@ -1,0 +1,56 @@
+{
+  "status": "prototype",
+  "created": "2026-11-04",
+  "voice": "ja-JP-NanamiNeural",
+  "voice_display_name": "Nanami (Natural)",
+  "rate": "-5%",
+  "seconds": 2287.166666666667,
+  "fps": 30,
+  "slides": 32,
+  "captions": 348,
+  "pause_mode": "learner_pauses",
+  "activity_minutes": 20,
+  "reading_minutes_cued": 10,
+  "original_content_minutes_planned": 70,
+  "total_study_time_verified": false,
+  "human_full_audio_review": false,
+  "download_page": "https://github.com/zooc-14calbp/industrial-education-ii/releases/tag/video-ii01-prototype-20261104",
+  "files": {
+    "動画の案内.txt": {
+      "bytes": 3027,
+      "sha256": "30f88930dac7836b3b70d67408b1f84a3bd4f18ac99bc1d63d2b472f4f0de5b4"
+    },
+    "工業科教育論Ⅱ_第01回_Nanami_試作.mp4": {
+      "bytes": 146250549,
+      "sha256": "42c91a44108e839c2395b0a1f911c8c09d64c036a33101d8dca3fea7499efb81"
+    },
+    "第01回_動画対応スライド.pdf": {
+      "bytes": 503342,
+      "sha256": "4d289a5ac5d1965455ab84a1ead09b075def0eb8d373dd5a9a191055c02b3e03"
+    },
+    "第01回_動画対応スライド.pptx": {
+      "bytes": 155732,
+      "sha256": "a35fe759a40e88b1763a81ab0eaaa188c4f8f53ebdd07b02a220a9f742f0e1ae"
+    },
+    "第01回_動画情報.json": {
+      "bytes": 8887,
+      "sha256": "dbf688d50f3737dafd4744fb13d41f9539614fad83b72e5e3deae96abce5a917"
+    },
+    "第01回_字幕.srt": {
+      "bytes": 44925,
+      "sha256": "55748b8d9daf57dbe04fd90ef08f455281c95d4b5f38fe05ca9abff0161e0d55"
+    },
+    "第01回_字幕.vtt": {
+      "bytes": 43303,
+      "sha256": "b91a79720414feb320226cca8646ece6130e5f6e5109b9e7b3684117f144a2b1"
+    },
+    "第01回_読み上げ原稿.txt": {
+      "bytes": 32538,
+      "sha256": "01bf2bc63517640a27c3a000c64464c2a410fe9174efb2e0f077c02150f9c189"
+    },
+    "第01回_音声.mp3": {
+      "bytes": 27447020,
+      "sha256": "7ea22084b187b16f1137496957d8418be5988e0b692b20e111e1f0e781a774a2"
+    }
+  }
+}

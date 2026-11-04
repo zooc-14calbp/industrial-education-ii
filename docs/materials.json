@@ -17,7 +17,12 @@
       "instructor_guide": [
         "docx"
       ]
-    }
+    },
+    "video_created": true,
+    "video_status": "prototype",
+    "video_seconds": 2287.166666666667,
+    "video_voice": "ja-JP-NanamiNeural",
+    "video_guide": "video/01/README.md"
   },
   {
     "lesson": 2,
