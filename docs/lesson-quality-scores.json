@@ -394,22 +394,40 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         1
       ],
       "before_total": 35,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "不登校・中退・転学の到達目標を本文が説明していない",
-      "remaining": "調査の定義を添えた集計例を普通科・専門学科共通の条件で追加",
-      "evidence_heading": "不登校と学籍の変化を分けて理解する",
+      "remaining": "改訂表を配信媒体へ反映し、人物を設定しない演習と案内の分かりやすさを試読",
+      "evidence_heading": "統計では分母と重複を確かめる",
       "source_lessons": [
         13
       ],
       "before_sha256": "af1b7b7093e3db117e93fb174b907d858e38ba9d72bacd7a5904123e4f076d6d",
-      "after_sha256": "12f57dfec48c4f0ee78cd62a5ea567d195aa27cffb21a3b0170e9486138766f9",
-      "chars_added": 633,
-      "media_updated": false
+      "after_sha256": "46c01b0dd6667090f9959d8cfc2f4a4a35ed06366af08e7850dfd4868c3e31e2",
+      "chars_added": 2197,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "重点推敲2",
+          "rubric_version": "1",
+          "previous_score": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "previous_total": 55,
+          "previous_sha256": "12f57dfec48c4f0ee78cd62a5ea567d195aa27cffb21a3b0170e9486138766f9",
+          "change": "長期欠席の定義と対象課程、割合の分母、支援開始との区別を原資料と照合",
+          "checked_scope": "増補本文・重点一次資料・計算・リンク。既存媒体は今回未再点検。"
+        }
+      ]
     },
     {
       "id": "ii14",
@@ -425,22 +443,40 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         1
       ],
       "before_total": 40,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "学び直しと就業相談を問う演習に解答例が対応していない",
-      "remaining": "相談先の対象年齢・在籍条件・最新連絡方法を配信前に照合",
-      "evidence_heading": "学ぶ経路と働くための相談",
+      "remaining": "地域別の募集案内・相談方法を配信時に更新し、本文を各媒体へ反映",
+      "evidence_heading": "相談の目的から窓口を選ぶ",
       "source_lessons": [
         14
       ],
       "before_sha256": "f6f152ac622da4e393ec195966f81b8168a1784814078f975b5ec7067323b7ca",
-      "after_sha256": "a151130eef29d64d1d2a5f5ce75d6f0ff640db609ec47f24c48f25f394ceb8b6",
-      "chars_added": 792,
-      "media_updated": false
+      "after_sha256": "f6e8ca578797815a657c30d4c567f1cff4128f1401628a0fb83b6e3cb5f03324",
+      "chars_added": 2508,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "重点推敲2",
+          "rubric_version": "1",
+          "previous_score": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "previous_total": 55,
+          "previous_sha256": "a151130eef29d64d1d2a5f5ce75d6f0ff640db609ec47f24c48f25f394ceb8b6",
+          "change": "高卒認定の年齢・学歴・単位認定と、相談先の対象・連絡方法を公式案内と照合",
+          "checked_scope": "増補本文・重点一次資料・計算・リンク。既存媒体は今回未再点検。"
+        }
+      ]
     },
     {
       "id": "ii15",
