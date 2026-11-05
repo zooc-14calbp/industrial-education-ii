@@ -1,5 +1,7 @@
 # 工業科教育論Ⅱ
 
+**最新の改稿：** Ⅰ第8・10回、Ⅱ第10回の説明・演習と増補スライドを更新しました。[改善内容と残件](docs/revision-6-evidence-and-learning.md)。
+
 **教育課程表・各国制度図の説明を改稿しました。** Ⅰ第7回、Ⅱ第12回の本文と増補PPTX・PDFを更新。[照合した資料と改稿内容](docs/revision-5-curriculum-international.md)。
 
 **法令・免許・資格の説明を改稿しました。** Ⅰ第5・14回、Ⅱ第2・6回の本文と増補PPTX・PDFを更新。[照合した資料と改稿内容](docs/revision-4-legal-qualifications.md)。

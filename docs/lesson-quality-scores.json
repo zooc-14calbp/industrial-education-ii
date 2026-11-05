@@ -617,21 +617,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "学校と受入先の役割、体験できない場合の学び方が薄い",
-      "remaining": "活動範囲・連絡・代替学習を一枚の運営例に整理",
+      "remaining": "既存本編へ反映。元の総合調査の抽出・回答区分・分析全体の確認と、体験計画の担当者点検。",
       "evidence_heading": "職場体験で学ぶことと役割分担",
       "source_lessons": [
         11
       ],
       "before_sha256": "d223111a8a1d2bbe813eb227cb0b31ef01304ac5e53eb7586ca4e929bcc1c423",
-      "after_sha256": "4e501b60b10df3d46b15adc196c11fe8976b29c2531bc73409611af3f6dfc8e1",
-      "chars_added": 585,
+      "after_sha256": "dc4b4c6519a1bcfd551e2ce2673d5fc0a2cce81ed883586793b50d6a62e0886e",
+      "chars_added": 1987,
       "media_updated": false,
       "revision_history": [
         {
@@ -655,6 +655,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "84e4bc55244db98678df7492020d86783a66ea7095e17158fab6179dcbddd5ff"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "科目・研究・体験の根拠と具体例",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "NIER原図を画像と本文で照合。発行年・調査年、比較群、33.0%と26.6%、抜粋注記を確認。",
+          "before_body_sha256": "4e501b60b10df3d46b15adc196c11fe8976b29c2531bc73409611af3f6dfc8e1"
         }
       ],
       "media_status": {
