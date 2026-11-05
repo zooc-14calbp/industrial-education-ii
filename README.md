@@ -2,6 +2,8 @@
 
 中学校卒業後の多様な学びと仕事を理解し、生徒の進路選択と学びの継続を支える視点を育てるオンデマンド教材です。普通科出身で専門高校に詳しくない教員養成課程の学生を想定しています。
 
+**2026年11月5日更新：** 全体見直しに基づく[動画・スライドの差替状況](docs/media-replacement-status.md)。Ⅰ第3・11回、Ⅱ第10回を差替済みで、他の回は順次改訂します。
+
 後期90分×15回を想定した検討用初稿です。2026年11月4日に全15回のスライド・学生用ガイド・担当者用手引きがそろいました。現行の動画・演習版スライドは合計548枚です。全15回のNanami音声による動画初稿と演習ガイドを追加しました。大学の正式な公開講座や確定シラバスではありません。
 
 [15回の構成と到達目標](docs/syllabus.md)／[課題と評価ガイド PDF](assessment/assessment-guide.pdf)／[初稿の確認状況と次の検討事項](docs/first-pass-review.md)
@@ -21,7 +23,7 @@
 | 7 | 商業・ビジネス・情報を学ぶ高校（36枚） | [PPTX](lessons/07/slides.pptx) | [PDF](lessons/07/slides.pdf) | [概要PDF](lessons/07/student-guide.pdf)・[演習PDF](lessons/07/exercise-guide.pdf) |
 | 8 | 家庭・看護・福祉などを学ぶ高校（36枚） | [PPTX](lessons/08/slides.pptx) | [PDF](lessons/08/slides.pdf) | [概要PDF](lessons/08/student-guide.pdf)・[演習PDF](lessons/08/exercise-guide.pdf) |
 | 9 | 専門高校生のキャリアパスと学びの継続（36枚） | [PPTX](lessons/09/slides.pptx) | [PDF](lessons/09/slides.pdf) | [概要PDF](lessons/09/student-guide.pdf)・[演習PDF](lessons/09/exercise-guide.pdf) |
-| 10 | 小中高の学びの接続と基礎学力（36枚） | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [概要PDF](lessons/10/student-guide.pdf)・[演習PDF](lessons/10/exercise-guide.pdf) |
+| 10 | 中学校の情報活用と専門高校の初期学習（11/5差替） | [PPTX](lessons/10/slides.pptx) | [PDF](lessons/10/slides.pdf) | [概要PDF](lessons/10/student-guide.pdf)・[演習PDF](lessons/10/exercise-guide.pdf) |
 | 11 | 職場体験・インターンシップ・地域との連携（36枚） | [PPTX](lessons/11/slides.pptx) | [PDF](lessons/11/slides.pdf) | [概要PDF](lessons/11/student-guide.pdf)・[演習PDF](lessons/11/exercise-guide.pdf) |
 | 12 | 国内外の職業教育と学校・企業の役割（36枚） | [PPTX](lessons/12/slides.pptx) | [PDF](lessons/12/slides.pdf) | [概要PDF](lessons/12/student-guide.pdf)・[演習PDF](lessons/12/exercise-guide.pdf) |
 | 13 | 高校での学びの継続と多様な進路への支援（36枚） | [PPTX](lessons/13/slides.pptx) | [PDF](lessons/13/slides.pdf) | [概要PDF](lessons/13/student-guide.pdf)・[演習PDF](lessons/13/exercise-guide.pdf) |

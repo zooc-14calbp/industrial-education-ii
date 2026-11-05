@@ -3,7 +3,7 @@
   "review_date": "2026-11-04",
   "course": "Ⅱ",
   "aim": "中学校教師として社会・産業・仕事と専門高校の学びを理解し、生徒の探索・選択・学びの継続を支える情報提供と相談を考える。",
-  "status": "design_review_complete_media_revision_pending",
+  "status": "design_review_complete_media_partially_rebuilt",
   "lesson_count": 15,
   "minutes_target": 90,
   "includes": [
@@ -504,7 +504,7 @@
       "lesson": 10,
       "course": "Ⅱ",
       "course_slug": "ii",
-      "status": "reviewed_design_media_not_rebuilt",
+      "status": "media_rebuilt_instructor_review_pending",
       "existing_title": "小中高の学びの接続と基礎学力",
       "existing_slides": 36,
       "existing_video_seconds": 1486.0999999999997,
@@ -528,7 +528,11 @@
           "文科省 中高キャリア教育の手引き 2023年",
           "https://www.mext.go.jp/a_menu/shotou/career/detail/mext_00010.html"
         ]
-      }
+      },
+      "media_revision": "curriculum-replacement-20261105-batch1",
+      "current_video_seconds": 1167.367,
+      "current_slides": 27,
+      "current_content_sha256": "8ef667c0da22ceea73e76e71e82d354e98d24f47ff64db5865ed762cd6ee901b"
     },
     {
       "title": "職場体験とインターンシップと地域連携",
@@ -782,5 +786,6 @@
         ]
       }
     }
-  ]
+  ],
+  "media_revision_date": "2026-11-05"
 }

@@ -389,10 +389,10 @@
   {
     "lesson": 10,
     "status": "draft",
-    "slides": 36,
-    "video_recorded": false,
-    "content_minutes_planned": 70,
-    "activity_minutes_planned": 20,
+    "slides": 27,
+    "video_recorded": true,
+    "content_minutes_planned": null,
+    "activity_minutes_planned": null,
     "formats": {
       "slides": [
         "pptx",
@@ -415,19 +415,31 @@
       "verified": false
     },
     "video_created": true,
-    "video_status": "draft_review_pending",
-    "video_seconds": 1486.1,
+    "video_status": "revised_draft_review_pending",
+    "video_seconds": 1167.367,
     "video_voice": "ja-JP-NanamiNeural",
     "video_guide": "video/10/README.md",
-    "video_slides": 36,
-    "learning_design": "exercise-first-v1",
+    "video_slides": 27,
+    "learning_design": "one_central_thinking_task",
     "student_trial_completed": false,
     "human_full_audio_review": false,
     "initial_slides": 28,
     "planned_title": "中学校の情報活用と専門高校の初期学習",
     "curriculum_revision": "overall-review-20261104",
     "curriculum_plan": "lessons/10/revision-plan.md",
-    "planned_content_in_current_media": false
+    "planned_content_in_current_media": true,
+    "media_revision": "curriculum-replacement-20261105-batch1",
+    "reading_minutes_range": [
+      15,
+      20
+    ],
+    "central_thinking_minutes_range": [
+      35,
+      45
+    ],
+    "quiz_minutes_planned": 5,
+    "break_minutes_planned": 5,
+    "pdf_exported": "2026-11-05"
   },
   {
     "lesson": 11,
