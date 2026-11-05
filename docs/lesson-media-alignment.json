@@ -3,8 +3,8 @@
   "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
-    "slides.pptx": "3c5895cd2f7e61682ae944e457be4ccb3d33086582bbb0b619acbf9486181326",
-    "slides.pdf": "d6be630b064be3afd1fcf8fbfe5c6edcda99e551868fc67f38055f4afa0b7b99"
+    "slides.pptx": "98be20e994977b9ee6f9f62ea384ff8262a743b2d2ce1af62fd0d7217d3615e4",
+    "slides.pdf": "bdfbf0b9454804e5560b9c23ead533b813ce1eb063b9b5af68f3dfcaed320ab1"
   },
   "verification": {
     "pages_per_course": 61,
@@ -13,7 +13,7 @@
     "activity_matches_body": true,
     "figures_preserved": true,
     "pdf_bookmarks": 15,
-    "visual_review": "全ページ。改訂箇所は再確認。",
+    "visual_review": "前段階で全頁確認。第4段階の改訂16頁を再確認し、その他の頁は本文抽出の一致を確認。",
     "screen_reader_trial": "未実施"
   },
   "lessons": [
@@ -42,8 +42,8 @@
     {
       "number": 2,
       "body": "reorganized/20261105/expanded/02.md",
-      "body_sha256": "e06456a8d9e25daa82f66a658714da32eb5809828b00b4baa16e18e35578e144",
-      "notes_body_sha256_lf": "258077fe420ef65eb24609903d7e465d8a345cea3102c0d2bbfc39c84a59a68c",
+      "body_sha256": "afc2cfb916f16b828e0c187f3705ea8e5602516db4481d1a33da7135076f4b17",
+      "notes_body_sha256_lf": "e34e9c6a071a34358164b0c46ce17d96834e48be83762aff6b53be71054befd7",
       "pages": [
         6,
         7,
@@ -58,7 +58,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "revision": "法令・免許・資格の重点改稿"
     },
     {
       "number": 3,
@@ -127,8 +128,8 @@
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
-      "body_sha256": "bc7945996015bcddce2540d333f9bb6451503067f2ed83632c8e858da900c92e",
-      "notes_body_sha256_lf": "18000a3c7da6c2bb415e834e1e0a7b14df0bb408fb535e020cea26c855b24ab1",
+      "body_sha256": "796a4f597830842956421b525bd72fbd560e778e9c51991c9da5b65d0d5580f6",
+      "notes_body_sha256_lf": "47a700c58c495403ef54c43564c53baa0e0d13c9c419e8cabab5bd858517e6db",
       "pages": [
         22,
         23,
@@ -143,7 +144,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "revision": "法令・免許・資格の重点改稿"
     },
     {
       "number": 7,
