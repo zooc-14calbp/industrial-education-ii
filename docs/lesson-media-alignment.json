@@ -3,8 +3,8 @@
   "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
-    "slides.pptx": "98be20e994977b9ee6f9f62ea384ff8262a743b2d2ce1af62fd0d7217d3615e4",
-    "slides.pdf": "bdfbf0b9454804e5560b9c23ead533b813ce1eb063b9b5af68f3dfcaed320ab1"
+    "slides.pptx": "96513ea3b1268d8437ef6f9b4d801af40f7262de4ad8f1937e39064b2893ab90",
+    "slides.pdf": "34eb1853434187d4701e80df0e6ec95a5f5c67761ebbe452a0160460bd3b5e6b"
   },
   "verification": {
     "pages_per_course": 61,
@@ -13,7 +13,7 @@
     "activity_matches_body": true,
     "figures_preserved": true,
     "pdf_bookmarks": 15,
-    "visual_review": "前段階で全頁確認。第4段階の改訂16頁を再確認し、その他の頁は本文抽出の一致を確認。",
+    "visual_review": "前段階で全頁確認。第5段階の改訂8頁を再確認し、その他の頁は本文抽出の一致を確認。",
     "screen_reader_trial": "未実施"
   },
   "lessons": [
@@ -251,8 +251,8 @@
     {
       "number": 12,
       "body": "reorganized/20261105/expanded/12.md",
-      "body_sha256": "efd90c4d7647cad94bf2b1058277b6e8d2a5e7d1b20993b468dc5d4fb11cc9b6",
-      "notes_body_sha256_lf": "8d7fb0ab95e8d655e2e83838f84e285d515f9a801ac83d85bc72c7275c2cb64c",
+      "body_sha256": "8f6a0324558a58e400ae7ae155234e275e9acc19b3a37e6491142380e7837347",
+      "notes_body_sha256_lf": "0694228f228e4148afcad63a9c64d40cb4a564e18f25f67db82aa0f53b4c2967",
       "pages": [
         46,
         47,
@@ -267,7 +267,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "revision": "教育課程表・各国制度図の重点改稿"
     },
     {
       "number": 13,

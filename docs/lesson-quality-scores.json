@@ -737,21 +737,21 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         2
       ],
       "before_total": 45,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "制度図をどう比較に使うかの解答例が具体例になっていない",
-      "remaining": "各国の原資料の改訂日と年齢幅を担当者が確認",
+      "remaining": "州・課程別の詳細条件と各国の高等教育・大学院の接続全体の再照合、初学者による図の試読。",
       "evidence_heading": "制度図から学ぶ場と進路を比較する",
       "source_lessons": [
         12
       ],
       "before_sha256": "1a743ac283da39dc6b08ea4912dc6f150237c4a87c53d0e11874a0b9a62fcc75",
-      "after_sha256": "efd90c4d7647cad94bf2b1058277b6e8d2a5e7d1b20993b468dc5d4fb11cc9b6",
-      "chars_added": 620,
+      "after_sha256": "8f6a0324558a58e400ae7ae155234e275e9acc19b3a37e6491142380e7837347",
+      "chars_added": 2556,
       "media_updated": false,
       "revision_history": [
         {
@@ -775,6 +775,28 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "8d7fb0ab95e8d655e2e83838f84e285d515f9a801ac83d85bc72c7275c2cb64c"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "教育課程表・各国制度図の重点改稿",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "KMK・BIBB・OPHにより年齢軸・訓練契約・資格からの接続を照合し、制度図と本文の対応表を追加。",
+          "before_body_sha256": "efd90c4d7647cad94bf2b1058277b6e8d2a5e7d1b20993b468dc5d4fb11cc9b6"
         }
       ],
       "media_status": {
