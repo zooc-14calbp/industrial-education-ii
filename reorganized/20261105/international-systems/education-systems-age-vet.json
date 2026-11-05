@@ -1,0 +1,594 @@
+{
+  "checked_at": "2026-11-05",
+  "scope": [
+    "Japan",
+    "Germany",
+    "Finland"
+  ],
+  "age_axis": [
+    6,
+    30
+  ],
+  "age_semantics": "illustrative cohort; not age eligibility or compulsory attendance",
+  "pages": [
+    {
+      "country": "日本",
+      "subtitle": "中学校卒業後に、高校・高専・高等専修学校などへ分かれる。高等教育にも職業教育がある。",
+      "rows": [
+        [
+          "初等・前期中等",
+          [
+            {
+              "start": 6,
+              "end": 12,
+              "label": "小学校 6年\n6〜12歳",
+              "kind": "general",
+              "variable": false
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "label": "中学校 3年\n12〜15歳",
+              "kind": "general",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "後期中等：高校",
+          [
+            {
+              "start": 15,
+              "end": 18,
+              "label": "高等学校（全日制3年）\n普通・専門・総合\n専門学科：工業・農業等",
+              "kind": "vet",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "中等から一貫：高専",
+          [
+            {
+              "start": 15,
+              "end": 20,
+              "label": "【職業・専門】高等専門学校 本科5年\n15〜20歳頃（商船は5年6か月）",
+              "kind": "vet",
+              "variable": false
+            },
+            {
+              "start": 20,
+              "end": 22,
+              "label": "専攻科2年\n学士は要審査",
+              "kind": "vet",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "後期中等：高等専修",
+          [
+            {
+              "start": 15,
+              "end": 18,
+              "label": "【職業】高等専修学校\n専修学校高等課程\n3年の課程の配置例",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "高等教育：大学・院",
+          [
+            {
+              "start": 18,
+              "end": 22,
+              "label": "大学 学士課程\n標準4年\n専門職養成分野もある",
+              "kind": "higher",
+              "variable": false
+            },
+            {
+              "start": 22,
+              "end": 24,
+              "label": "修士課程\n標準2年",
+              "kind": "higher",
+              "variable": false
+            },
+            {
+              "start": 24,
+              "end": 27,
+              "label": "博士後期課程\n標準3年",
+              "kind": "higher",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "高等教育：専門職",
+          [
+            {
+              "start": 18,
+              "end": 22,
+              "label": "【職業】専門職大学\n4年・学士（専門職）",
+              "kind": "vet",
+              "variable": false
+            },
+            {
+              "start": 22,
+              "end": 24,
+              "label": "専門職大学院\n原則2年※",
+              "kind": "higher",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "高等教育：短大等",
+          [
+            {
+              "start": 18,
+              "end": 21,
+              "label": "短期大学・専門職短期大学\n2年または3年\n職業教育を担う分野も多い",
+              "kind": "higher",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "高等教育：専門学校",
+          [
+            {
+              "start": 18,
+              "end": 22,
+              "label": "【職業】専門学校\n＝専修学校専門課程\n18歳頃以後／期間は可変",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ]
+      ],
+      "routes": [
+        "主な接続  中学校等 → 高校・高専・高等専修学校 ／ 高校（専門学科も含む）等 → 大学・短大・専門学校",
+        "条件を確認する接続  高専・短大等 → 大学編入 ／ 高等専修学校の指定課程 → 大学入学資格 ／ 専門学校 → 編入・大学院入学資格（所定要件）"
+      ],
+      "notes": [
+        [
+          "一貫教育・就学前",
+          "義務教育学校は小中9年。中等教育学校は中高6年。就学前には幼稚園・保育所・認定こども園等がある。"
+        ],
+        [
+          "支援・学び直し",
+          "特別支援学校は小学部6〜12歳、中学部12〜15歳、高等部15〜18歳が標準。通常の学校でも支援を行う。定時制・通信制、再入学等の経路もある。"
+        ],
+        [
+          "年限・名称の注意",
+          "高校の定時制・通信制は3年以上。医・歯・臨床目的の薬・獣医の大学課程は6年。※法科大学院は原則3年。高等学校等にも専攻科・別科がある。"
+        ],
+        [
+          "年齢を固定しない教育",
+          "専修学校一般課程・各種学校、職業能力開発施設、省庁大学校、社会人向け教育等もある。所管・入学条件・取得資格はそれぞれ確認する。"
+        ]
+      ],
+      "sources": [
+        "J1",
+        "J2",
+        "J3"
+      ]
+    },
+    {
+      "country": "ドイツ",
+      "subtitle": "初等教育後の分岐が比較的早い。州ごとに学校名・編成が異なり、学校と企業の双方が職業教育を担う。",
+      "rows": [
+        [
+          "初等：Grundschule",
+          [
+            {
+              "start": 6,
+              "end": 10,
+              "label": "基礎学校 通常4年\n6〜10歳",
+              "kind": "general",
+              "variable": false
+            },
+            {
+              "start": 10,
+              "end": 12,
+              "label": "一部の州\nは6年制",
+              "kind": "general",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "中等：Gymnasium",
+          [
+            {
+              "start": 10,
+              "end": 16,
+              "label": "ギムナジウム等 前期中等段階\n10〜15/16歳頃（州・制度による）",
+              "kind": "general",
+              "variable": true
+            },
+            {
+              "start": 16,
+              "end": 19,
+              "label": "上級段階\nAbiturへ\n修了18/19歳頃",
+              "kind": "general",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "中等：その他の経路",
+          [
+            {
+              "start": 10,
+              "end": 16,
+              "label": "Hauptschule・Realschule等\n統合型／総合制の学校もある\n修了15/16歳頃／州によって編成が異なる",
+              "kind": "general",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "後期中等：デュアル",
+          [
+            {
+              "start": 15,
+              "end": 19.5,
+              "label": "【職業】企業の訓練＋職業学校\n通常2〜3.5年／訓練契約\n15/16歳頃以後の配置例",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "後期中等：学校中心",
+          [
+            {
+              "start": 15,
+              "end": 19.5,
+              "label": "【職業】Berufsfachschule等\n学校中心の職業教育／実習もある\n入学条件・期間は課程ごとに異なる",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "職業系の進学経路",
+          [
+            {
+              "start": 16,
+              "end": 19.5,
+              "label": "職業ギムナジウム・FOS・BOS等\n職業分野の学習と高等教育への接続\n要件・開始時点は異なる",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "高等教育：大学等",
+          [
+            {
+              "start": 19,
+              "end": 22,
+              "label": "大学等 学士課程\n通常3年の配置例",
+              "kind": "higher",
+              "variable": true
+            },
+            {
+              "start": 22,
+              "end": 24,
+              "label": "修士課程\n1〜2年",
+              "kind": "higher",
+              "variable": true
+            },
+            {
+              "start": 24,
+              "end": 30,
+              "label": "博士取得へ（大学等）\n研究・審査／期間と開始年齢は固定しない",
+              "kind": "higher",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "高等教育：応用科学",
+          [
+            {
+              "start": 19,
+              "end": 22.5,
+              "label": "応用科学系大学 HAW/FH等\n学士3〜4年\n図は3.5年の配置例",
+              "kind": "higher",
+              "variable": true
+            },
+            {
+              "start": 22.5,
+              "end": 24,
+              "label": "修士課程\n1〜2年",
+              "kind": "higher",
+              "variable": true
+            }
+          ]
+        ]
+      ],
+      "routes": [
+        "主な接続  基礎学校 → 前期中等の各経路 → 上級段階／職業教育 ／ 高等教育入学資格 → 大学・HAW/FH等",
+        "学びの継続  職業資格・経験 → Fachschule／Meister等の上級職業教育 ／ 職業経験等から高等教育へ進む経路もある（州・課程の条件を確認）"
+      ],
+      "notes": [
+        [
+          "州差・年齢差",
+          "基礎学校はベルリン・ブランデンブルクでは6年。図の10歳からの分岐は通常の4年制の例。Gymnasiumは通算12/13学年等の違いがある。"
+        ],
+        [
+          "就学前・移行の支援",
+          "就学前施設、学校での支援・特別支援教育、職業教育に移るための準備教育がある。学校種の変更や成人の資格取得・第二の教育経路もある。"
+        ],
+        [
+          "職業教育の継続",
+          "Fachschule、Meister等は職業教育・実務経験等を基礎に専門性を高める経路。年齢は一定しない。職業資格と大学の学位は区別する。"
+        ],
+        [
+          "高等教育の多様性",
+          "芸術・音楽系大学、デュアル型高等教育、国家試験につながる課程等もある。博士取得の方法・授与権限は州・機関で異なる。HAW/FHからの接続も要確認。"
+        ]
+      ],
+      "sources": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ]
+    },
+    {
+      "country": "フィンランド",
+      "subtitle": "7歳からの9年一貫の基礎教育後に普通教育・職業教育へ。職業資格からも高等教育への出願資格につながる。",
+      "rows": [
+        [
+          "就学前・基礎教育",
+          [
+            {
+              "start": 6,
+              "end": 7,
+              "label": "6歳\n就学前",
+              "kind": "general",
+              "variable": false
+            },
+            {
+              "start": 7,
+              "end": 16,
+              "label": "基礎教育：Comprehensive school 9年（1〜9学年）\n7〜16歳／初等と前期中等を一体的に提供",
+              "kind": "general",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "後期中等：普通教育",
+          [
+            {
+              "start": 16,
+              "end": 19,
+              "label": "普通後期中等教育\n通常3年／大学入学資格試験\n期間の延長・短縮もある",
+              "kind": "general",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "後期中等：職業教育",
+          [
+            {
+              "start": 16,
+              "end": 19.5,
+              "label": "【職業】初期職業資格へ\n個別計画・既習の認定\n開始16歳頃〜／期間は可変",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "進学準備：TUVA",
+          [
+            {
+              "start": 16,
+              "end": 17,
+              "label": "最長\n1学年",
+              "kind": "work",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "高等教育：大学",
+          [
+            {
+              "start": 19,
+              "end": 22,
+              "label": "大学 Bachelor\n通常3年",
+              "kind": "higher",
+              "variable": false
+            },
+            {
+              "start": 22,
+              "end": 24,
+              "label": "大学 Master\n通常2年",
+              "kind": "higher",
+              "variable": false
+            },
+            {
+              "start": 24,
+              "end": 28,
+              "label": "大学 博士課程\n通常約4年\n開始年齢は一例",
+              "kind": "higher",
+              "variable": false
+            }
+          ]
+        ],
+        [
+          "高等教育：UAS",
+          [
+            {
+              "start": 19,
+              "end": 23,
+              "label": "【職業・専門】応用科学大学 UAS\n学士3.5〜4.5年\n図は4年で終える配置例",
+              "kind": "vet",
+              "variable": true
+            },
+            {
+              "start": 23,
+              "end": 25,
+              "label": "関連実務経験\n原則2年以上",
+              "kind": "work",
+              "variable": true
+            },
+            {
+              "start": 25,
+              "end": 26.5,
+              "label": "UAS修士\n1〜1.5年",
+              "kind": "higher",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "職業教育の学ぶ場",
+          [
+            {
+              "start": 16,
+              "end": 30,
+              "label": "【職業】教育機関での学習 ＋ 職場での学習を組み合わせる／若者・成人の双方が対象\napprenticeship：雇用契約あり ／ training agreement：雇用契約を伴わない（この帯は在籍年齢や修業年限を表さない）",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ],
+        [
+          "成人・継続の職業資格",
+          [
+            {
+              "start": 16,
+              "end": 30,
+              "label": "【職業】Further vocational qualifications ／ Specialist vocational qualifications\n専門性を深める職業資格。開始年齢・順序・期間は固定しない（この帯は在籍年齢や修業年限を表さない）",
+              "kind": "vet",
+              "variable": true
+            }
+          ]
+        ]
+      ],
+      "routes": [
+        "主な接続  基礎教育 → 普通後期中等教育 または 職業教育 ／ いずれからも大学・UASへの出願資格へ（選抜・個別要件あり）",
+        "継続の例  基礎教育 → TUVA → 普通教育／職業教育 ／ UAS学士 → 関連実務経験2年以上 → UAS修士（入学要件を別途確認）"
+      ],
+      "notes": [
+        [
+          "就学前・支援",
+          "6歳の就学前教育の前には幼児教育・保育がある。通常の学習環境での支援と専門的な支援があり、必要に応じて学びを調整する。"
+        ],
+        [
+          "個別の進度と準備教育",
+          "VETは必要な能力を個別計画で確認し、既習も認定する。TUVAは普通・職業の後期中等教育への準備で最長1学年。図の開始16歳は例。"
+        ],
+        [
+          "学位取得後の経路",
+          "大学には博士・Licentiateの経路がある。UAS修士等からの博士課程への出願は大学側の適格性判断・選抜等があり、自動的には進まない。"
+        ],
+        [
+          "成人・再学習",
+          "VETには初期・継続・専門の資格がある。若者にも成人にも開かれ、能力の獲得・更新を支える。成人普通教育やリベラル成人教育等もある。"
+        ]
+      ],
+      "sources": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "F7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "J1",
+      "title": "文部科学省：学校系統図（2024掲載）",
+      "url": "https://www.mext.go.jp/content/20240531-mxt_chousa01-000036236-20.pdf"
+    },
+    {
+      "id": "J2",
+      "title": "NIC-Japan：高等教育資格",
+      "url": "https://www.nicjp.niad.ac.jp/japanese-system/qualification.html"
+    },
+    {
+      "id": "J3",
+      "title": "NIC-Japan：高等教育機関への入学",
+      "url": "https://www.nicjp.niad.ac.jp/japanese-system/admission.html"
+    },
+    {
+      "id": "D1",
+      "title": "KMK：2024/2025教育制度・初等教育",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/Eurydice/EN/primary_education.pdf"
+    },
+    {
+      "id": "D2",
+      "title": "KMK：2024/2025教育制度・中等教育",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/Eurydice/EN/secondary_education.pdf"
+    },
+    {
+      "id": "D3",
+      "title": "KMK：2024/2025教育制度・高等教育",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/Eurydice/EN/tertiary_education.pdf"
+    },
+    {
+      "id": "D4",
+      "title": "BIBB：デュアル制度の構造",
+      "url": "https://www.bibb.de/en/77203.php"
+    },
+    {
+      "id": "F1",
+      "title": "OPH：教育制度図（2026）",
+      "url": "https://www.oph.fi/sites/default/files/documents/32867828_OPH_Education_system_in_Finland_mustavalk_04_02_2026c.pdf"
+    },
+    {
+      "id": "F2",
+      "title": "OPH：初等・前期中等教育",
+      "url": "https://www.oph.fi/en/education-system/basic-education"
+    },
+    {
+      "id": "F3",
+      "title": "OPH：後期中等普通教育",
+      "url": "https://www.oph.fi/en/education-system/general-upper-secondary-education"
+    },
+    {
+      "id": "F4",
+      "title": "OPH：職業教育・訓練",
+      "url": "https://www.oph.fi/en/education-system/vocational-education-and-training"
+    },
+    {
+      "id": "F5",
+      "title": "EDUFI Study in Finland：大学・学位と期間（2026更新）",
+      "url": "https://www.studyinfinland.fi/universities"
+    },
+    {
+      "id": "F6",
+      "title": "Helsinki市：TUVA進学準備教育",
+      "url": "https://www.hel.fi/en/childhood-and-education/tuva-training-preparatory-education-for-an-upper-secondary-qualification"
+    },
+    {
+      "id": "F7",
+      "title": "OECD：フィンランドのVET（2025）",
+      "url": "https://www.oecd.org/en/publications/vocational-education-and-training-systems-in-nine-countries_1a86eb6c-en/full-report/vocational-education-and-training-in-finland_4d8133c3.html"
+    },
+    {
+      "id": "O1",
+      "title": "OECD：職業教育・訓練（VET）",
+      "url": "https://www.oecd.org/en/topics/vocational-education-and-training-vet.html"
+    },
+    {
+      "id": "O2",
+      "title": "OECD：Education at a Glance 2026・Readers Guide",
+      "url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_b4968bbc-en/full-report/readers-guide_9d408eac.html"
+    }
+  ]
+}

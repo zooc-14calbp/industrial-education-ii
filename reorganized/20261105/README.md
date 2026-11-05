@@ -13,3 +13,9 @@
 [中学校以後の学びの場の見取り図 PDF](school-pathways.pdf)／[整理表のデータ](school-pathways.json)
 
 中心の演習は一つ、各科目の提出レポートは2本を維持します。詳細な一覧を全て暗記する課題や、毎回の提出は追加しません。
+
+## 国際比較の説明と図
+
+[新第11回：OECDから学ぶ国際比較の基礎](ii-11-explanation.md)／[新第12回：各国の職業教育と学校・企業・資格](ii-12-explanation.md)を追加しました。
+
+[制度図・年齢・職業教育の位置（PDF4ページ）](international-systems/education-systems-age-vet.pdf)／[PNG・編集用SVG・根拠資料](international-systems/README.md)。日本・ドイツ・フィンランドの初等から大学院・学び直しまでを比較します。年齢は標準的な目安・配置例です。動画・既存スライドへは未反映です。
