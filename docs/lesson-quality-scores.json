@@ -26,10 +26,10 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 40,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "到達目標の産業部門・就業者・キャリア教育の定義が本文から抜ける",
       "remaining": "労働条件や職業選択の基礎を既存詳説と一本化",
       "evidence_heading": "産業と職業とキャリア教育",
@@ -38,9 +38,39 @@
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2",
+      "after_sha256": "bc477f68f042e009756364f34b19f1d1c7132a8d61403fc6e5b2a521058e321b",
       "chars_added": 655,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii02",
@@ -58,10 +88,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 45,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "学校種・資格を確認する指示が先行し、違い自体の説明が薄い",
       "remaining": "複数資格の受験・合格・交付を具体的な一表で比較",
       "evidence_heading": "学校種と資格を別々に確かめる",
@@ -69,9 +99,39 @@
         3
       ],
       "before_sha256": "faa1566268888670d52b2feb95b4ea2d18c703b08fd52bd4a9477cb7e264d25d",
-      "after_sha256": "41c4e09a7d318e49f8ccd25da6be171567402a58697557e536bcf955a09ac2a5",
-      "chars_added": 519,
-      "media_updated": false
+      "after_sha256": "e06456a8d9e25daa82f66a658714da32eb5809828b00b4baa16e18e35578e144",
+      "chars_added": 543,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "41c4e09a7d318e49f8ccd25da6be171567402a58697557e536bcf955a09ac2a5"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii03",
@@ -89,10 +149,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 50,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "就職先の産業と実際の仕事内容の違いが十分に具体化されていない",
       "remaining": "公式の職業紹介を一例選び、学習活動との対応表へ追加",
       "evidence_heading": "学校の進路実績を仕事の内容へつなぐ",
@@ -100,9 +160,39 @@
         4
       ],
       "before_sha256": "f5b5fa017b7ab361a2bd03c3639ca70d3639388032604c07047668754f021ab6",
-      "after_sha256": "f7258d1717efcaff23cc0472f64f9e6153d166615d4b9da49a78187a2d82b680",
+      "after_sha256": "dfa9af1de088caf828c52a9c1a66a4564e3db336a10e625ad617cf5f7cef50a3",
       "chars_added": 510,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "f7258d1717efcaff23cc0472f64f9e6153d166615d4b9da49a78187a2d82b680"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii04",
@@ -120,10 +210,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 50,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "農林水産の対象と情報・環境への広がりが概略にとどまる",
       "remaining": "森林と海洋の実際の教育課程を同一の観点で比較",
       "evidence_heading": "農林水産を生産から情報と環境まで見る",
@@ -132,9 +222,39 @@
         6
       ],
       "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
-      "after_sha256": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97",
+      "after_sha256": "90744141a1263ef1d2663658f656ba2aef22a700de479ad0aeebb5b7fe8bdf2f",
       "chars_added": 512,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii05",
@@ -152,10 +272,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 40,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "会計の基礎用語とAIを使う判断が到達目標に比べて不足",
       "remaining": "売上・費用・判断理由の関係を図で示す",
       "evidence_heading": "売上と利益と判断の根拠",
@@ -163,9 +283,39 @@
         7
       ],
       "before_sha256": "d01e09544bda2a79a0adf4f8c7f57da47b669c8822ad3e44e5c0c172ba3ec8f2",
-      "after_sha256": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472",
+      "after_sha256": "9b0bea274b9ef5c5c58461e3240169f0b6078ed57a9b551e8ffc261fc8364eb2",
       "chars_added": 525,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii06",
@@ -183,10 +333,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 45,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "学ぶ対象の差と資格取得の時系列が抽象的",
       "remaining": "資格所管機関の現行要件と学校の指定課程を最終照合",
       "evidence_heading": "学習内容と資格取得の経路",
@@ -194,9 +344,39 @@
         8
       ],
       "before_sha256": "26aa7dfe725db338cca7f9e3d46e1dca7fa28e11a61533a9378cd02cb6bdee02",
-      "after_sha256": "18000a3c7da6c2bb415e834e1e0a7b14df0bb408fb535e020cea26c855b24ab1",
+      "after_sha256": "bc7945996015bcddce2540d333f9bb6451503067f2ed83632c8e858da900c92e",
       "chars_added": 513,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "18000a3c7da6c2bb415e834e1e0a7b14df0bb408fb535e020cea26c855b24ab1"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii07",
@@ -214,18 +394,48 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 50,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "支援の例はあるが特別支援の教育課程の多様性の説明が短い",
       "remaining": "高等部の複数の教育課程例と移行支援の関係を図示",
       "evidence_heading": "特別支援の職業教育と環境の調整",
       "source_lessons": [],
       "before_sha256": "706749cf59b94423c168d57e0320e27e8a4371aa68916295e95138c6a2e054bb",
-      "after_sha256": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab",
+      "after_sha256": "b9c61873da13c4c4c5ff3bb39f56c254f128c30032471d3d6ea3d9eda0945f9a",
       "chars_added": 530,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii08",
@@ -243,10 +453,10 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 45,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "大学・大学院と教育学の方法が増補本文からは理解しにくい",
       "remaining": "既存の大学課程比較カードと統計読解を負担に応じて整理",
       "evidence_heading": "大学と大学院で何を学ぶか",
@@ -254,9 +464,39 @@
         9
       ],
       "before_sha256": "ae27fd42ff556e5efacfffbb18e0ceb614c0f5127924d589abefc5eb7279c190",
-      "after_sha256": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a",
+      "after_sha256": "f0ce3805e669c6ad9c44b992ffbdf02c1ee090835799d79e2d91988087687e39",
       "chars_added": 746,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii09",
@@ -274,10 +514,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 50,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "中学校の学びと高校側の補足を区別する理由が短い",
       "remaining": "教科ごとの既習事項を中学校解説の該当箇所と照合",
       "evidence_heading": "中学校側と高校側の役割を分ける",
@@ -285,9 +525,39 @@
         10
       ],
       "before_sha256": "3fca21890ab3aabcc8ad0c4d21fe8dc258e3a57eb6b51aa795d6ebc8d74c2cc3",
-      "after_sha256": "6e6c6e1fa81bf5fbee1b9135aa2a9a810af460866d981a1bb616bde824390d6d",
-      "chars_added": 509,
-      "media_updated": false
+      "after_sha256": "0da708b151beaf97aa7b3f92ace5d84c0c04cb039c8061d0b25e6f35cd640723",
+      "chars_added": 574,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "6e6c6e1fa81bf5fbee1b9135aa2a9a810af460866d981a1bb616bde824390d6d"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii10",
@@ -305,10 +575,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 50,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "学校と受入先の役割、体験できない場合の学び方が薄い",
       "remaining": "活動範囲・連絡・代替学習を一枚の運営例に整理",
       "evidence_heading": "職場体験で学ぶことと役割分担",
@@ -316,9 +586,39 @@
         11
       ],
       "before_sha256": "d223111a8a1d2bbe813eb227cb0b31ef01304ac5e53eb7586ca4e929bcc1c423",
-      "after_sha256": "84e4bc55244db98678df7492020d86783a66ea7095e17158fab6179dcbddd5ff",
-      "chars_added": 537,
-      "media_updated": false
+      "after_sha256": "4e501b60b10df3d46b15adc196c11fe8976b29c2531bc73409611af3f6dfc8e1",
+      "chars_added": 585,
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "84e4bc55244db98678df7492020d86783a66ea7095e17158fab6179dcbddd5ff"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii11",
@@ -336,18 +636,48 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 35,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "OECDとVETの定義が本文にないうえ、解答例が計算を説明しない",
       "remaining": "実際の国際統計一図で平均・欠測・教育段階を照合",
       "evidence_heading": "OECDと教育段階の基礎",
       "source_lessons": [],
       "before_sha256": "73cd99a355594acf36235c9b46ff9401bb134ad3ed22c803b4c8127dcee92518",
-      "after_sha256": "5969fbefc08c4386b4872bd255a23297f9bf1df4ba026018d35c25c51164d774",
+      "after_sha256": "958c10e73389e2ff169cb004b18fb1c745ff8f521d2a8ab71d5e907f1e457e3f",
       "chars_added": 679,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "5969fbefc08c4386b4872bd255a23297f9bf1df4ba026018d35c25c51164d774"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii12",
@@ -365,10 +695,10 @@
         3,
         2,
         2,
-        1
+        2
       ],
       "before_total": 45,
-      "after_total": 55,
+      "after_total": 60,
       "finding": "制度図をどう比較に使うかの解答例が具体例になっていない",
       "remaining": "各国の原資料の改訂日と年齢幅を担当者が確認",
       "evidence_heading": "制度図から学ぶ場と進路を比較する",
@@ -376,9 +706,39 @@
         12
       ],
       "before_sha256": "1a743ac283da39dc6b08ea4912dc6f150237c4a87c53d0e11874a0b9a62fcc75",
-      "after_sha256": "8d7fb0ab95e8d655e2e83838f84e285d515f9a801ac83d85bc72c7275c2cb64c",
+      "after_sha256": "efd90c4d7647cad94bf2b1058277b6e8d2a5e7d1b20993b468dc5d4fb11cc9b6",
       "chars_added": 620,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "before_total": 55,
+          "after_total": 60,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "8d7fb0ab95e8d655e2e83838f84e285d515f9a801ac83d85bc72c7275c2cb64c"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii13",
@@ -396,10 +756,10 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 35,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "不登校・中退・転学の到達目標を本文が説明していない",
       "remaining": "改訂表を配信媒体へ反映し、人物を設定しない演習と案内の分かりやすさを試読",
       "evidence_heading": "統計では分母と重複を確かめる",
@@ -407,7 +767,7 @@
         13
       ],
       "before_sha256": "af1b7b7093e3db117e93fb174b907d858e38ba9d72bacd7a5904123e4f076d6d",
-      "after_sha256": "46c01b0dd6667090f9959d8cfc2f4a4a35ed06366af08e7850dfd4868c3e31e2",
+      "after_sha256": "c8bcd8a50aff28f63924cc17c888a6f0e00467a1b07f8ebd65e033204f485d3f",
       "chars_added": 2197,
       "media_updated": false,
       "revision_history": [
@@ -426,8 +786,36 @@
           "previous_sha256": "12f57dfec48c4f0ee78cd62a5ea567d195aa27cffb21a3b0170e9486138766f9",
           "change": "長期欠席の定義と対象課程、割合の分母、支援開始との区別を原資料と照合",
           "checked_scope": "増補本文・重点一次資料・計算・リンク。既存媒体は今回未再点検。"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "46c01b0dd6667090f9959d8cfc2f4a4a35ed06366af08e7850dfd4868c3e31e2"
         }
-      ]
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii14",
@@ -445,10 +833,10 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 40,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "学び直しと就業相談を問う演習に解答例が対応していない",
       "remaining": "地域別の募集案内・相談方法を配信時に更新し、本文を各媒体へ反映",
       "evidence_heading": "相談の目的から窓口を選ぶ",
@@ -456,7 +844,7 @@
         14
       ],
       "before_sha256": "f6f152ac622da4e393ec195966f81b8168a1784814078f975b5ec7067323b7ca",
-      "after_sha256": "f6e8ca578797815a657c30d4c567f1cff4128f1401628a0fb83b6e3cb5f03324",
+      "after_sha256": "4e085f159013a2133ef19c96201513288d8058f9928ad6ad3e0e3bbb2d1504de",
       "chars_added": 2508,
       "media_updated": false,
       "revision_history": [
@@ -475,8 +863,36 @@
           "previous_sha256": "a151130eef29d64d1d2a5f5ce75d6f0ff640db609ec47f24c48f25f394ceb8b6",
           "change": "高卒認定の年齢・学歴・単位認定と、相談先の対象・連絡方法を公式案内と照合",
           "checked_scope": "増補本文・重点一次資料・計算・リンク。既存媒体は今回未再点検。"
+        },
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "f6e8ca578797815a657c30d4c567f1cff4128f1401628a0fb83b6e3cb5f03324"
         }
-      ]
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     },
     {
       "id": "ii15",
@@ -494,10 +910,10 @@
         3,
         3,
         2,
-        1
+        2
       ],
       "before_total": 45,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "面談例に対しAI・適性検査と四項目の説明例が不足",
       "remaining": "レポートBの二つの選択方式の分量と評価の対応を試読",
       "evidence_heading": "関心を確かめ候補を一緒に見直す",
@@ -505,9 +921,39 @@
         15
       ],
       "before_sha256": "f53515007b5fb8b2bd3145efcabb8e481c56e23b9f3f4af604e45601a33c0569",
-      "after_sha256": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2",
+      "after_sha256": "6b0758ea034de7ca57fe18bb35c5dd5903af9f516a73ff9c9cab2bf646bd037b",
       "chars_added": 615,
-      "media_updated": false
+      "media_updated": false,
+      "revision_history": [
+        {
+          "date": "2026-11-05",
+          "stage": "増補媒体の整合",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            1
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
+          "before_body_sha256": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2"
+        }
+      ],
+      "media_status": {
+        "supplement_pptx": "updated",
+        "supplement_pdf": "updated",
+        "original_slides": "pending",
+        "videos": "pending"
+      }
     }
   ]
 }
