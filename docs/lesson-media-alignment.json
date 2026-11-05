@@ -207,7 +207,7 @@
     {
       "number": 9,
       "body": "reorganized/20261105/expanded/09.md",
-      "body_sha256": "742811ccce9ca2820b08a84b86e17e4f478a17d4dc1f54f3d244921d5e218b7d",
+      "body_sha256": "35e9ed590faafc2af11e102b4fdab599122f72f6a1af91bd43f8f0ff9c4db327",
       "notes_body_sha256_lf": "1e0618a6778de3b5a55bad1720ddb62a4281b41870ac5c15c5e1c794b398fc2d",
       "pages": [
         34,
@@ -221,12 +221,15 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
       "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
-      "active_learning_update": "話し合いの前提・根拠・事後確認を本文と増補説明頁に追加。関連論文は docs/active-learning-discussion.md。"
+      "active_learning_update": "話し合いの前提・根拠・事後確認を本文と増補説明頁に追加。関連論文は docs/active-learning-discussion.md。",
+      "main_entry": "reorganized/20261105/main/09/README.md",
+      "main_manifest": "reorganized/20261105/main/09/manifest.json",
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
     },
     {
       "number": 10,

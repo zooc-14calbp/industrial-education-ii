@@ -1,0 +1,276 @@
+{
+  "seconds": 643.0333333333333,
+  "fps": 30,
+  "slides": 26,
+  "captions": 96,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "中学校の学びと専門教育をつなぐ数量・ICT・情報活用",
+      "start": 0,
+      "end": 20.3,
+      "seconds": 20.3,
+      "spoken_seconds": 18.792,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 20.3,
+      "end": 36.86666666666667,
+      "seconds": 16.566666666666666,
+      "spoken_seconds": 15.048,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 36.86666666666667,
+      "end": 57.83333333333333,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "技術分野「D 情報の技術」",
+      "start": 57.83333333333333,
+      "end": 99.46666666666667,
+      "seconds": 41.63333333333333,
+      "spoken_seconds": 40.128,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "工業情報数理へつながる活動",
+      "start": 99.46666666666667,
+      "end": 143.26666666666665,
+      "seconds": 43.8,
+      "spoken_seconds": 42.288,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "海洋情報技術へつながる活動",
+      "start": 143.26666666666665,
+      "end": 184.0333333333333,
+      "seconds": 40.766666666666666,
+      "spoken_seconds": 39.24,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "言葉を使って確かめる",
+      "start": 184.0333333333333,
+      "end": 196.56666666666663,
+      "seconds": 12.533333333333333,
+      "spoken_seconds": 11.016,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "言葉を使って確かめる",
+      "start": 196.56666666666663,
+      "end": 206.46666666666664,
+      "seconds": 9.9,
+      "spoken_seconds": 8.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "言葉を使って確かめる",
+      "start": 206.46666666666664,
+      "end": 218.16666666666663,
+      "seconds": 11.7,
+      "spoken_seconds": 10.2,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "中学校側と高校側の役割を分ける",
+      "start": 218.16666666666663,
+      "end": 244.5333333333333,
+      "seconds": 26.366666666666667,
+      "spoken_seconds": 24.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "中学校側と高校側の役割を分ける",
+      "start": 244.5333333333333,
+      "end": 282.4,
+      "seconds": 37.86666666666667,
+      "spoken_seconds": 36.36,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "中学校側と高校側の役割を分ける",
+      "start": 282.4,
+      "end": 312.9,
+      "seconds": 30.5,
+      "spoken_seconds": 28.968,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "話し合う前に、水温記録を読めるようにする",
+      "start": 312.9,
+      "end": 345.59999999999997,
+      "seconds": 32.7,
+      "spoken_seconds": 31.176,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "話し合う前に、水温記録を読めるようにする",
+      "start": 345.59999999999997,
+      "end": 386.26666666666665,
+      "seconds": 40.666666666666664,
+      "spoken_seconds": 39.144,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "話し合う前に、水温記録を読めるようにする",
+      "start": 386.26666666666665,
+      "end": 410.5,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "水温記録から専門の情報活用へ",
+      "start": 410.5,
+      "end": 431.06666666666666,
+      "seconds": 20.566666666666666,
+      "spoken_seconds": 19.056,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "水温記録から専門の情報活用へ",
+      "start": 431.06666666666666,
+      "end": 451.6,
+      "seconds": 20.533333333333335,
+      "spoken_seconds": 19.032,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "水温記録から専門の情報活用へ：比較表",
+      "start": 451.6,
+      "end": 476.70000000000005,
+      "seconds": 25.1,
+      "spoken_seconds": 23.568,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "考える時間：一つの問い",
+      "start": 476.70000000000005,
+      "end": 503.40000000000003,
+      "seconds": 26.7,
+      "spoken_seconds": 25.2,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 20,
+      "title": "自分の説明を確かめる",
+      "start": 503.40000000000003,
+      "end": 516.2,
+      "seconds": 12.8,
+      "spoken_seconds": 11.28,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 21,
+      "title": "説明例",
+      "start": 516.2,
+      "end": 540.1,
+      "seconds": 23.9,
+      "spoken_seconds": 22.392,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "今回の学びを次へ",
+      "start": 540.1,
+      "end": 562.0666666666667,
+      "seconds": 21.966666666666665,
+      "spoken_seconds": 20.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "参考資料：読む場所",
+      "start": 562.0666666666667,
+      "end": 582.4333333333334,
+      "seconds": 20.366666666666667,
+      "spoken_seconds": 18.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "参考資料：読む場所",
+      "start": 582.4333333333334,
+      "end": 603.2333333333333,
+      "seconds": 20.8,
+      "spoken_seconds": 19.272,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "参考資料：読む場所",
+      "start": 603.2333333333333,
+      "end": 623.5,
+      "seconds": 20.266666666666666,
+      "spoken_seconds": 18.744,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "参考資料：読む場所",
+      "start": 623.5,
+      "end": 643.0333333333333,
+      "seconds": 19.533333333333335,
+      "spoken_seconds": 18.024,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

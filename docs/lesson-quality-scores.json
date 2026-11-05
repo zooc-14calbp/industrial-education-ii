@@ -558,20 +558,20 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "中学校の学びと高校側の補足を区別する理由が短い",
-      "remaining": "教科ごとの既習事項を中学校解説の該当箇所と照合",
+      "remaining": "保持した本編オブジェクトの読み順精査、担当者による内容・発音の確認、受講者による読解・演習時間の試用。",
       "evidence_heading": "中学校側と高校側の役割を分ける",
       "source_lessons": [
         10
       ],
       "before_sha256": "3fca21890ab3aabcc8ad0c4d21fe8dc258e3a57eb6b51aa795d6ebc8d74c2cc3",
-      "after_sha256": "742811ccce9ca2820b08a84b86e17e4f478a17d4dc1f54f3d244921d5e218b7d",
+      "after_sha256": "35e9ed590faafc2af11e102b4fdab599122f72f6a1af91bd43f8f0ff9c4db327",
       "chars_added": 574,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -594,13 +594,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "6e6c6e1fa81bf5fbee1b9135aa2a9a810af460866d981a1bb616bde824390d6d"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第2段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/09/README.md"
       }
     },
     {

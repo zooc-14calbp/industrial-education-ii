@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261105-stage1",
+  "revision": "mainmedia-20261106-stage2",
   "updated": [
     {
       "id": "i08",
@@ -24,6 +24,28 @@
       "body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279"
     },
     {
+      "id": "i15",
+      "course": "i",
+      "number": 15,
+      "source_lesson": 15,
+      "title": "目標と内容と指導と評価をつなぐ",
+      "slides": 25,
+      "seconds": 591.7666666666667,
+      "path": "reorganized/20261105/main/15",
+      "body_sha256_lf": "c70120beef8eec2a7c74e02394c5de812d71cb3e2f73e5d8b7c2d58ba5817077"
+    },
+    {
+      "id": "ii09",
+      "course": "ii",
+      "number": 9,
+      "source_lesson": 10,
+      "title": "中学校の学びと専門教育をつなぐ数量・ICT・情報活用",
+      "slides": 26,
+      "seconds": 643.0333333333333,
+      "path": "reorganized/20261105/main/09",
+      "body_sha256_lf": "1e0618a6778de3b5a55bad1720ddb62a4281b41870ac5c15c5e1c794b398fc2d"
+    },
+    {
       "id": "ii10",
       "course": "ii",
       "number": 10,
@@ -35,7 +57,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 27,
+  "remaining_lessons": 25,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }
