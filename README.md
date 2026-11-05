@@ -16,7 +16,7 @@
 | 4 | [第4回 農林水産・食品・環境の学びとキャリア](reorganized/20261105/main/04/README.md) | [PDF](reorganized/20261105/main/04/slides.pdf)・[PowerPoint](reorganized/20261105/main/04/slides.pptx)・[学習ガイド](reorganized/20261105/main/04/student-guide.pdf)・[本文](reorganized/20261105/expanded/04.md) | [動画 6:54](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage7/industrial-education-ii-04.mp4) |
 | 5 | [第5回 商業・ビジネス・情報の学びとキャリア](reorganized/20261105/main/05/README.md) | [PDF](reorganized/20261105/main/05/slides.pdf)・[PowerPoint](reorganized/20261105/main/05/slides.pptx)・[学習ガイド](reorganized/20261105/main/05/student-guide.pdf)・[本文](reorganized/20261105/expanded/05.md) | [動画 6:11](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage8/industrial-education-ii-05.mp4) |
 | 6 | [第6回 家庭・看護・福祉の学びと資格・進路](reorganized/20261105/main/06/README.md) | [PDF](reorganized/20261105/main/06/slides.pdf)・[PowerPoint](reorganized/20261105/main/06/slides.pptx)・[学習ガイド](reorganized/20261105/main/06/student-guide.pdf)・[本文](reorganized/20261105/expanded/06.md) | [動画 9:23](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage9/industrial-education-ii-06.mp4) |
-| 7 | [第7回 特別支援に関わる職業教育と卒業後への移行](reorganized/20261105/expanded/07.md) | 本文・考える時間 | 準備中 |
+| 7 | [第7回 特別支援に関わる職業教育と卒業後への移行](reorganized/20261105/main/07/README.md) | [PDF](reorganized/20261105/main/07/slides.pdf)・[PowerPoint](reorganized/20261105/main/07/slides.pptx)・[学習ガイド](reorganized/20261105/main/07/student-guide.pdf)・[本文](reorganized/20261105/expanded/07.md) | [動画 7:30](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage10/industrial-education-ii-07.mp4) |
 | 8 | [第8回 卒業後の進学・仕事・学び直しと大学・大学院](reorganized/20261105/expanded/08.md) | 本文・考える時間 | 準備中 |
 | 9 | [第9回 中学校の学びと専門教育をつなぐ数量・ICT・情報活用](reorganized/20261105/main/09/README.md) | [PDF](reorganized/20261105/main/09/slides.pdf)・[PowerPoint](reorganized/20261105/main/09/slides.pptx)・[学習ガイド](reorganized/20261105/main/09/student-guide.pdf)・[本文](reorganized/20261105/expanded/09.md) | [動画 10:43](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage2/industrial-education-ii-09.mp4) |
 | 10 | [第10回 職場体験・インターンシップ・地域との連携](reorganized/20261105/main/10/README.md) | [PDF](reorganized/20261105/main/10/slides.pdf)・[PowerPoint](reorganized/20261105/main/10/slides.pptx)・[学習ガイド](reorganized/20261105/main/10/student-guide.pdf)・[本文](reorganized/20261105/expanded/10.md) | [動画 13:13](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261105-stage1/industrial-education-ii-10.mp4) |
@@ -40,7 +40,7 @@
 
 ## 改訂情報・制作資料
 
-- 2026年11月6日　第6回の本文・スライド・学習ガイド・字幕付き動画を更新。
+- 2026年11月6日　第7回の本文・スライド・学習ガイド・字幕付き動画を更新。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
 - [教材設計と再編の経緯](docs/reorganization-proposal-20261105.md) ／ [各回の教材点検](docs/lesson-quality-review.md)

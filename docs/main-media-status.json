@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage9",
+  "revision": "mainmedia-20261106-stage10",
   "updated": [
     {
       "id": "i01",
@@ -66,6 +66,17 @@
       "seconds": 410.4666666666667,
       "path": "reorganized/20261105/main/06",
       "body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802"
+    },
+    {
+      "id": "i07",
+      "course": "i",
+      "number": 7,
+      "source_lesson": 7,
+      "title": "専門分野の科目と教育課程を読む",
+      "slides": 27,
+      "seconds": 685.1333333333333,
+      "path": "reorganized/20261105/main/07",
+      "body_sha256_lf": "cf36e3d235ca974953e1ab633c946bbb5c96ccdd169df5cd40d23f71f170da90"
     },
     {
       "id": "i08",
@@ -167,6 +178,17 @@
       "body_sha256_lf": "6f5f3f335cf0c5921ea4b961ffec82ded2572feb5a43cbb10d71f177ca096233"
     },
     {
+      "id": "ii07",
+      "course": "ii",
+      "number": 7,
+      "source_lesson": 8,
+      "title": "特別支援に関わる職業教育と卒業後への移行",
+      "slides": 20,
+      "seconds": 449.93333333333345,
+      "path": "reorganized/20261105/main/07",
+      "body_sha256_lf": "801effdc4e495524896ed47469f583a2d9482cf78aa1c51aecbb5f37b55f639e"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -189,7 +211,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 13,
+  "remaining_lessons": 11,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

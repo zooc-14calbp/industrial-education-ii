@@ -570,18 +570,18 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "支援の例はあるが特別支援の教育課程の多様性の説明が短い",
-      "remaining": "高等部の複数の教育課程例と移行支援の関係を図示",
+      "remaining": "高等部の複数の教育課程例と移行支援の関係を図示。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "特別支援の職業教育と環境の調整",
       "source_lessons": [],
       "before_sha256": "706749cf59b94423c168d57e0320e27e8a4371aa68916295e95138c6a2e054bb",
-      "after_sha256": "638244146e2db9e8770985e94880477532f79c50d42c647b83bf37705c26810f",
+      "after_sha256": "8afe08e599b31d91ad046311584ade3701fe85a074ee004ebfa448b1f67b564a",
       "chars_added": 530,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -604,13 +604,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第10段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/07/README.md"
       }
     },
     {
