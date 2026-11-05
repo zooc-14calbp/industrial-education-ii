@@ -1,0 +1,477 @@
+{
+  "date": "2026-11-05",
+  "rubric_version": "1",
+  "scope": "reorganized lessons and mapped existing media; editorial provisional scores",
+  "dimensions": [
+    "A 説明",
+    "B 演習",
+    "C 根拠",
+    "D 読みやすさ",
+    "E 整合"
+  ],
+  "lessons": [
+    {
+      "id": "ii01",
+      "number": 1,
+      "title": "社会・産業・仕事と職業教育の基礎",
+      "before": [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 40,
+      "after_total": 60,
+      "finding": "到達目標の産業部門・就業者・キャリア教育の定義が本文から抜ける",
+      "remaining": "労働条件や職業選択の基礎を既存詳説と一本化",
+      "evidence_heading": "産業と職業とキャリア教育",
+      "source_lessons": [
+        1,
+        2
+      ],
+      "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
+      "after_sha256": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2",
+      "chars_added": 655,
+      "media_updated": false
+    },
+    {
+      "id": "ii02",
+      "number": 2,
+      "title": "高校・高専等の制度と学校情報・資格の読み方",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "学校種・資格を確認する指示が先行し、違い自体の説明が薄い",
+      "remaining": "複数資格の受験・合格・交付を具体的な一表で比較",
+      "evidence_heading": "学校種と資格を別々に確かめる",
+      "source_lessons": [
+        3
+      ],
+      "before_sha256": "faa1566268888670d52b2feb95b4ea2d18c703b08fd52bd4a9477cb7e264d25d",
+      "after_sha256": "41c4e09a7d318e49f8ccd25da6be171567402a58697557e536bcf955a09ac2a5",
+      "chars_added": 519,
+      "media_updated": false
+    },
+    {
+      "id": "ii03",
+      "number": 3,
+      "title": "工業高校の学びから仕事・進学を考える",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "就職先の産業と実際の仕事内容の違いが十分に具体化されていない",
+      "remaining": "公式の職業紹介を一例選び、学習活動との対応表へ追加",
+      "evidence_heading": "学校の進路実績を仕事の内容へつなぐ",
+      "source_lessons": [
+        4
+      ],
+      "before_sha256": "f5b5fa017b7ab361a2bd03c3639ca70d3639388032604c07047668754f021ab6",
+      "after_sha256": "f7258d1717efcaff23cc0472f64f9e6153d166615d4b9da49a78187a2d82b680",
+      "chars_added": 510,
+      "media_updated": false
+    },
+    {
+      "id": "ii04",
+      "number": 4,
+      "title": "農林水産・食品・環境の学びとキャリア",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "農林水産の対象と情報・環境への広がりが概略にとどまる",
+      "remaining": "森林と海洋の実際の教育課程を同一の観点で比較",
+      "evidence_heading": "農林水産を生産から情報と環境まで見る",
+      "source_lessons": [
+        5,
+        6
+      ],
+      "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
+      "after_sha256": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97",
+      "chars_added": 512,
+      "media_updated": false
+    },
+    {
+      "id": "ii05",
+      "number": 5,
+      "title": "商業・ビジネス・情報の学びとキャリア",
+      "before": [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 40,
+      "after_total": 55,
+      "finding": "会計の基礎用語とAIを使う判断が到達目標に比べて不足",
+      "remaining": "売上・費用・判断理由の関係を図で示す",
+      "evidence_heading": "売上と利益と判断の根拠",
+      "source_lessons": [
+        7
+      ],
+      "before_sha256": "d01e09544bda2a79a0adf4f8c7f57da47b669c8822ad3e44e5c0c172ba3ec8f2",
+      "after_sha256": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472",
+      "chars_added": 525,
+      "media_updated": false
+    },
+    {
+      "id": "ii06",
+      "number": 6,
+      "title": "家庭・看護・福祉の学びと資格・進路",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "学ぶ対象の差と資格取得の時系列が抽象的",
+      "remaining": "資格所管機関の現行要件と学校の指定課程を最終照合",
+      "evidence_heading": "学習内容と資格取得の経路",
+      "source_lessons": [
+        8
+      ],
+      "before_sha256": "26aa7dfe725db338cca7f9e3d46e1dca7fa28e11a61533a9378cd02cb6bdee02",
+      "after_sha256": "18000a3c7da6c2bb415e834e1e0a7b14df0bb408fb535e020cea26c855b24ab1",
+      "chars_added": 513,
+      "media_updated": false
+    },
+    {
+      "id": "ii07",
+      "number": 7,
+      "title": "特別支援に関わる職業教育と卒業後への移行",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "支援の例はあるが特別支援の教育課程の多様性の説明が短い",
+      "remaining": "高等部の複数の教育課程例と移行支援の関係を図示",
+      "evidence_heading": "特別支援の職業教育と環境の調整",
+      "source_lessons": [],
+      "before_sha256": "706749cf59b94423c168d57e0320e27e8a4371aa68916295e95138c6a2e054bb",
+      "after_sha256": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab",
+      "chars_added": 530,
+      "media_updated": false
+    },
+    {
+      "id": "ii08",
+      "number": 8,
+      "title": "卒業後の進学・仕事・学び直しと大学・大学院",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 60,
+      "finding": "大学・大学院と教育学の方法が増補本文からは理解しにくい",
+      "remaining": "既存の大学課程比較カードと統計読解を負担に応じて整理",
+      "evidence_heading": "大学と大学院で何を学ぶか",
+      "source_lessons": [
+        9
+      ],
+      "before_sha256": "ae27fd42ff556e5efacfffbb18e0ceb614c0f5127924d589abefc5eb7279c190",
+      "after_sha256": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a",
+      "chars_added": 746,
+      "media_updated": false
+    },
+    {
+      "id": "ii09",
+      "number": 9,
+      "title": "中学校の学びと専門教育をつなぐ数量・ICT・情報活用",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "中学校の学びと高校側の補足を区別する理由が短い",
+      "remaining": "教科ごとの既習事項を中学校解説の該当箇所と照合",
+      "evidence_heading": "中学校側と高校側の役割を分ける",
+      "source_lessons": [
+        10
+      ],
+      "before_sha256": "3fca21890ab3aabcc8ad0c4d21fe8dc258e3a57eb6b51aa795d6ebc8d74c2cc3",
+      "after_sha256": "6e6c6e1fa81bf5fbee1b9135aa2a9a810af460866d981a1bb616bde824390d6d",
+      "chars_added": 509,
+      "media_updated": false
+    },
+    {
+      "id": "ii10",
+      "number": 10,
+      "title": "職場体験・インターンシップ・地域との連携",
+      "before": [
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 50,
+      "after_total": 55,
+      "finding": "学校と受入先の役割、体験できない場合の学び方が薄い",
+      "remaining": "活動範囲・連絡・代替学習を一枚の運営例に整理",
+      "evidence_heading": "職場体験で学ぶことと役割分担",
+      "source_lessons": [
+        11
+      ],
+      "before_sha256": "d223111a8a1d2bbe813eb227cb0b31ef01304ac5e53eb7586ca4e929bcc1c423",
+      "after_sha256": "84e4bc55244db98678df7492020d86783a66ea7095e17158fab6179dcbddd5ff",
+      "chars_added": 537,
+      "media_updated": false
+    },
+    {
+      "id": "ii11",
+      "number": 11,
+      "title": "OECDから学ぶ国際比較の基礎",
+      "before": [
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 35,
+      "after_total": 60,
+      "finding": "OECDとVETの定義が本文にないうえ、解答例が計算を説明しない",
+      "remaining": "実際の国際統計一図で平均・欠測・教育段階を照合",
+      "evidence_heading": "OECDと教育段階の基礎",
+      "source_lessons": [],
+      "before_sha256": "73cd99a355594acf36235c9b46ff9401bb134ad3ed22c803b4c8127dcee92518",
+      "after_sha256": "5969fbefc08c4386b4872bd255a23297f9bf1df4ba026018d35c25c51164d774",
+      "chars_added": 679,
+      "media_updated": false
+    },
+    {
+      "id": "ii12",
+      "number": 12,
+      "title": "各国の職業教育と学校・企業・資格",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 55,
+      "finding": "制度図をどう比較に使うかの解答例が具体例になっていない",
+      "remaining": "各国の原資料の改訂日と年齢幅を担当者が確認",
+      "evidence_heading": "制度図から学ぶ場と進路を比較する",
+      "source_lessons": [
+        12
+      ],
+      "before_sha256": "1a743ac283da39dc6b08ea4912dc6f150237c4a87c53d0e11874a0b9a62fcc75",
+      "after_sha256": "8d7fb0ab95e8d655e2e83838f84e285d515f9a801ac83d85bc72c7275c2cb64c",
+      "chars_added": 620,
+      "media_updated": false
+    },
+    {
+      "id": "ii13",
+      "number": 13,
+      "title": "高校で学び続ける条件と進路変更への支援",
+      "before": [
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 35,
+      "after_total": 55,
+      "finding": "不登校・中退・転学の到達目標を本文が説明していない",
+      "remaining": "調査の定義を添えた集計例を普通科・専門学科共通の条件で追加",
+      "evidence_heading": "不登校と学籍の変化を分けて理解する",
+      "source_lessons": [
+        13
+      ],
+      "before_sha256": "af1b7b7093e3db117e93fb174b907d858e38ba9d72bacd7a5904123e4f076d6d",
+      "after_sha256": "12f57dfec48c4f0ee78cd62a5ea567d195aa27cffb21a3b0170e9486138766f9",
+      "chars_added": 633,
+      "media_updated": false
+    },
+    {
+      "id": "ii14",
+      "number": 14,
+      "title": "高校進学以外の経路と学び・就業への支援",
+      "before": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "before_total": 40,
+      "after_total": 55,
+      "finding": "学び直しと就業相談を問う演習に解答例が対応していない",
+      "remaining": "相談先の対象年齢・在籍条件・最新連絡方法を配信前に照合",
+      "evidence_heading": "学ぶ経路と働くための相談",
+      "source_lessons": [
+        14
+      ],
+      "before_sha256": "f6f152ac622da4e393ec195966f81b8168a1784814078f975b5ec7067323b7ca",
+      "after_sha256": "a151130eef29d64d1d2a5f5ce75d6f0ff640db609ec47f24c48f25f394ceb8b6",
+      "chars_added": 792,
+      "media_updated": false
+    },
+    {
+      "id": "ii15",
+      "number": 15,
+      "title": "選択肢を広げる職業指導と進路相談",
+      "before": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "before_total": 45,
+      "after_total": 60,
+      "finding": "面談例に対しAI・適性検査と四項目の説明例が不足",
+      "remaining": "レポートBの二つの選択方式の分量と評価の対応を試読",
+      "evidence_heading": "関心を確かめ候補を一緒に見直す",
+      "source_lessons": [
+        15
+      ],
+      "before_sha256": "f53515007b5fb8b2bd3145efcabb8e481c56e23b9f3f4af604e45601a33c0569",
+      "after_sha256": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2",
+      "chars_added": 615,
+      "media_updated": false
+    }
+  ]
+}
