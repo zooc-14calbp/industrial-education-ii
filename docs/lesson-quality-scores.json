@@ -110,20 +110,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "学校種・資格を確認する指示が先行し、違い自体の説明が薄い",
-      "remaining": "第二種等との比較、各学校の開講科目・実習条件の配信時点での照合。",
+      "remaining": "第二種等との比較、各学校の開講科目・実習条件の配信時点での照合。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "学校種と資格を別々に確かめる",
       "source_lessons": [
         3
       ],
       "before_sha256": "faa1566268888670d52b2feb95b4ea2d18c703b08fd52bd4a9477cb7e264d25d",
-      "after_sha256": "897af20f7ad028e711647e492e48df8f0224548f17bb15d319a6ec9aed868734",
+      "after_sha256": "b26f7d5124c463f359ee22906aeae733fec653925102a12074c6c3fcc1406e4d",
       "chars_added": 1153,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -168,13 +168,35 @@
           "after_total": 65,
           "reason": "第一種電気工事士の試験合格経路の実務経験と交付窓口を照合。学校側の学修条件と区別。",
           "before_body_sha256": "e06456a8d9e25daa82f66a658714da32eb5809828b00b4baa16e18e35578e144"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第4段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/02/README.md"
       }
     },
     {

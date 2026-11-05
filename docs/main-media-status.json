@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage3",
+  "revision": "mainmedia-20261106-stage4",
   "updated": [
     {
       "id": "i01",
@@ -11,6 +11,17 @@
       "seconds": 425.6333333333333,
       "path": "reorganized/20261105/main/01",
       "body_sha256_lf": "26ef391e98516f54fa0dfddc720583e2f8318c551bdf2464925dd444f26a6de6"
+    },
+    {
+      "id": "i02",
+      "course": "i",
+      "number": 2,
+      "source_lesson": 2,
+      "title": "工業の専門分野と社会を支える技術",
+      "slides": 15,
+      "seconds": 397.36666666666673,
+      "path": "reorganized/20261105/main/02",
+      "body_sha256_lf": "2b14a82d38b1207752821b0a582cdf6d48216a9ae30a836fcf43fba61f55992a"
     },
     {
       "id": "i08",
@@ -57,6 +68,17 @@
       "body_sha256_lf": "165ecc4c8e9d736213d430277de255f08618eca3675742c7d143280603ce7e5d"
     },
     {
+      "id": "ii02",
+      "course": "ii",
+      "number": 2,
+      "source_lesson": 3,
+      "title": "高校・高専等の制度と学校情報・資格の読み方",
+      "slides": 21,
+      "seconds": 528.1333333333334,
+      "path": "reorganized/20261105/main/02",
+      "body_sha256_lf": "f6beed9fa993f6d758c4b5f8ad98a702dbaef98d835a0b0b504a475c16adc8a9"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -79,7 +101,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 23,
+  "remaining_lessons": 21,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

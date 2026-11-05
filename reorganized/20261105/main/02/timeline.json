@@ -1,0 +1,226 @@
+{
+  "seconds": 528.1333333333334,
+  "fps": 30,
+  "slides": 21,
+  "captions": 80,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "高校・高専等の制度と学校情報・資格の読み方",
+      "start": 0,
+      "end": 19.1,
+      "seconds": 19.1,
+      "spoken_seconds": 17.592,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 19.1,
+      "end": 47.36666666666667,
+      "seconds": 28.266666666666666,
+      "spoken_seconds": 26.736,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 47.36666666666667,
+      "end": 68.33333333333333,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "学校名から入学段階を調べる",
+      "start": 68.33333333333333,
+      "end": 100.19999999999999,
+      "seconds": 31.866666666666667,
+      "spoken_seconds": 30.36,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "学校の種類と主な入学段階",
+      "start": 100.19999999999999,
+      "end": 125.53333333333332,
+      "seconds": 25.333333333333332,
+      "spoken_seconds": 23.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "高専の本科と卒業後の選択肢",
+      "start": 125.53333333333332,
+      "end": 159.7,
+      "seconds": 34.166666666666664,
+      "spoken_seconds": 32.64,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "学校案内と募集要項の使い分け",
+      "start": 159.7,
+      "end": 187.7,
+      "seconds": 28.0,
+      "spoken_seconds": 26.496,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "定時制・単位制・フレックス",
+      "start": 187.7,
+      "end": 222.29999999999998,
+      "seconds": 34.6,
+      "spoken_seconds": 33.096,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "実習の曜日・時間・場所を確かめる",
+      "start": 222.29999999999998,
+      "end": 249.2,
+      "seconds": 26.9,
+      "spoken_seconds": 25.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "試験合格と免状の交付",
+      "start": 249.2,
+      "end": 281.3,
+      "seconds": 32.1,
+      "spoken_seconds": 30.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "第一種で必要となる実務経験",
+      "start": 281.3,
+      "end": 315.03333333333336,
+      "seconds": 33.733333333333334,
+      "spoken_seconds": 32.232,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "知りたいことと確認する先",
+      "start": 315.03333333333336,
+      "end": 338.20000000000005,
+      "seconds": 23.166666666666668,
+      "spoken_seconds": 21.648,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "考える時間：一つの問い",
+      "start": 338.20000000000005,
+      "end": 379.00000000000006,
+      "seconds": 40.8,
+      "spoken_seconds": 39.288,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 14,
+      "title": "自分の説明を確かめる",
+      "start": 379.00000000000006,
+      "end": 390.20000000000005,
+      "seconds": 11.2,
+      "spoken_seconds": 9.696,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 15,
+      "title": "説明例",
+      "start": 390.20000000000005,
+      "end": 412.86666666666673,
+      "seconds": 22.666666666666668,
+      "spoken_seconds": 21.144,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "今回の学びを次へ",
+      "start": 412.86666666666673,
+      "end": 437.5333333333334,
+      "seconds": 24.666666666666668,
+      "spoken_seconds": 23.136,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "参考資料：読む場所",
+      "start": 437.5333333333334,
+      "end": 457.13333333333344,
+      "seconds": 19.6,
+      "spoken_seconds": 18.096,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "参考資料：読む場所",
+      "start": 457.13333333333344,
+      "end": 473.1000000000001,
+      "seconds": 15.966666666666667,
+      "spoken_seconds": 14.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "参考資料：読む場所",
+      "start": 473.1000000000001,
+      "end": 491.66666666666674,
+      "seconds": 18.566666666666666,
+      "spoken_seconds": 17.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "参考資料：読む場所",
+      "start": 491.66666666666674,
+      "end": 511.1333333333334,
+      "seconds": 19.466666666666665,
+      "spoken_seconds": 17.952,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "参考資料：読む場所",
+      "start": 511.1333333333334,
+      "end": 528.1333333333334,
+      "seconds": 17.0,
+      "spoken_seconds": 15.48,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
