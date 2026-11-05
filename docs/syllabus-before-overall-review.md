@@ -1,6 +1,6 @@
 # 工業科教育論Ⅱ 授業構成案
 
-> 次の改訂：[産業・職業等の社会の基礎](social-foundations.md)、[職業指導](career-guidance-plan.md)、第10回の[ICTの接続](ict-transition-plan.md)、[資格・免許](qualifications-plan.md)、[統計を読む活動](statistics-reading.md)を充実させます。動画・資料確認・Thinking time・小休止を含め1回90分程度を目安とし、70＋20分には固定しません。[学修の進め方](study-guide.md)
+> 次の改訂：[産業・職業等の社会の基礎](social-foundations.md)、[職業指導](career-guidance-plan.md)、第10回の[ICTの接続](ict-transition-plan.md)、[資格・免許](qualifications-plan.md)、[統計を読む活動](statistics-reading.md)を充実させます。動画・資料確認・考える時間・小休止を含め1回90分程度を目安とし、70＋20分には固定しません。[学修の進め方](study-guide.md)
 
 > 更新：全15回の動画初稿と段階的な演習を追加しました。現行の進め方と時間は[実測時間と演習の設計](video-duration-current.md)、[動画一覧](../video/README.md)を参照してください。以下の70＋20分等は初期設計・以前の点検を含みます。
 

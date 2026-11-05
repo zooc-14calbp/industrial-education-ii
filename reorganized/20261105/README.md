@@ -19,3 +19,7 @@
 [新第11回：OECDから学ぶ国際比較の基礎](ii-11-explanation.md)／[新第12回：各国の職業教育と学校・企業・資格](ii-12-explanation.md)を追加しました。
 
 [制度図・年齢・職業教育の位置（PDF4ページ）](international-systems/education-systems-age-vet.pdf)／[PNG・編集用SVG・根拠資料](international-systems/README.md)。日本・ドイツ・フィンランドの初等から大学院・学び直しまでを比較します。年齢は標準的な目安・配置例です。動画・既存スライドへは未反映です。
+
+## 定時制・通信制等の追補
+
+[共通解説とⅠ・Ⅱの分担](../../docs/flexible-learning-pathways.md)を追加しました。学科・課程・単位制・時間帯を分け、工業の学びと実習・進路へつなぎます。本文・設計は「考える時間」と表記し、既存の映像・図表の英語表記は次回の差替え時に更新します。
