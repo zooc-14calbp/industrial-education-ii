@@ -26,21 +26,21 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 40,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "到達目標の産業部門・就業者・キャリア教育の定義が本文から抜ける",
-      "remaining": "労働条件や職業選択の基礎を既存詳説と一本化",
+      "remaining": "支援技術での読み順確認、担当者による内容・発音の確認、受講者による読解・演習時間の試用。",
       "evidence_heading": "産業と職業とキャリア教育",
       "source_lessons": [
         1,
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "fb165523b7b5ea8030277c72c7efc6a861a3158d7144d8a73194edd5eb8f7c03",
+      "after_sha256": "404b9b90fd8e2c08c1264a68fe3652c8c931fd1bca138dfb192ae4d0790fe906",
       "chars_added": 655,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -63,13 +63,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第3段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/01/README.md"
       }
     },
     {

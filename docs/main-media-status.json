@@ -1,6 +1,17 @@
 {
-  "revision": "mainmedia-20261106-stage2",
+  "revision": "mainmedia-20261106-stage3",
   "updated": [
+    {
+      "id": "i01",
+      "course": "i",
+      "number": 1,
+      "source_lesson": 1,
+      "title": "工業高校と高校教育・職業教育の見取り図",
+      "slides": 19,
+      "seconds": 425.6333333333333,
+      "path": "reorganized/20261105/main/01",
+      "body_sha256_lf": "26ef391e98516f54fa0dfddc720583e2f8318c551bdf2464925dd444f26a6de6"
+    },
     {
       "id": "i08",
       "course": "i",
@@ -35,6 +46,17 @@
       "body_sha256_lf": "c70120beef8eec2a7c74e02394c5de812d71cb3e2f73e5d8b7c2d58ba5817077"
     },
     {
+      "id": "ii01",
+      "course": "ii",
+      "number": 1,
+      "source_lesson": 2,
+      "title": "社会・産業・仕事と職業教育の基礎",
+      "slides": 24,
+      "seconds": 560.1666666666665,
+      "path": "reorganized/20261105/main/01",
+      "body_sha256_lf": "165ecc4c8e9d736213d430277de255f08618eca3675742c7d143280603ce7e5d"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -57,7 +79,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 25,
+  "remaining_lessons": 23,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }
