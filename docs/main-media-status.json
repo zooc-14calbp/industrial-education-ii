@@ -1,0 +1,41 @@
+{
+  "revision": "mainmedia-20261105-stage1",
+  "updated": [
+    {
+      "id": "i08",
+      "course": "i",
+      "number": 8,
+      "source_lesson": 8,
+      "title": "工業技術基礎と実習と課題研究",
+      "slides": 26,
+      "seconds": 760.8000000000001,
+      "path": "reorganized/20261105/main/08",
+      "body_sha256_lf": "794469bba56dec4d23b37bf2302596e3ff859704533174ca2797d357204f78ad"
+    },
+    {
+      "id": "i10",
+      "course": "i",
+      "number": 10,
+      "source_lesson": 10,
+      "title": "課題研究と教育実践研究の読み方",
+      "slides": 25,
+      "seconds": 729.8333333333334,
+      "path": "reorganized/20261105/main/10",
+      "body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279"
+    },
+    {
+      "id": "ii10",
+      "course": "ii",
+      "number": 10,
+      "source_lesson": 11,
+      "title": "職場体験・インターンシップ・地域との連携",
+      "slides": 29,
+      "seconds": 793.1666666666666,
+      "path": "reorganized/20261105/main/10",
+      "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
+    }
+  ],
+  "remaining_lessons": 27,
+  "scope": "reorganized course numbering; selected complete main-media packages",
+  "study_time_verified": false
+}

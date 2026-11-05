@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "scope": "再編案の増補要点スライドのみ。旧番号の本編スライド・動画は未更新。",
+  "scope": "増補要点スライド全15回と、main-media-status.mdに示す本編統合済み回。その他の本編・動画は未統合。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
     "slides.pptx": "d7b426e02bcf1c952499cbcd878e265fdd98baae5e34ce84a9a34d339de80f23",
@@ -211,7 +211,7 @@
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
-      "body_sha256": "dc4b4c6519a1bcfd551e2ce2673d5fc0a2cce81ed883586793b50d6a62e0886e",
+      "body_sha256": "b6ec84c7d80520167342db8093af3847b7d4d0dab886a1dbe85fd241f31bc9a7",
       "notes_body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386",
       "pages": [
         38,
@@ -225,10 +225,13 @@
       "status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main"
       },
-      "revision": "科目・研究・体験の根拠と具体例"
+      "revision": "科目・研究・体験の根拠と具体例",
+      "main_entry": "reorganized/20261105/main/10/README.md",
+      "main_manifest": "reorganized/20261105/main/10/manifest.json",
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
     },
     {
       "number": 11,

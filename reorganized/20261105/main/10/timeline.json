@@ -1,0 +1,306 @@
+{
+  "seconds": 793.1666666666666,
+  "fps": 30,
+  "slides": 29,
+  "captions": 119,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "職場体験・インターンシップ・地域との連携",
+      "start": 0,
+      "end": 18.0,
+      "seconds": 18.0,
+      "spoken_seconds": 16.488,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.0,
+      "end": 33.0,
+      "seconds": 15.0,
+      "spoken_seconds": 13.488,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学修の進め方",
+      "start": 33.0,
+      "end": 53.733333333333334,
+      "seconds": 20.733333333333334,
+      "spoken_seconds": 19.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "体験の目的を、先に確かめる",
+      "start": 53.733333333333334,
+      "end": 96.03333333333333,
+      "seconds": 42.3,
+      "spoken_seconds": 40.8,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "体験中は、活動と学びの根拠を残す",
+      "start": 96.03333333333333,
+      "end": 132.06666666666666,
+      "seconds": 36.03333333333333,
+      "spoken_seconds": 34.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "事後学習で、教科と次の問いへ戻す",
+      "start": 132.06666666666666,
+      "end": 167.16666666666666,
+      "seconds": 35.1,
+      "spoken_seconds": 33.576,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "連携を続けるための条件も学ぶ",
+      "start": 167.16666666666666,
+      "end": 204.39999999999998,
+      "seconds": 37.233333333333334,
+      "spoken_seconds": 35.712,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "職場体験で学ぶことと役割分担",
+      "start": 204.39999999999998,
+      "end": 232.13333333333333,
+      "seconds": 27.733333333333334,
+      "spoken_seconds": 26.232,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "職場体験で学ぶことと役割分担",
+      "start": 232.13333333333333,
+      "end": 270.7,
+      "seconds": 38.56666666666667,
+      "spoken_seconds": 37.056,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "職場体験で学ぶことと役割分担",
+      "start": 270.7,
+      "end": 304.8,
+      "seconds": 34.1,
+      "spoken_seconds": 32.592,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "職場体験の前・当日・後",
+      "start": 304.8,
+      "end": 323.5,
+      "seconds": 18.7,
+      "spoken_seconds": 17.184,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "職場体験の前・当日・後",
+      "start": 323.5,
+      "end": 345.23333333333335,
+      "seconds": 21.733333333333334,
+      "spoken_seconds": 20.208,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "職場体験の前・当日・後：比較表",
+      "start": 345.23333333333335,
+      "end": 365.43333333333334,
+      "seconds": 20.2,
+      "spoken_seconds": 18.672,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "公表グラフを根拠と限界まで読む（1）",
+      "start": 365.43333333333334,
+      "end": 402.4666666666667,
+      "seconds": 37.03333333333333,
+      "spoken_seconds": 35.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "公表グラフを根拠と限界まで読む（2）",
+      "start": 402.4666666666667,
+      "end": 413.3,
+      "seconds": 10.833333333333334,
+      "spoken_seconds": 9.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "公表グラフを根拠と限界まで読む：比較表",
+      "start": 413.3,
+      "end": 446.3,
+      "seconds": 33.0,
+      "spoken_seconds": 31.488,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "公表グラフを根拠と限界まで読む",
+      "start": 446.3,
+      "end": 477.90000000000003,
+      "seconds": 31.6,
+      "spoken_seconds": 30.096,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "公表グラフを根拠と限界まで読む",
+      "start": 477.90000000000003,
+      "end": 508.7666666666667,
+      "seconds": 30.866666666666667,
+      "spoken_seconds": 29.352,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "工業分野の体験を学習に結び付ける架空例",
+      "start": 508.7666666666667,
+      "end": 542.2,
+      "seconds": 33.43333333333333,
+      "spoken_seconds": 31.92,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "工業分野の体験を学習に結び付ける架空例",
+      "start": 542.2,
+      "end": 575.7666666666668,
+      "seconds": 33.56666666666667,
+      "spoken_seconds": 32.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "工業分野の体験を学習に結び付ける架空例",
+      "start": 575.7666666666668,
+      "end": 608.0666666666667,
+      "seconds": 32.3,
+      "spoken_seconds": 30.792,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "工業分野の体験を学習に結び付ける架空例",
+      "start": 608.0666666666667,
+      "end": 643.8333333333334,
+      "seconds": 35.766666666666666,
+      "spoken_seconds": 34.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "考える時間：一つの問い",
+      "start": 643.8333333333334,
+      "end": 675.9333333333334,
+      "seconds": 32.1,
+      "spoken_seconds": 30.6,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 24,
+      "title": "自分の説明を確かめる",
+      "start": 675.9333333333334,
+      "end": 688.7333333333333,
+      "seconds": 12.8,
+      "spoken_seconds": 11.28,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 25,
+      "title": "説明例",
+      "start": 688.7333333333333,
+      "end": 709.2666666666667,
+      "seconds": 20.533333333333335,
+      "spoken_seconds": 19.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "今回の学びを次へ",
+      "start": 709.2666666666667,
+      "end": 731.4333333333333,
+      "seconds": 22.166666666666668,
+      "spoken_seconds": 20.664,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "参考資料：読む場所",
+      "start": 731.4333333333333,
+      "end": 754.3666666666666,
+      "seconds": 22.933333333333334,
+      "spoken_seconds": 21.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "参考資料：読む場所",
+      "start": 754.3666666666666,
+      "end": 774.0666666666666,
+      "seconds": 19.7,
+      "spoken_seconds": 18.192,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "参考資料：読む場所",
+      "start": 774.0666666666666,
+      "end": 793.1666666666666,
+      "seconds": 19.1,
+      "spoken_seconds": 17.592,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
