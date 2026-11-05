@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage10",
+  "revision": "mainmedia-20261106-stage11",
   "updated": [
     {
       "id": "i01",
@@ -88,6 +88,17 @@
       "seconds": 760.8000000000001,
       "path": "reorganized/20261105/main/08",
       "body_sha256_lf": "794469bba56dec4d23b37bf2302596e3ff859704533174ca2797d357204f78ad"
+    },
+    {
+      "id": "i09",
+      "course": "i",
+      "number": 9,
+      "source_lesson": 9,
+      "title": "工業科の学習状況を捉え、参加と理解を支える",
+      "slides": 25,
+      "seconds": 549.6333333333333,
+      "path": "reorganized/20261105/main/09",
+      "body_sha256_lf": "cd9f32dac1ec0577ccfcd986dc672530c5cc48f5fe7c026f23f2164669df91eb"
     },
     {
       "id": "i10",
@@ -211,7 +222,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 11,
+  "remaining_lessons": 10,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }
