@@ -38,7 +38,7 @@
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "bc477f68f042e009756364f34b19f1d1c7132a8d61403fc6e5b2a521058e321b",
+      "after_sha256": "143e98a00c5740d8385d7d77d6c067308eab1d05506c1f57a8bae351ae1f28d8",
       "chars_added": 655,
       "media_updated": false,
       "revision_history": [
@@ -99,7 +99,7 @@
         3
       ],
       "before_sha256": "faa1566268888670d52b2feb95b4ea2d18c703b08fd52bd4a9477cb7e264d25d",
-      "after_sha256": "afc2cfb916f16b828e0c187f3705ea8e5602516db4481d1a33da7135076f4b17",
+      "after_sha256": "897af20f7ad028e711647e492e48df8f0224548f17bb15d319a6ec9aed868734",
       "chars_added": 1153,
       "media_updated": false,
       "revision_history": [
@@ -182,7 +182,7 @@
         4
       ],
       "before_sha256": "f5b5fa017b7ab361a2bd03c3639ca70d3639388032604c07047668754f021ab6",
-      "after_sha256": "dfa9af1de088caf828c52a9c1a66a4564e3db336a10e625ad617cf5f7cef50a3",
+      "after_sha256": "0106350659ad1f5a4e208ff33cc07113719b55eef71e9927da9ba85dd9d1eaa0",
       "chars_added": 510,
       "media_updated": false,
       "revision_history": [
@@ -244,7 +244,7 @@
         6
       ],
       "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
-      "after_sha256": "90744141a1263ef1d2663658f656ba2aef22a700de479ad0aeebb5b7fe8bdf2f",
+      "after_sha256": "2fbef6027e2a328688342974a31a81d8d4d7a4b896711d6ec7c7ad39654eadfa",
       "chars_added": 512,
       "media_updated": false,
       "revision_history": [
@@ -305,7 +305,7 @@
         7
       ],
       "before_sha256": "d01e09544bda2a79a0adf4f8c7f57da47b669c8822ad3e44e5c0c172ba3ec8f2",
-      "after_sha256": "9b0bea274b9ef5c5c58461e3240169f0b6078ed57a9b551e8ffc261fc8364eb2",
+      "after_sha256": "130053f4c58e7e683caf268ca7336171341e1c70c0bd71e9f9d85a08ca24605f",
       "chars_added": 525,
       "media_updated": false,
       "revision_history": [
@@ -366,7 +366,7 @@
         8
       ],
       "before_sha256": "26aa7dfe725db338cca7f9e3d46e1dca7fa28e11a61533a9378cd02cb6bdee02",
-      "after_sha256": "796a4f597830842956421b525bd72fbd560e778e9c51991c9da5b65d0d5580f6",
+      "after_sha256": "d61d0915baa06322c7c3df28e13da44331cdef79c62d96d3f3ee6d678e77d5c0",
       "chars_added": 1990,
       "media_updated": false,
       "revision_history": [
@@ -447,7 +447,7 @@
       "evidence_heading": "特別支援の職業教育と環境の調整",
       "source_lessons": [],
       "before_sha256": "706749cf59b94423c168d57e0320e27e8a4371aa68916295e95138c6a2e054bb",
-      "after_sha256": "b9c61873da13c4c4c5ff3bb39f56c254f128c30032471d3d6ea3d9eda0945f9a",
+      "after_sha256": "4aafd67d54029b1a3f7dd8d2f0b26c0d483e3b64aca66fb27a20c36738bed34e",
       "chars_added": 530,
       "media_updated": false,
       "revision_history": [
@@ -508,7 +508,7 @@
         9
       ],
       "before_sha256": "ae27fd42ff556e5efacfffbb18e0ceb614c0f5127924d589abefc5eb7279c190",
-      "after_sha256": "f0ce3805e669c6ad9c44b992ffbdf02c1ee090835799d79e2d91988087687e39",
+      "after_sha256": "a059d0f077a202f7070ef775320ac81062e251ad0ac03e844788214137aa85cf",
       "chars_added": 746,
       "media_updated": false,
       "revision_history": [
@@ -569,7 +569,7 @@
         10
       ],
       "before_sha256": "3fca21890ab3aabcc8ad0c4d21fe8dc258e3a57eb6b51aa795d6ebc8d74c2cc3",
-      "after_sha256": "0da708b151beaf97aa7b3f92ace5d84c0c04cb039c8061d0b25e6f35cd640723",
+      "after_sha256": "8d3af838e6d0b25197abaf86e4a99f526312fab3351e8934cb963efb8993706a",
       "chars_added": 574,
       "media_updated": false,
       "revision_history": [
@@ -630,7 +630,7 @@
         11
       ],
       "before_sha256": "d223111a8a1d2bbe813eb227cb0b31ef01304ac5e53eb7586ca4e929bcc1c423",
-      "after_sha256": "b6ec84c7d80520167342db8093af3847b7d4d0dab886a1dbe85fd241f31bc9a7",
+      "after_sha256": "7e734b9ca0c41ecc85edf8224acb7f41cefa5fe664c68022ca1af0c6de4e0ae5",
       "chars_added": 1987,
       "media_updated": true,
       "revision_history": [
@@ -733,7 +733,7 @@
       "evidence_heading": "OECDと教育段階の基礎",
       "source_lessons": [],
       "before_sha256": "73cd99a355594acf36235c9b46ff9401bb134ad3ed22c803b4c8127dcee92518",
-      "after_sha256": "958c10e73389e2ff169cb004b18fb1c745ff8f521d2a8ab71d5e907f1e457e3f",
+      "after_sha256": "9ed5e66e755162bf7eb11ef466739e47f8e8052d23338372b2922ed0731f3b43",
       "chars_added": 679,
       "media_updated": false,
       "revision_history": [
@@ -794,7 +794,7 @@
         12
       ],
       "before_sha256": "1a743ac283da39dc6b08ea4912dc6f150237c4a87c53d0e11874a0b9a62fcc75",
-      "after_sha256": "8f6a0324558a58e400ae7ae155234e275e9acc19b3a37e6491142380e7837347",
+      "after_sha256": "ee4752210e3224be90098fdd330c05ee93423de0ce05b8ace1bb9098a699d37d",
       "chars_added": 2556,
       "media_updated": false,
       "revision_history": [
@@ -877,7 +877,7 @@
         13
       ],
       "before_sha256": "af1b7b7093e3db117e93fb174b907d858e38ba9d72bacd7a5904123e4f076d6d",
-      "after_sha256": "c8bcd8a50aff28f63924cc17c888a6f0e00467a1b07f8ebd65e033204f485d3f",
+      "after_sha256": "8ed1f4dd5125d0ea5f10739df395948116bf3d67ad9e22bf620a1780930824f7",
       "chars_added": 2197,
       "media_updated": false,
       "revision_history": [
@@ -954,7 +954,7 @@
         14
       ],
       "before_sha256": "f6f152ac622da4e393ec195966f81b8168a1784814078f975b5ec7067323b7ca",
-      "after_sha256": "4e085f159013a2133ef19c96201513288d8058f9928ad6ad3e0e3bbb2d1504de",
+      "after_sha256": "a68c8fec2ba8f41b3f8dbc5798fbefe5d1fa070498a64a9774157c037381afcb",
       "chars_added": 2508,
       "media_updated": false,
       "revision_history": [
@@ -1031,7 +1031,7 @@
         15
       ],
       "before_sha256": "f53515007b5fb8b2bd3145efcabb8e481c56e23b9f3f4af604e45601a33c0569",
-      "after_sha256": "6b0758ea034de7ca57fe18bb35c5dd5903af9f516a73ff9c9cab2bf646bd037b",
+      "after_sha256": "e4654e62def91f11362c0a25ea25ad759745fcbcdb2f7f452c68be698aedded2",
       "chars_added": 615,
       "media_updated": false,
       "revision_history": [

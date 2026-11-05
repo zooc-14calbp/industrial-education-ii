@@ -20,7 +20,7 @@
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "bc477f68f042e009756364f34b19f1d1c7132a8d61403fc6e5b2a521058e321b",
+      "body_sha256": "143e98a00c5740d8385d7d77d6c067308eab1d05506c1f57a8bae351ae1f28d8",
       "notes_body_sha256_lf": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2",
       "pages": [
         2,
@@ -37,12 +37,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 2,
       "body": "reorganized/20261105/expanded/02.md",
-      "body_sha256": "afc2cfb916f16b828e0c187f3705ea8e5602516db4481d1a33da7135076f4b17",
+      "body_sha256": "897af20f7ad028e711647e492e48df8f0224548f17bb15d319a6ec9aed868734",
       "notes_body_sha256_lf": "e34e9c6a071a34358164b0c46ce17d96834e48be83762aff6b53be71054befd7",
       "pages": [
         6,
@@ -59,12 +60,13 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "revision": "法令・免許・資格の重点改稿"
+      "revision": "法令・免許・資格の重点改稿",
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 3,
       "body": "reorganized/20261105/expanded/03.md",
-      "body_sha256": "dfa9af1de088caf828c52a9c1a66a4564e3db336a10e625ad617cf5f7cef50a3",
+      "body_sha256": "0106350659ad1f5a4e208ff33cc07113719b55eef71e9927da9ba85dd9d1eaa0",
       "notes_body_sha256_lf": "f7258d1717efcaff23cc0472f64f9e6153d166615d4b9da49a78187a2d82b680",
       "pages": [
         10,
@@ -80,12 +82,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 4,
       "body": "reorganized/20261105/expanded/04.md",
-      "body_sha256": "90744141a1263ef1d2663658f656ba2aef22a700de479ad0aeebb5b7fe8bdf2f",
+      "body_sha256": "2fbef6027e2a328688342974a31a81d8d4d7a4b896711d6ec7c7ad39654eadfa",
       "notes_body_sha256_lf": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97",
       "pages": [
         14,
@@ -102,12 +105,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
-      "body_sha256": "9b0bea274b9ef5c5c58461e3240169f0b6078ed57a9b551e8ffc261fc8364eb2",
+      "body_sha256": "130053f4c58e7e683caf268ca7336171341e1c70c0bd71e9f9d85a08ca24605f",
       "notes_body_sha256_lf": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472",
       "pages": [
         18,
@@ -123,12 +127,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
-      "body_sha256": "796a4f597830842956421b525bd72fbd560e778e9c51991c9da5b65d0d5580f6",
+      "body_sha256": "d61d0915baa06322c7c3df28e13da44331cdef79c62d96d3f3ee6d678e77d5c0",
       "notes_body_sha256_lf": "47a700c58c495403ef54c43564c53baa0e0d13c9c419e8cabab5bd858517e6db",
       "pages": [
         22,
@@ -145,12 +150,13 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "revision": "法令・免許・資格の重点改稿"
+      "revision": "法令・免許・資格の重点改稿",
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 7,
       "body": "reorganized/20261105/expanded/07.md",
-      "body_sha256": "b9c61873da13c4c4c5ff3bb39f56c254f128c30032471d3d6ea3d9eda0945f9a",
+      "body_sha256": "4aafd67d54029b1a3f7dd8d2f0b26c0d483e3b64aca66fb27a20c36738bed34e",
       "notes_body_sha256_lf": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab",
       "pages": [
         26,
@@ -164,12 +170,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
-      "body_sha256": "f0ce3805e669c6ad9c44b992ffbdf02c1ee090835799d79e2d91988087687e39",
+      "body_sha256": "a059d0f077a202f7070ef775320ac81062e251ad0ac03e844788214137aa85cf",
       "notes_body_sha256_lf": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a",
       "pages": [
         30,
@@ -185,12 +192,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 9,
       "body": "reorganized/20261105/expanded/09.md",
-      "body_sha256": "0da708b151beaf97aa7b3f92ace5d84c0c04cb039c8061d0b25e6f35cd640723",
+      "body_sha256": "8d3af838e6d0b25197abaf86e4a99f526312fab3351e8934cb963efb8993706a",
       "notes_body_sha256_lf": "04d65005a9871c21d2f448c747920ef8726d5d86ba22c9b778c65900f5881a3b",
       "pages": [
         34,
@@ -206,12 +214,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
-      "body_sha256": "b6ec84c7d80520167342db8093af3847b7d4d0dab886a1dbe85fd241f31bc9a7",
+      "body_sha256": "7e734b9ca0c41ecc85edf8224acb7f41cefa5fe664c68022ca1af0c6de4e0ae5",
       "notes_body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386",
       "pages": [
         38,
@@ -231,12 +240,13 @@
       "revision": "科目・研究・体験の根拠と具体例",
       "main_entry": "reorganized/20261105/main/10/README.md",
       "main_manifest": "reorganized/20261105/main/10/manifest.json",
-      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。"
+      "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。",
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 11,
       "body": "reorganized/20261105/expanded/11.md",
-      "body_sha256": "958c10e73389e2ff169cb004b18fb1c745ff8f521d2a8ab71d5e907f1e457e3f",
+      "body_sha256": "9ed5e66e755162bf7eb11ef466739e47f8e8052d23338372b2922ed0731f3b43",
       "notes_body_sha256_lf": "5969fbefc08c4386b4872bd255a23297f9bf1df4ba026018d35c25c51164d774",
       "pages": [
         42,
@@ -250,12 +260,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 12,
       "body": "reorganized/20261105/expanded/12.md",
-      "body_sha256": "8f6a0324558a58e400ae7ae155234e275e9acc19b3a37e6491142380e7837347",
+      "body_sha256": "ee4752210e3224be90098fdd330c05ee93423de0ce05b8ace1bb9098a699d37d",
       "notes_body_sha256_lf": "0694228f228e4148afcad63a9c64d40cb4a564e18f25f67db82aa0f53b4c2967",
       "pages": [
         46,
@@ -272,12 +283,13 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "revision": "教育課程表・各国制度図の重点改稿"
+      "revision": "教育課程表・各国制度図の重点改稿",
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 13,
       "body": "reorganized/20261105/expanded/13.md",
-      "body_sha256": "c8bcd8a50aff28f63924cc17c888a6f0e00467a1b07f8ebd65e033204f485d3f",
+      "body_sha256": "8ed1f4dd5125d0ea5f10739df395948116bf3d67ad9e22bf620a1780930824f7",
       "notes_body_sha256_lf": "46c01b0dd6667090f9959d8cfc2f4a4a35ed06366af08e7850dfd4868c3e31e2",
       "pages": [
         50,
@@ -293,12 +305,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 14,
       "body": "reorganized/20261105/expanded/14.md",
-      "body_sha256": "4e085f159013a2133ef19c96201513288d8058f9928ad6ad3e0e3bbb2d1504de",
+      "body_sha256": "a68c8fec2ba8f41b3f8dbc5798fbefe5d1fa070498a64a9774157c037381afcb",
       "notes_body_sha256_lf": "f6e8ca578797815a657c30d4c567f1cff4128f1401628a0fb83b6e3cb5f03324",
       "pages": [
         54,
@@ -314,12 +327,13 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     },
     {
       "number": 15,
       "body": "reorganized/20261105/expanded/15.md",
-      "body_sha256": "6b0758ea034de7ca57fe18bb35c5dd5903af9f516a73ff9c9cab2bf646bd037b",
+      "body_sha256": "e4654e62def91f11362c0a25ea25ad759745fcbcdb2f7f452c68be698aedded2",
       "notes_body_sha256_lf": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2",
       "pages": [
         58,
@@ -335,7 +349,8 @@
         "supplement_pdf": "updated",
         "original_slides": "pending",
         "videos": "pending"
-      }
+      },
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
     }
   ]
 }
