@@ -1,5 +1,7 @@
 # 工業科教育論Ⅱ 第10回　中学校の情報活用と専門高校の初期学習
 
+配布スライド・ガイドの表記を「考える時間」に統一しました。旧動画の画面には英語表記が残る箇所があります。
+
 2026年11月5日、全体見直しを反映した差替版の初稿。スライド・原稿・音声・字幕・学生用ガイドを一緒に更新しました。[改訂設計](../../lessons/10/revision-plan.md)／[全30回の差替状況](../../docs/media-replacement-status.md)。
 
 [動画MP4](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/curriculum-replacement-20261105-batch1/industrial-education-ii-10.mp4)／[音声MP3](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/curriculum-replacement-20261105-batch1/industrial-education-ii-10-audio.mp3)／[スライドPPTX](slides.pptx)／[スライドPDF](slides.pdf)／[学生用ガイドPDF](student-guide.pdf)／[字幕SRT](captions.srt)／[字幕VTT](captions.vtt)／[原稿](narration.txt)。演習は学生用ガイドへ統合しました。[従来の演習ガイドのリンク](exercise-guide.pdf)からも同じ改訂版を読めます。
