@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage8",
+  "revision": "mainmedia-20261106-stage9",
   "updated": [
     {
       "id": "i01",
@@ -55,6 +55,17 @@
       "seconds": 740.6333333333333,
       "path": "reorganized/20261105/main/05",
       "body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4"
+    },
+    {
+      "id": "i06",
+      "course": "i",
+      "number": 6,
+      "source_lesson": 6,
+      "title": "工業科で育てる力と授業の目標",
+      "slides": 20,
+      "seconds": 410.4666666666667,
+      "path": "reorganized/20261105/main/06",
+      "body_sha256_lf": "748dc90789802406ce9cb93a204e3a0a2f7f660d61aa0b0a8a0687e4610ef802"
     },
     {
       "id": "i08",
@@ -145,6 +156,17 @@
       "body_sha256_lf": "d41ebe6250a8146d817e03708991c4c3c0513987cb1f188288fe57598f7db61e"
     },
     {
+      "id": "ii06",
+      "course": "ii",
+      "number": 6,
+      "source_lesson": 7,
+      "title": "家庭・看護・福祉の学びと資格・進路",
+      "slides": 25,
+      "seconds": 562.7666666666668,
+      "path": "reorganized/20261105/main/06",
+      "body_sha256_lf": "6f5f3f335cf0c5921ea4b961ffec82ded2572feb5a43cbb10d71f177ca096233"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -167,7 +189,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 15,
+  "remaining_lessons": 13,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

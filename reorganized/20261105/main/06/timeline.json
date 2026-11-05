@@ -1,0 +1,266 @@
+{
+  "seconds": 562.7666666666668,
+  "fps": 30,
+  "slides": 25,
+  "captions": 86,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "家庭・看護・福祉の学びと資格・進路",
+      "start": 0,
+      "end": 18.233333333333334,
+      "seconds": 18.233333333333334,
+      "spoken_seconds": 16.728,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.233333333333334,
+      "end": 33.53333333333333,
+      "seconds": 15.3,
+      "spoken_seconds": 13.776,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 33.53333333333333,
+      "end": 54.5,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 54.5,
+      "end": 65.63333333333333,
+      "seconds": 11.133333333333333,
+      "spoken_seconds": 9.624,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 65.63333333333333,
+      "end": 77.69999999999999,
+      "seconds": 12.066666666666666,
+      "spoken_seconds": 10.536,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "学習内容と資格取得の経路",
+      "start": 77.69999999999999,
+      "end": 111.53333333333333,
+      "seconds": 33.833333333333336,
+      "spoken_seconds": 32.304,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "学習内容と資格取得の経路（2）",
+      "start": 111.53333333333333,
+      "end": 143.9,
+      "seconds": 32.36666666666667,
+      "spoken_seconds": 30.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "学習内容と資格取得の経路（3）",
+      "start": 143.9,
+      "end": 172.86666666666667,
+      "seconds": 28.966666666666665,
+      "spoken_seconds": 27.456,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "看護の5年一貫課程を読む",
+      "start": 172.86666666666667,
+      "end": 203.43333333333334,
+      "seconds": 30.566666666666666,
+      "spoken_seconds": 29.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "看護の5年一貫課程を読む（2）",
+      "start": 203.43333333333334,
+      "end": 232.3,
+      "seconds": 28.866666666666667,
+      "spoken_seconds": 27.36,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "福祉系高校から介護福祉士へ進む経路を読む",
+      "start": 232.3,
+      "end": 262.06666666666666,
+      "seconds": 29.766666666666666,
+      "spoken_seconds": 28.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "福祉系高校から介護福祉士へ進む経路を読む（2）",
+      "start": 262.06666666666666,
+      "end": 297.3,
+      "seconds": 35.233333333333334,
+      "spoken_seconds": 33.72,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "課程と資格の条件を比べる",
+      "start": 297.3,
+      "end": 319.03333333333336,
+      "seconds": 21.733333333333334,
+      "spoken_seconds": 20.208,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "福祉系高校から介護福祉士へ進む経路を読む（3）",
+      "start": 319.03333333333336,
+      "end": 350.53333333333336,
+      "seconds": 31.5,
+      "spoken_seconds": 30.0,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "考える時間：一つの問い",
+      "start": 350.53333333333336,
+      "end": 384.6333333333334,
+      "seconds": 34.1,
+      "spoken_seconds": 32.568,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 16,
+      "title": "自分の説明を確かめる",
+      "start": 384.6333333333334,
+      "end": 394.40000000000003,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 17,
+      "title": "説明例",
+      "start": 394.40000000000003,
+      "end": 424.73333333333335,
+      "seconds": 30.333333333333332,
+      "spoken_seconds": 28.824,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "今回の学びを次へ",
+      "start": 424.73333333333335,
+      "end": 447.03333333333336,
+      "seconds": 22.3,
+      "spoken_seconds": 20.784,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "参考資料：読む場所",
+      "start": 447.03333333333336,
+      "end": 466.53333333333336,
+      "seconds": 19.5,
+      "spoken_seconds": 17.976,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "参考資料：読む場所",
+      "start": 466.53333333333336,
+      "end": 481.5666666666667,
+      "seconds": 15.033333333333333,
+      "spoken_seconds": 13.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "参考資料：読む場所",
+      "start": 481.5666666666667,
+      "end": 498.16666666666674,
+      "seconds": 16.6,
+      "spoken_seconds": 15.096,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "参考資料：読む場所",
+      "start": 498.16666666666674,
+      "end": 513.4000000000001,
+      "seconds": 15.233333333333333,
+      "spoken_seconds": 13.728,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "参考資料：読む場所",
+      "start": 513.4000000000001,
+      "end": 529.6666666666667,
+      "seconds": 16.266666666666666,
+      "spoken_seconds": 14.76,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "参考資料：読む場所",
+      "start": 529.6666666666667,
+      "end": 545.7666666666668,
+      "seconds": 16.1,
+      "spoken_seconds": 14.568,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "参考資料：読む場所",
+      "start": 545.7666666666668,
+      "end": 562.7666666666668,
+      "seconds": 17.0,
+      "spoken_seconds": 15.48,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

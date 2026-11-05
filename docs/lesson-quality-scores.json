@@ -465,20 +465,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "学ぶ対象の差と資格取得の時系列が抽象的",
-      "remaining": "学校別の実習・費用・支援条件、対象年度の受験案内を確認し、初学者の試読を行う。",
+      "remaining": "学校別の実習・費用・支援条件、対象年度の受験案内を確認し、初学者の試読を行う。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "学習内容と資格取得の経路",
       "source_lessons": [
         8
       ],
       "before_sha256": "26aa7dfe725db338cca7f9e3d46e1dca7fa28e11a61533a9378cd02cb6bdee02",
-      "after_sha256": "d61d0915baa06322c7c3df28e13da44331cdef79c62d96d3f3ee6d678e77d5c0",
+      "after_sha256": "fa965d72e48fa9e57464e1a3542c30de6f621da279c4d08b1fdc84f0c4badbd2",
       "chars_added": 1990,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -523,13 +523,35 @@
           "after_total": 65,
           "reason": "看護5年一貫課程と福祉系高校の当該経路を公式資料で照合。問い・説明例を両経路に対応。",
           "before_body_sha256": "bc7945996015bcddce2540d333f9bb6451503067f2ed83632c8e858da900c92e"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第9段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/06/README.md"
       }
     },
     {
