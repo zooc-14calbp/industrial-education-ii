@@ -860,7 +860,8 @@
           "高校・高専から大学・大学院等まで、既出の学び・働く条件・支援から必要な情報を選ぶ",
           "関心を具体的な活動へ言い換え、複数の候補と次の確認を示す",
           "AI・適性検査の結果の限界、個人情報と本人の意思、情報の更新",
-          "専門科目・実習・通学・費用・相談・卒業後の経路を確認し、課程名で選択肢を狭めない"
+          "専門科目・実習・通学・費用・相談・卒業後の経路を確認し、課程名で選択肢を狭めない",
+          "中学校の授業で表れた関心を起点に、工業高校等の候補、仕事の具体像、見学・面談・次の確認をつなぐ"
         ],
         "task": "架空の相談または人物を設定しない二つの公開資料から、候補・質問・条件と支援・次の確認を整理し、一文を直す。",
         "product": "レポートBの四項目メモ",
@@ -871,7 +872,9 @@
         "source_keys": [
           "career",
           "jobtag",
-          "ai"
+          "ai",
+          "mhlw_career_practice",
+          "nier_career_guidance"
         ],
         "report": "B提出の節目",
         "flexible_learning_focus": "専門科目・実習・通学・費用・相談・卒業後の経路を確認し、課程名で選択肢を狭めない"
@@ -1003,6 +1006,16 @@
       "label": "定時制・通信制・フレックスと工業・職業教育",
       "url": "https://github.com/zooc-14calbp/industrial-education-ii/blob/main/docs/flexible-learning-pathways.md",
       "use": "公的な制度資料と、太田フレックス・六郷工科の例。学科、課程、単位制、時間帯を分ける。"
+    },
+    "mhlw_career_practice": {
+      "label": "厚生労働省掲載 キャリア教育実践講習資料「はじめに」",
+      "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000147991.pdf",
+      "use": "2〜6頁。仕事理解、体験、意思決定とその後の支援、外部人材との協力の視点。"
+    },
+    "nier_career_guidance": {
+      "label": "国立教育政策研究所 生徒指導・進路指導研究センター",
+      "url": "https://www.nier.go.jp/04_kenkyu_annai/div09_shido.html",
+      "use": "進路指導関係の掲載資料。体験活動特別編2とキャリア・パスポート特別編9。"
     }
   },
   "verification_framework": [

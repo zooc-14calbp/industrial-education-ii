@@ -47,3 +47,5 @@ Bのまとめ 第15回後。卒業後も学校資料・制度・情報源を更�
 - [補足資料 ai-learning-plan.md](../../docs/ai-learning-plan.md)
 
 [全体の見直し結果](../../docs/overall-review.md)／[学修の進め方](../../docs/study-guide.md)／[課題と評価基準](../../assessment/README.md)
+
+[再編案の第15回講義本文](../../reorganized/20261105/ii-15-explanation.md)に、中学校での面談例と学校案内を使う活動を掲載しています。上記の中心の問いとレポートBの四項目で使えます。
