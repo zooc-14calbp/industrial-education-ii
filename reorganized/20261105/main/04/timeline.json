@@ -1,0 +1,206 @@
+{
+  "seconds": 413.66666666666674,
+  "fps": 30,
+  "slides": 19,
+  "captions": 62,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "農林水産・食品・環境の学びとキャリア",
+      "start": 0,
+      "end": 18.333333333333332,
+      "seconds": 18.333333333333332,
+      "spoken_seconds": 16.824,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.333333333333332,
+      "end": 37.666666666666664,
+      "seconds": 19.333333333333332,
+      "spoken_seconds": 17.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 37.666666666666664,
+      "end": 58.633333333333326,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 58.633333333333326,
+      "end": 72.53333333333333,
+      "seconds": 13.9,
+      "spoken_seconds": 12.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる（2）",
+      "start": 72.53333333333333,
+      "end": 82.4,
+      "seconds": 9.866666666666667,
+      "spoken_seconds": 8.352,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "言葉を使って確かめる：答え",
+      "start": 82.4,
+      "end": 92.03333333333333,
+      "seconds": 9.633333333333333,
+      "spoken_seconds": 8.112,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "農林水産を生産から情報と環境まで見る",
+      "start": 92.03333333333333,
+      "end": 121.36666666666666,
+      "seconds": 29.333333333333332,
+      "spoken_seconds": 27.816,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "農林水産を生産から情報と環境まで見る（2）",
+      "start": 121.36666666666666,
+      "end": 153.89999999999998,
+      "seconds": 32.53333333333333,
+      "spoken_seconds": 31.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "農林水産を生産から情報と環境まで見る（3）",
+      "start": 153.89999999999998,
+      "end": 188.76666666666665,
+      "seconds": 34.86666666666667,
+      "spoken_seconds": 33.336,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "生産・加工・環境を学ぶ専門高校",
+      "start": 188.76666666666665,
+      "end": 213.0,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "生産・加工・環境を学ぶ専門高校（2）",
+      "start": 213.0,
+      "end": 236.3,
+      "seconds": 23.3,
+      "spoken_seconds": 21.768,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "農林水産の学びを比べる",
+      "start": 236.3,
+      "end": 257.7,
+      "seconds": 21.4,
+      "spoken_seconds": 19.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "考える時間：一つの問い",
+      "start": 257.7,
+      "end": 301.73333333333335,
+      "seconds": 44.03333333333333,
+      "spoken_seconds": 42.504,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 14,
+      "title": "自分の説明を確かめる",
+      "start": 301.73333333333335,
+      "end": 311.5,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 15,
+      "title": "説明例",
+      "start": 311.5,
+      "end": 335.23333333333335,
+      "seconds": 23.733333333333334,
+      "spoken_seconds": 22.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "今回の学びを次へ",
+      "start": 335.23333333333335,
+      "end": 357.8,
+      "seconds": 22.566666666666666,
+      "spoken_seconds": 21.048,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "参考資料：読む場所",
+      "start": 357.8,
+      "end": 375.83333333333337,
+      "seconds": 18.033333333333335,
+      "spoken_seconds": 16.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "参考資料：読む場所",
+      "start": 375.83333333333337,
+      "end": 393.4333333333334,
+      "seconds": 17.6,
+      "spoken_seconds": 16.08,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "参考資料：読む場所",
+      "start": 393.4333333333334,
+      "end": 413.66666666666674,
+      "seconds": 20.233333333333334,
+      "spoken_seconds": 18.72,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

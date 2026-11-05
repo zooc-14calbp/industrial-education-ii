@@ -298,21 +298,21 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 50,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "農林水産の対象と情報・環境への広がりが概略にとどまる",
-      "remaining": "森林と海洋の実際の教育課程を同一の観点で比較",
+      "remaining": "森林と海洋の実際の教育課程を同一の観点で比較。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "農林水産を生産から情報と環境まで見る",
       "source_lessons": [
         5,
         6
       ],
       "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
-      "after_sha256": "836873abc275813d0174b8e233f92f5599967012095b32cb7f6937aa6a786e73",
+      "after_sha256": "13241b159a49dcd63fef8186f386f46e4432ae052ad9106d44fdeb4563192577",
       "chars_added": 512,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -335,13 +335,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第7段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/04/README.md"
       }
     },
     {

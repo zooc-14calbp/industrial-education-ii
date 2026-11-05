@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage6",
+  "revision": "mainmedia-20261106-stage7",
   "updated": [
     {
       "id": "i01",
@@ -33,6 +33,17 @@
       "seconds": 364.43333333333334,
       "path": "reorganized/20261105/main/03",
       "body_sha256_lf": "2037a3bda0c355e438817aa7f6c1ba494e119afe19dd3caa5839c2bccb6358c0"
+    },
+    {
+      "id": "i04",
+      "course": "i",
+      "number": 4,
+      "source_lesson": 4,
+      "title": "工業教育の歴史と地域社会と進路",
+      "slides": 20,
+      "seconds": 478.06666666666666,
+      "path": "reorganized/20261105/main/04",
+      "body_sha256_lf": "bf74aa5f411e05b6b31afe4a6fee4e3e2980030e52ebb6740731e109130f4f91"
     },
     {
       "id": "i08",
@@ -101,6 +112,17 @@
       "body_sha256_lf": "e86ae6688f71e95805953c78fb50260ccaad22d943731825bd29d26a57e578cb"
     },
     {
+      "id": "ii04",
+      "course": "ii",
+      "number": 4,
+      "source_lesson": 5,
+      "title": "農林水産・食品・環境の学びとキャリア",
+      "slides": 19,
+      "seconds": 413.66666666666674,
+      "path": "reorganized/20261105/main/04",
+      "body_sha256_lf": "5f53f773879f5289723bc6e37483495b31d234f50d4a2ba4451110592d44f01e"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -123,7 +145,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 19,
+  "remaining_lessons": 17,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }
