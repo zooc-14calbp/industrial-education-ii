@@ -20,10 +20,10 @@
 | 8 | [第8回 卒業後の進学・仕事・学び直しと大学・大学院](reorganized/20261105/expanded/08.md) | 本文・考える時間 | 準備中 |
 | 9 | [第9回 中学校の学びと専門教育をつなぐ数量・ICT・情報活用](reorganized/20261105/main/09/README.md) | [PDF](reorganized/20261105/main/09/slides.pdf)・[PowerPoint](reorganized/20261105/main/09/slides.pptx)・[学習ガイド](reorganized/20261105/main/09/student-guide.pdf)・[本文](reorganized/20261105/expanded/09.md) | [動画 10:43](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage2/industrial-education-ii-09.mp4) |
 | 10 | [第10回 職場体験・インターンシップ・地域との連携](reorganized/20261105/main/10/README.md) | [PDF](reorganized/20261105/main/10/slides.pdf)・[PowerPoint](reorganized/20261105/main/10/slides.pptx)・[学習ガイド](reorganized/20261105/main/10/student-guide.pdf)・[本文](reorganized/20261105/expanded/10.md) | [動画 13:13](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261105-stage1/industrial-education-ii-10.mp4) |
-| 11 | [第11回 OECDから学ぶ国際比較の基礎](reorganized/20261105/expanded/11.md) | 本文・考える時間 | 準備中 |
-| 12 | [第12回 各国の職業教育と学校・企業・資格](reorganized/20261105/expanded/12.md) | 本文・考える時間 | 準備中 |
-| 13 | [第13回 高校で学び続ける条件と進路変更への支援](reorganized/20261105/expanded/13.md) | 本文・考える時間 | 準備中 |
-| 14 | [第14回 高校進学以外の経路と学び・就業への支援](reorganized/20261105/expanded/14.md) | 本文・考える時間 | 準備中 |
+| 11 | [第11回 OECDから学ぶ国際比較の基礎](reorganized/20261105/main/11/README.md) | [PDF](reorganized/20261105/main/11/slides.pdf)・[PowerPoint](reorganized/20261105/main/11/slides.pptx)・[学習ガイド](reorganized/20261105/main/11/student-guide.pdf)・[本文](reorganized/20261105/expanded/11.md) | [動画 7:16](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-11.mp4) |
+| 12 | [第12回 各国の職業教育と学校・企業・資格](reorganized/20261105/main/12/README.md) | [PDF](reorganized/20261105/main/12/slides.pdf)・[PowerPoint](reorganized/20261105/main/12/slides.pptx)・[学習ガイド](reorganized/20261105/main/12/student-guide.pdf)・[本文](reorganized/20261105/expanded/12.md) | [動画 13:18](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-12.mp4) |
+| 13 | [第13回 高校で学び続ける条件と進路変更への支援](reorganized/20261105/main/13/README.md) | [PDF](reorganized/20261105/main/13/slides.pdf)・[PowerPoint](reorganized/20261105/main/13/slides.pptx)・[学習ガイド](reorganized/20261105/main/13/student-guide.pdf)・[本文](reorganized/20261105/expanded/13.md) | [動画 12:53](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-13.mp4) |
+| 14 | [第14回 高校進学以外の経路と学び・就業への支援](reorganized/20261105/main/14/README.md) | [PDF](reorganized/20261105/main/14/slides.pdf)・[PowerPoint](reorganized/20261105/main/14/slides.pptx)・[学習ガイド](reorganized/20261105/main/14/student-guide.pdf)・[本文](reorganized/20261105/expanded/14.md) | [動画 13:00](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-14.mp4) |
 | 15 | [第15回 選択肢を広げる職業指導と進路相談](reorganized/20261105/expanded/15.md) | 本文・考える時間 | 準備中 |
 
 [全15回の要点スライド（PDF）](reorganized/20261105/expanded/slides.pdf) ／ [要点スライド（PowerPoint）](reorganized/20261105/expanded/slides.pptx) ／ [要点スライドのページ一覧](reorganized/20261105/expanded/README.md)
@@ -40,7 +40,7 @@
 
 ## 改訂情報・制作資料
 
-- 2026年11月6日　第7回の本文・スライド・学習ガイド・字幕付き動画を更新。
+- 2026年11月6日　第11～14回の本文・スライド・学習ガイド・字幕付き動画を更新。
 - [本編教材の更新状況](docs/main-media-status.md)
 - [Ⅰ・Ⅱ共通の授業方針](docs/teaching-policy.md)
 - [教材設計と再編の経緯](docs/reorganization-proposal-20261105.md) ／ [各回の教材点検](docs/lesson-quality-review.md)

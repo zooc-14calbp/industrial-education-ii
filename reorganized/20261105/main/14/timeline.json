@@ -1,0 +1,346 @@
+{
+  "seconds": 779.8000000000001,
+  "fps": 30,
+  "slides": 33,
+  "captions": 116,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "高校進学以外の経路と学び・就業への支援",
+      "start": 0,
+      "end": 18.566666666666666,
+      "seconds": 18.566666666666666,
+      "spoken_seconds": 17.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.566666666666666,
+      "end": 38.9,
+      "seconds": 20.333333333333332,
+      "spoken_seconds": 18.816,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 38.9,
+      "end": 59.86666666666666,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 59.86666666666666,
+      "end": 72.13333333333333,
+      "seconds": 12.266666666666667,
+      "spoken_seconds": 10.752,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 72.13333333333333,
+      "end": 89.36666666666666,
+      "seconds": 17.233333333333334,
+      "spoken_seconds": 15.72,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "一度の進路選択だけでは、その後の経路は決まらない",
+      "start": 89.36666666666666,
+      "end": 113.6,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "一度の進路選択だけでは、その後の経路は決まらない（2）",
+      "start": 113.6,
+      "end": 122.73333333333332,
+      "seconds": 9.133333333333333,
+      "spoken_seconds": 7.608,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "一度の進路選択だけでは、その後の経路は決まらない（3）",
+      "start": 122.73333333333332,
+      "end": 151.33333333333331,
+      "seconds": 28.6,
+      "spoken_seconds": 27.072,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "高校卒業と高卒認定は何が違うか：表を読む（1）",
+      "start": 151.33333333333331,
+      "end": 180.7,
+      "seconds": 29.366666666666667,
+      "spoken_seconds": 27.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "高校卒業と高卒認定は何が違うか：表を読む（2）",
+      "start": 180.7,
+      "end": 209.06666666666666,
+      "seconds": 28.366666666666667,
+      "spoken_seconds": 26.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "高校卒業と高卒認定は何が違うか：表を読む（3）",
+      "start": 209.06666666666666,
+      "end": 240.7,
+      "seconds": 31.633333333333333,
+      "spoken_seconds": 30.12,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "高校卒業と高卒認定は何が違うか：表を読む（4）",
+      "start": 240.7,
+      "end": 272.0,
+      "seconds": 31.3,
+      "spoken_seconds": 29.784,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "高校卒業と高卒認定は何が違うか",
+      "start": 272.0,
+      "end": 296.6,
+      "seconds": 24.6,
+      "spoken_seconds": 23.088,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "高校卒業と高卒認定は何が違うか（2）",
+      "start": 296.6,
+      "end": 311.3666666666667,
+      "seconds": 14.766666666666667,
+      "spoken_seconds": 13.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "高校卒業と高卒認定は何が違うか（3）",
+      "start": 311.3666666666667,
+      "end": 337.73333333333335,
+      "seconds": 26.366666666666667,
+      "spoken_seconds": 24.84,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "相談の目的から窓口を選ぶ：表を読む（1）",
+      "start": 337.73333333333335,
+      "end": 374.73333333333335,
+      "seconds": 37.0,
+      "spoken_seconds": 35.496,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "相談の目的から窓口を選ぶ：表を読む（2）",
+      "start": 374.73333333333335,
+      "end": 409.06666666666666,
+      "seconds": 34.333333333333336,
+      "spoken_seconds": 32.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "相談の目的から窓口を選ぶ：表を読む（3）",
+      "start": 409.06666666666666,
+      "end": 446.0,
+      "seconds": 36.93333333333333,
+      "spoken_seconds": 35.424,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "相談の目的から窓口を選ぶ：表を読む（4）",
+      "start": 446.0,
+      "end": 478.5,
+      "seconds": 32.5,
+      "spoken_seconds": 30.984,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "相談の目的から窓口を選ぶ",
+      "start": 478.5,
+      "end": 507.23333333333335,
+      "seconds": 28.733333333333334,
+      "spoken_seconds": 27.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "相談の目的から窓口を選ぶ（2）",
+      "start": 507.23333333333335,
+      "end": 518.1666666666666,
+      "seconds": 10.933333333333334,
+      "spoken_seconds": 9.408,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "相談の目的から窓口を選ぶ（3）",
+      "start": 518.1666666666666,
+      "end": 546.4333333333333,
+      "seconds": 28.266666666666666,
+      "spoken_seconds": 26.736,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "案内を、次の行動が分かるものにする",
+      "start": 546.4333333333333,
+      "end": 572.5333333333333,
+      "seconds": 26.1,
+      "spoken_seconds": 24.576,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "案内を、次の行動が分かるものにする（2）",
+      "start": 572.5333333333333,
+      "end": 596.7666666666667,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "案内を、次の行動が分かるものにする（3）",
+      "start": 596.7666666666667,
+      "end": 604.9,
+      "seconds": 8.133333333333333,
+      "spoken_seconds": 6.624,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "考える時間：一つの問い",
+      "start": 604.9,
+      "end": 651.4,
+      "seconds": 46.5,
+      "spoken_seconds": 44.976,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 27,
+      "title": "自分の説明を確かめる",
+      "start": 651.4,
+      "end": 667.1333333333333,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 28,
+      "title": "説明例",
+      "start": 667.1333333333333,
+      "end": 706.3666666666667,
+      "seconds": 39.233333333333334,
+      "spoken_seconds": 37.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "今回の学びを次へ",
+      "start": 706.3666666666667,
+      "end": 729.9,
+      "seconds": 23.533333333333335,
+      "spoken_seconds": 22.032,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "参考資料：読む場所",
+      "start": 729.9,
+      "end": 743.1333333333333,
+      "seconds": 13.233333333333333,
+      "spoken_seconds": 11.712,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "参考資料：読む場所",
+      "start": 743.1333333333333,
+      "end": 753.8666666666667,
+      "seconds": 10.733333333333333,
+      "spoken_seconds": 9.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参考資料：読む場所",
+      "start": 753.8666666666667,
+      "end": 766.4333333333334,
+      "seconds": 12.566666666666666,
+      "spoken_seconds": 11.064,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "参考資料：読む場所",
+      "start": 766.4333333333334,
+      "end": 779.8000000000001,
+      "seconds": 13.366666666666667,
+      "spoken_seconds": 11.856,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

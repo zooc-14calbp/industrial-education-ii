@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage11",
+  "revision": "mainmedia-20261106-stage12",
   "updated": [
     {
       "id": "i01",
@@ -112,6 +112,50 @@
       "body_sha256_lf": "6cadd8a40552fed14093c71a375f1755ee671a9aa5365893499572b728e30279"
     },
     {
+      "id": "i11",
+      "course": "i",
+      "number": 11,
+      "source_lesson": 11,
+      "title": "教材研究とICTと生成AIの活用",
+      "slides": 19,
+      "seconds": 370.4333333333333,
+      "path": "reorganized/20261105/main/11",
+      "body_sha256_lf": "aa88e58466cd77f22257eec29566c6498052b9748d0f45b78f248ad8142ff57e"
+    },
+    {
+      "id": "i12",
+      "course": "i",
+      "number": 12,
+      "source_lesson": 12,
+      "title": "実験と実習の安全を支える指導",
+      "slides": 20,
+      "seconds": 369.49999999999994,
+      "path": "reorganized/20261105/main/12",
+      "body_sha256_lf": "c03d0b7af7eedf379939aa670184fbffddf7aad4a528bde86c6110a4d4f1b7eb"
+    },
+    {
+      "id": "i13",
+      "course": "i",
+      "number": 13,
+      "source_lesson": 13,
+      "title": "学習評価と学びの証拠",
+      "slides": 21,
+      "seconds": 380.2666666666666,
+      "path": "reorganized/20261105/main/13",
+      "body_sha256_lf": "75ee6c91d4c6e22bf307a38830edce0a461ff248922d7c69f5baa2a184828c05"
+    },
+    {
+      "id": "i14",
+      "course": "i",
+      "number": 14,
+      "source_lesson": 14,
+      "title": "工業科教員の仕事と免許と教科経営",
+      "slides": 35,
+      "seconds": 707.5333333333334,
+      "path": "reorganized/20261105/main/14",
+      "body_sha256_lf": "4b65ddcba4f99bb2409beec6cecd03b0cef20e0c85e4fa232a25f516c17e33b5"
+    },
+    {
       "id": "i15",
       "course": "i",
       "number": 15,
@@ -220,9 +264,53 @@
       "seconds": 793.1666666666666,
       "path": "reorganized/20261105/main/10",
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
+    },
+    {
+      "id": "ii11",
+      "course": "ii",
+      "number": 11,
+      "source_lesson": 8,
+      "title": "OECDから学ぶ国際比較の基礎",
+      "slides": 20,
+      "seconds": 435.50000000000006,
+      "path": "reorganized/20261105/main/11",
+      "body_sha256_lf": "752ba2704c2842fb31dde48f3405c6eed0d9a85887e1a2d5410e3c79205830ae"
+    },
+    {
+      "id": "ii12",
+      "course": "ii",
+      "number": 12,
+      "source_lesson": 12,
+      "title": "各国の職業教育と学校・企業・資格",
+      "slides": 37,
+      "seconds": 797.6333333333333,
+      "path": "reorganized/20261105/main/12",
+      "body_sha256_lf": "5e1f777f525e64c09d603261512b10e29ca52d020486ea26f536dc0ad7be95ad"
+    },
+    {
+      "id": "ii13",
+      "course": "ii",
+      "number": 13,
+      "source_lesson": 13,
+      "title": "高校で学び続ける条件と進路変更への支援",
+      "slides": 33,
+      "seconds": 772.7000000000002,
+      "path": "reorganized/20261105/main/13",
+      "body_sha256_lf": "741a8a418bb087927f021102361edd2a19a727b27424385302d50b3b08df2ff4"
+    },
+    {
+      "id": "ii14",
+      "course": "ii",
+      "number": 14,
+      "source_lesson": 14,
+      "title": "高校進学以外の経路と学び・就業への支援",
+      "slides": 33,
+      "seconds": 779.8000000000001,
+      "path": "reorganized/20261105/main/14",
+      "body_sha256_lf": "2a6bcab61afb697295e72f9f04a0a1c235e40e575376b3762361567ddc6249b2"
     }
   ],
-  "remaining_lessons": 10,
+  "remaining_lessons": 2,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

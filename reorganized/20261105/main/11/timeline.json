@@ -1,0 +1,216 @@
+{
+  "seconds": 435.50000000000006,
+  "fps": 30,
+  "slides": 20,
+  "captions": 64,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "OECDから学ぶ国際比較の基礎",
+      "start": 0,
+      "end": 17.633333333333333,
+      "seconds": 17.633333333333333,
+      "spoken_seconds": 16.104,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.633333333333333,
+      "end": 37.46666666666667,
+      "seconds": 19.833333333333332,
+      "spoken_seconds": 18.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 37.46666666666667,
+      "end": 58.43333333333334,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 58.43333333333334,
+      "end": 70.83333333333334,
+      "seconds": 12.4,
+      "spoken_seconds": 10.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 70.83333333333334,
+      "end": 80.50000000000001,
+      "seconds": 9.666666666666666,
+      "spoken_seconds": 8.16,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "OECDと教育段階の基礎",
+      "start": 80.50000000000001,
+      "end": 112.60000000000002,
+      "seconds": 32.1,
+      "spoken_seconds": 30.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "OECDと教育段階の基礎（2）",
+      "start": 112.60000000000002,
+      "end": 132.10000000000002,
+      "seconds": 19.5,
+      "spoken_seconds": 17.976,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "OECDと教育段階の基礎（3）",
+      "start": 132.10000000000002,
+      "end": 146.8,
+      "seconds": 14.7,
+      "spoken_seconds": 13.2,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "OECDと教育段階の基礎（4）",
+      "start": 146.8,
+      "end": 177.73333333333335,
+      "seconds": 30.933333333333334,
+      "spoken_seconds": 29.424,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "OECDと教育段階の基礎（5）",
+      "start": 177.73333333333335,
+      "end": 188.63333333333335,
+      "seconds": 10.9,
+      "spoken_seconds": 9.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "国際比較の分母と教育段階",
+      "start": 188.63333333333335,
+      "end": 214.40000000000003,
+      "seconds": 25.766666666666666,
+      "spoken_seconds": 24.24,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "国際比較の分母と教育段階（2）",
+      "start": 214.40000000000003,
+      "end": 237.40000000000003,
+      "seconds": 23.0,
+      "spoken_seconds": 21.48,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "国際比較の分母と教育段階：表を読む",
+      "start": 237.40000000000003,
+      "end": 268.8,
+      "seconds": 31.4,
+      "spoken_seconds": 29.88,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "考える時間：一つの問い",
+      "start": 268.8,
+      "end": 300.73333333333335,
+      "seconds": 31.933333333333334,
+      "spoken_seconds": 30.408,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 15,
+      "title": "自分の説明を確かめる",
+      "start": 300.73333333333335,
+      "end": 316.4666666666667,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 16,
+      "title": "説明例",
+      "start": 316.4666666666667,
+      "end": 344.83333333333337,
+      "seconds": 28.366666666666667,
+      "spoken_seconds": 26.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "今回の学びを次へ",
+      "start": 344.83333333333337,
+      "end": 368.86666666666673,
+      "seconds": 24.033333333333335,
+      "spoken_seconds": 22.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "参考資料：読む場所",
+      "start": 368.86666666666673,
+      "end": 393.0333333333334,
+      "seconds": 24.166666666666668,
+      "spoken_seconds": 22.656,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "参考資料：読む場所",
+      "start": 393.0333333333334,
+      "end": 416.80000000000007,
+      "seconds": 23.766666666666666,
+      "spoken_seconds": 22.248,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "参考資料：読む場所",
+      "start": 416.80000000000007,
+      "end": 435.50000000000006,
+      "seconds": 18.7,
+      "spoken_seconds": 17.184,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

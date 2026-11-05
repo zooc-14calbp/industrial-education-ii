@@ -1,0 +1,346 @@
+{
+  "seconds": 772.7000000000002,
+  "fps": 30,
+  "slides": 33,
+  "captions": 118,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "高校で学び続ける条件と進路変更への支援",
+      "start": 0,
+      "end": 18.566666666666666,
+      "seconds": 18.566666666666666,
+      "spoken_seconds": 17.04,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 18.566666666666666,
+      "end": 36.46666666666667,
+      "seconds": 17.9,
+      "spoken_seconds": 16.392,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 36.46666666666667,
+      "end": 57.43333333333334,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 57.43333333333334,
+      "end": 68.83333333333334,
+      "seconds": 11.4,
+      "spoken_seconds": 9.888,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 68.83333333333334,
+      "end": 83.70000000000002,
+      "seconds": 14.866666666666667,
+      "spoken_seconds": 13.344,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "この回で扱うのは、学び続けられる環境",
+      "start": 83.70000000000002,
+      "end": 109.63333333333335,
+      "seconds": 25.933333333333334,
+      "spoken_seconds": 24.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "この回で扱うのは、学び続けられる環境（2）",
+      "start": 109.63333333333335,
+      "end": 120.03333333333336,
+      "seconds": 10.4,
+      "spoken_seconds": 8.88,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "この回で扱うのは、学び続けられる環境（3）",
+      "start": 120.03333333333336,
+      "end": 143.73333333333335,
+      "seconds": 23.7,
+      "spoken_seconds": 22.2,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "欠席の状況と学籍の変化を分ける：表を読む（1）",
+      "start": 143.73333333333335,
+      "end": 175.5666666666667,
+      "seconds": 31.833333333333332,
+      "spoken_seconds": 30.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "欠席の状況と学籍の変化を分ける：表を読む（2）",
+      "start": 175.5666666666667,
+      "end": 213.53333333333336,
+      "seconds": 37.96666666666667,
+      "spoken_seconds": 36.456,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "欠席の状況と学籍の変化を分ける：表を読む（3）",
+      "start": 213.53333333333336,
+      "end": 240.4666666666667,
+      "seconds": 26.933333333333334,
+      "spoken_seconds": 25.416,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "欠席の状況と学籍の変化を分ける：表を読む（4）",
+      "start": 240.4666666666667,
+      "end": 267.6666666666667,
+      "seconds": 27.2,
+      "spoken_seconds": 25.68,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "欠席の状況と学籍の変化を分ける",
+      "start": 267.6666666666667,
+      "end": 284.1,
+      "seconds": 16.433333333333334,
+      "spoken_seconds": 14.904,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "欠席の状況と学籍の変化を分ける（2）",
+      "start": 284.1,
+      "end": 314.5,
+      "seconds": 30.4,
+      "spoken_seconds": 28.872,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "統計では分母と重複を確かめる",
+      "start": 314.5,
+      "end": 346.73333333333335,
+      "seconds": 32.233333333333334,
+      "spoken_seconds": 30.72,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "統計では分母と重複を確かめる（2）",
+      "start": 346.73333333333335,
+      "end": 377.6333333333333,
+      "seconds": 30.9,
+      "spoken_seconds": 29.4,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "統計では分母と重複を確かめる（3）",
+      "start": 377.6333333333333,
+      "end": 387.3,
+      "seconds": 9.666666666666666,
+      "spoken_seconds": 8.136,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "統計では分母と重複を確かめる（4）",
+      "start": 387.3,
+      "end": 413.43333333333334,
+      "seconds": 26.133333333333333,
+      "spoken_seconds": 24.624,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "選択肢を示すときに確認すること：表を読む（1）",
+      "start": 413.43333333333334,
+      "end": 444.53333333333336,
+      "seconds": 31.1,
+      "spoken_seconds": 29.568,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "選択肢を示すときに確認すること：表を読む（2）",
+      "start": 444.53333333333336,
+      "end": 474.03333333333336,
+      "seconds": 29.5,
+      "spoken_seconds": 27.984,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "選択肢を示すときに確認すること：表を読む（3）",
+      "start": 474.03333333333336,
+      "end": 504.7666666666667,
+      "seconds": 30.733333333333334,
+      "spoken_seconds": 29.232,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "選択肢を示すときに確認すること：表を読む（4）",
+      "start": 504.7666666666667,
+      "end": 535.4000000000001,
+      "seconds": 30.633333333333333,
+      "spoken_seconds": 29.112,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "選択肢を示すときに確認すること",
+      "start": 535.4000000000001,
+      "end": 561.9333333333334,
+      "seconds": 26.533333333333335,
+      "spoken_seconds": 25.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 24,
+      "title": "選択肢を示すときに確認すること（2）",
+      "start": 561.9333333333334,
+      "end": 568.7333333333333,
+      "seconds": 6.8,
+      "spoken_seconds": 5.28,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "選択肢を示すときに確認すること（3）",
+      "start": 568.7333333333333,
+      "end": 590.7333333333333,
+      "seconds": 22.0,
+      "spoken_seconds": 20.496,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "考える時間：一つの問い",
+      "start": 590.7333333333333,
+      "end": 635.8000000000001,
+      "seconds": 45.06666666666667,
+      "spoken_seconds": 43.56,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 27,
+      "title": "自分の説明を確かめる",
+      "start": 635.8000000000001,
+      "end": 651.5333333333334,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 28,
+      "title": "説明例",
+      "start": 651.5333333333334,
+      "end": 687.9333333333334,
+      "seconds": 36.4,
+      "spoken_seconds": 34.872,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "今回の学びを次へ",
+      "start": 687.9333333333334,
+      "end": 712.0000000000001,
+      "seconds": 24.066666666666666,
+      "spoken_seconds": 22.536,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 30,
+      "title": "参考資料：読む場所",
+      "start": 712.0000000000001,
+      "end": 730.1333333333334,
+      "seconds": 18.133333333333333,
+      "spoken_seconds": 16.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 31,
+      "title": "参考資料：読む場所",
+      "start": 730.1333333333334,
+      "end": 740.8666666666668,
+      "seconds": 10.733333333333333,
+      "spoken_seconds": 9.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 32,
+      "title": "参考資料：読む場所",
+      "start": 740.8666666666668,
+      "end": 759.0666666666668,
+      "seconds": 18.2,
+      "spoken_seconds": 16.68,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 33,
+      "title": "参考資料：読む場所",
+      "start": 759.0666666666668,
+      "end": 772.7000000000002,
+      "seconds": 13.633333333333333,
+      "spoken_seconds": 12.12,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}
