@@ -8,6 +8,8 @@
 
 [15回の構成と到達目標](docs/syllabus.md)／[課題と評価ガイド PDF](assessment/assessment-guide.pdf)／[初稿の確認状況と次の検討事項](docs/first-pass-review.md)
 
+**全30回の再編検討案（2026年11月5日）：** 高専・大学と大学院、教育学の方法と検証可能性、特別支援、OECD・国際比較の基礎を含む[Ⅰ・Ⅱの構成案](docs/reorganization-proposal-20261105.md)／[PDF 12ページ](docs/reorganization-proposal-20261105.pdf)。以下の現行教材とは区別した提案で、授業番号・動画への反映はこれからです。
+
 [全15回の動画・演習教材](video/README.md)／[動画時間の実測と授業設計](docs/video-duration-current.md)／[要点解説・関連教材・クイズの次の改訂案](docs/microlearning-plan.md)
 
 ## 各回の教材
