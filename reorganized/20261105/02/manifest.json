@@ -1,0 +1,29 @@
+{
+  "status": "reorganized_draft_not_current_delivery",
+  "date": "2026-11-05",
+  "numbering": "reorganization-proposal-20261105",
+  "lesson": 2,
+  "seconds": 1277.2666666666669,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "student_trial_completed": false,
+  "study_minutes_range": [
+    81.29,
+    96.29
+  ],
+  "files": [
+    {
+      "name": "industrial-education-ii-02.mp4",
+      "bytes": 70922098,
+      "sha256": "be6d65ce4b8ab40880eccf89dc08e3c2d5755998d35c529d8c215d5763c93f53",
+      "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/reorganized-pilot-20261105/industrial-education-ii-02.mp4"
+    },
+    {
+      "name": "industrial-education-ii-02-audio.mp3",
+      "bytes": 15328268,
+      "sha256": "a456af34d775a8682720530e3726e4c57798aba18b0fa755deaeb724257fec3a",
+      "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/reorganized-pilot-20261105/industrial-education-ii-02-audio.mp3"
+    }
+  ]
+}
