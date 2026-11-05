@@ -6,7 +6,7 @@
 
 [動画MP4](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/curriculum-replacement-20261105-batch1/industrial-education-ii-10.mp4)／[音声MP3](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/curriculum-replacement-20261105-batch1/industrial-education-ii-10-audio.mp3)／[スライドPPTX](slides.pptx)／[スライドPDF](slides.pdf)／[学生用ガイドPDF](student-guide.pdf)／[字幕SRT](captions.srt)／[字幕VTT](captions.vtt)／[原稿](narration.txt)。演習は学生用ガイドへ統合しました。[従来の演習ガイドのリンク](exercise-guide.pdf)からも同じ改訂版を読めます。
 
-## 学修の進め方
+## 学び方
 
 音声はNanami（Natural）、速度-5%、高さ変更なし。淡い灰緑の背景と濃い青灰の本文を継続し、字幕用の領域を確保しました。
 

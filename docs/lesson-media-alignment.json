@@ -3,8 +3,8 @@
   "scope": "増補要点スライド全15回と、main-media-status.mdに示す本編統合済み回。その他の本編・動画は未統合。",
   "duration_policy": "動画視聴・資料の確認・考える時間・小休止を含め、1回90分程度を目安に学修します。動画自体を90分にする必要はなく、「70分＋20分」も固定の配分ではありません。時間を埋めるための説明や課題は加えず、到達目標の理解と受講生の負担を基準に調整します。",
   "files": {
-    "slides.pptx": "d7b426e02bcf1c952499cbcd878e265fdd98baae5e34ce84a9a34d339de80f23",
-    "slides.pdf": "7dc133697e49ba6becd410d4fb161e670133d74da23de7faf634bfc721d72d52"
+    "slides.pptx": "ebabbda1c75cb60c9c6adce3daf09b3f710db53c3970a6880ad0cd1591dbf031",
+    "slides.pdf": "1da369f15638fe1bcde7950251ecd7e1f26789c4bed39633d71f48e5d4437e1b"
   },
   "verification": {
     "pages_per_course": 61,
@@ -13,15 +13,15 @@
     "activity_matches_body": true,
     "figures_preserved": true,
     "pdf_bookmarks": 15,
-    "visual_review": "前段階で全頁確認。第6段階の変更12頁を画像で確認し、他の回の頁は本文抽出の一致を確認。",
+    "visual_review": "各回の説明頁に一語の手がかりを追記。全61頁で文字枠を検査し、変更30頁（両科目計）の注を画像で確認。既存の比較表・演習・参照頁の抽出本文を照合。",
     "screen_reader_trial": "未実施"
   },
   "lessons": [
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "143e98a00c5740d8385d7d77d6c067308eab1d05506c1f57a8bae351ae1f28d8",
-      "notes_body_sha256_lf": "8e641e6e00d1f55a48286579e751b612be22298e63cb858e216a5cd61da878c2",
+      "body_sha256": "75ca4514e77198fd286c312abdf9bda9beacac2d7d107fef8416c7a2471e2314",
+      "notes_body_sha256_lf": "b0eb55bbad42feb933e566d1f742d3d0363005929a0c793e9da3f09e92cfc5fb",
       "pages": [
         2,
         3,
@@ -38,13 +38,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 2,
       "body": "reorganized/20261105/expanded/02.md",
       "body_sha256": "897af20f7ad028e711647e492e48df8f0224548f17bb15d319a6ec9aed868734",
-      "notes_body_sha256_lf": "e34e9c6a071a34358164b0c46ce17d96834e48be83762aff6b53be71054befd7",
+      "notes_body_sha256_lf": "0e9f416ac0287dbda8e1b9129882da9b90258ec73ec6e17acaa7498a4894d974",
       "pages": [
         6,
         7,
@@ -61,13 +62,14 @@
         "videos": "pending"
       },
       "revision": "法令・免許・資格の重点改稿",
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 3,
       "body": "reorganized/20261105/expanded/03.md",
-      "body_sha256": "0106350659ad1f5a4e208ff33cc07113719b55eef71e9927da9ba85dd9d1eaa0",
-      "notes_body_sha256_lf": "f7258d1717efcaff23cc0472f64f9e6153d166615d4b9da49a78187a2d82b680",
+      "body_sha256": "4aafb27ec62da5a1e3c1f0b7b8ceb159e543eaef7c584f36a235e8a653fcfec6",
+      "notes_body_sha256_lf": "0a3069333401994496794c2e956fdf4af992cef6bfe567d780263650c0dfd593",
       "pages": [
         10,
         11,
@@ -83,13 +85,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 4,
       "body": "reorganized/20261105/expanded/04.md",
-      "body_sha256": "2fbef6027e2a328688342974a31a81d8d4d7a4b896711d6ec7c7ad39654eadfa",
-      "notes_body_sha256_lf": "517653c785ca64a37a2db01fba0c5c1482e89ab8c49fe6283c659a300b1b0e97",
+      "body_sha256": "836873abc275813d0174b8e233f92f5599967012095b32cb7f6937aa6a786e73",
+      "notes_body_sha256_lf": "d61a1abb9ae2dc19d1625e0e9c8f348c0b54f2d20d72f4987c3366a41f8afc74",
       "pages": [
         14,
         15,
@@ -106,13 +109,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
       "body_sha256": "130053f4c58e7e683caf268ca7336171341e1c70c0bd71e9f9d85a08ca24605f",
-      "notes_body_sha256_lf": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472",
+      "notes_body_sha256_lf": "67c22b34c181314c687244cdf0e0758286c22e8e6c4e0a34adffdfa3a0c0627f",
       "pages": [
         18,
         19,
@@ -128,13 +132,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 6,
       "body": "reorganized/20261105/expanded/06.md",
       "body_sha256": "d61d0915baa06322c7c3df28e13da44331cdef79c62d96d3f3ee6d678e77d5c0",
-      "notes_body_sha256_lf": "47a700c58c495403ef54c43564c53baa0e0d13c9c419e8cabab5bd858517e6db",
+      "notes_body_sha256_lf": "13f95bae746665ed04e56c06f0f5612db8543bff20fc9341bdbf4594b8ca013b",
       "pages": [
         22,
         23,
@@ -151,13 +156,14 @@
         "videos": "pending"
       },
       "revision": "法令・免許・資格の重点改稿",
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 7,
       "body": "reorganized/20261105/expanded/07.md",
-      "body_sha256": "4aafd67d54029b1a3f7dd8d2f0b26c0d483e3b64aca66fb27a20c36738bed34e",
-      "notes_body_sha256_lf": "f0a5d9bb50427f04dcaf41c0999d31b41e895f56d7dddc92f485a5520abe76ab",
+      "body_sha256": "638244146e2db9e8770985e94880477532f79c50d42c647b83bf37705c26810f",
+      "notes_body_sha256_lf": "e5467cfee80c0f2dd18e64a7418d810be1c127e10eea66d3fff9836b215befb9",
       "pages": [
         26,
         27,
@@ -171,13 +177,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
       "body_sha256": "a059d0f077a202f7070ef775320ac81062e251ad0ac03e844788214137aa85cf",
-      "notes_body_sha256_lf": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a",
+      "notes_body_sha256_lf": "8e6751c50640fc837db460f0cd37abc55914abb5b15db9b75fec1e1a66d06cec",
       "pages": [
         30,
         31,
@@ -193,13 +200,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 9,
       "body": "reorganized/20261105/expanded/09.md",
-      "body_sha256": "8d3af838e6d0b25197abaf86e4a99f526312fab3351e8934cb963efb8993706a",
-      "notes_body_sha256_lf": "04d65005a9871c21d2f448c747920ef8726d5d86ba22c9b778c65900f5881a3b",
+      "body_sha256": "05fb145eb7937513b24a5414d5af090f194e6787bd7931a31ff960cf63dbf243",
+      "notes_body_sha256_lf": "a44d8199267956e709139aac30951f06092ec5952ee51d608b5c197f5423505f",
       "pages": [
         34,
         35,
@@ -215,13 +223,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 10,
       "body": "reorganized/20261105/expanded/10.md",
       "body_sha256": "7e734b9ca0c41ecc85edf8224acb7f41cefa5fe664c68022ca1af0c6de4e0ae5",
-      "notes_body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386",
+      "notes_body_sha256_lf": "9590c0182a63bbf9da4a81a3fadca426866966f6cdc4ac5aa0614b98abe129c9",
       "pages": [
         38,
         39,
@@ -241,13 +250,14 @@
       "main_entry": "reorganized/20261105/main/10/README.md",
       "main_manifest": "reorganized/20261105/main/10/manifest.json",
       "navigation_only_update": "本文末尾に本編入口を追加。増補ノートの本文は入口追記前の同一説明。",
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 11,
       "body": "reorganized/20261105/expanded/11.md",
       "body_sha256": "9ed5e66e755162bf7eb11ef466739e47f8e8052d23338372b2922ed0731f3b43",
-      "notes_body_sha256_lf": "5969fbefc08c4386b4872bd255a23297f9bf1df4ba026018d35c25c51164d774",
+      "notes_body_sha256_lf": "752ba2704c2842fb31dde48f3405c6eed0d9a85887e1a2d5410e3c79205830ae",
       "pages": [
         42,
         43,
@@ -261,13 +271,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 12,
       "body": "reorganized/20261105/expanded/12.md",
       "body_sha256": "ee4752210e3224be90098fdd330c05ee93423de0ce05b8ace1bb9098a699d37d",
-      "notes_body_sha256_lf": "0694228f228e4148afcad63a9c64d40cb4a564e18f25f67db82aa0f53b4c2967",
+      "notes_body_sha256_lf": "5e1f777f525e64c09d603261512b10e29ca52d020486ea26f536dc0ad7be95ad",
       "pages": [
         46,
         47,
@@ -284,13 +295,14 @@
         "videos": "pending"
       },
       "revision": "教育課程表・各国制度図の重点改稿",
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 13,
       "body": "reorganized/20261105/expanded/13.md",
       "body_sha256": "8ed1f4dd5125d0ea5f10739df395948116bf3d67ad9e22bf620a1780930824f7",
-      "notes_body_sha256_lf": "46c01b0dd6667090f9959d8cfc2f4a4a35ed06366af08e7850dfd4868c3e31e2",
+      "notes_body_sha256_lf": "741a8a418bb087927f021102361edd2a19a727b27424385302d50b3b08df2ff4",
       "pages": [
         50,
         51,
@@ -306,13 +318,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 14,
       "body": "reorganized/20261105/expanded/14.md",
       "body_sha256": "a68c8fec2ba8f41b3f8dbc5798fbefe5d1fa070498a64a9774157c037381afcb",
-      "notes_body_sha256_lf": "f6e8ca578797815a657c30d4c567f1cff4128f1401628a0fb83b6e3cb5f03324",
+      "notes_body_sha256_lf": "2a6bcab61afb697295e72f9f04a0a1c235e40e575376b3762361567ddc6249b2",
       "pages": [
         54,
         55,
@@ -328,13 +341,14 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     },
     {
       "number": 15,
       "body": "reorganized/20261105/expanded/15.md",
-      "body_sha256": "e4654e62def91f11362c0a25ea25ad759745fcbcdb2f7f452c68be698aedded2",
-      "notes_body_sha256_lf": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2",
+      "body_sha256": "30ef9d86cbf71675b73a51d71d18eb302cd103b1d5ef34cbdda0cdfa119e518a",
+      "notes_body_sha256_lf": "a9994a58ed74159b2bcf533ce8363d8fb48d3293765a8b31ec76689179f14c43",
       "pages": [
         58,
         59,
@@ -350,7 +364,8 @@
         "original_slides": "pending",
         "videos": "pending"
       },
-      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。"
+      "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
+      "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。"
     }
   ]
 }

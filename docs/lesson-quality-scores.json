@@ -38,7 +38,7 @@
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "143e98a00c5740d8385d7d77d6c067308eab1d05506c1f57a8bae351ae1f28d8",
+      "after_sha256": "75ca4514e77198fd286c312abdf9bda9beacac2d7d107fef8416c7a2471e2314",
       "chars_added": 655,
       "media_updated": false,
       "revision_history": [
@@ -182,7 +182,7 @@
         4
       ],
       "before_sha256": "f5b5fa017b7ab361a2bd03c3639ca70d3639388032604c07047668754f021ab6",
-      "after_sha256": "0106350659ad1f5a4e208ff33cc07113719b55eef71e9927da9ba85dd9d1eaa0",
+      "after_sha256": "4aafb27ec62da5a1e3c1f0b7b8ceb159e543eaef7c584f36a235e8a653fcfec6",
       "chars_added": 510,
       "media_updated": false,
       "revision_history": [
@@ -244,7 +244,7 @@
         6
       ],
       "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
-      "after_sha256": "2fbef6027e2a328688342974a31a81d8d4d7a4b896711d6ec7c7ad39654eadfa",
+      "after_sha256": "836873abc275813d0174b8e233f92f5599967012095b32cb7f6937aa6a786e73",
       "chars_added": 512,
       "media_updated": false,
       "revision_history": [
@@ -447,7 +447,7 @@
       "evidence_heading": "特別支援の職業教育と環境の調整",
       "source_lessons": [],
       "before_sha256": "706749cf59b94423c168d57e0320e27e8a4371aa68916295e95138c6a2e054bb",
-      "after_sha256": "4aafd67d54029b1a3f7dd8d2f0b26c0d483e3b64aca66fb27a20c36738bed34e",
+      "after_sha256": "638244146e2db9e8770985e94880477532f79c50d42c647b83bf37705c26810f",
       "chars_added": 530,
       "media_updated": false,
       "revision_history": [
@@ -569,7 +569,7 @@
         10
       ],
       "before_sha256": "3fca21890ab3aabcc8ad0c4d21fe8dc258e3a57eb6b51aa795d6ebc8d74c2cc3",
-      "after_sha256": "8d3af838e6d0b25197abaf86e4a99f526312fab3351e8934cb963efb8993706a",
+      "after_sha256": "05fb145eb7937513b24a5414d5af090f194e6787bd7931a31ff960cf63dbf243",
       "chars_added": 574,
       "media_updated": false,
       "revision_history": [
@@ -1031,7 +1031,7 @@
         15
       ],
       "before_sha256": "f53515007b5fb8b2bd3145efcabb8e481c56e23b9f3f4af604e45601a33c0569",
-      "after_sha256": "e4654e62def91f11362c0a25ea25ad759745fcbcdb2f7f452c68be698aedded2",
+      "after_sha256": "30ef9d86cbf71675b73a51d71d18eb302cd103b1d5ef34cbdda0cdfa119e518a",
       "chars_added": 615,
       "media_updated": false,
       "revision_history": [
