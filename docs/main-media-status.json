@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage7",
+  "revision": "mainmedia-20261106-stage8",
   "updated": [
     {
       "id": "i01",
@@ -44,6 +44,17 @@
       "seconds": 478.06666666666666,
       "path": "reorganized/20261105/main/04",
       "body_sha256_lf": "bf74aa5f411e05b6b31afe4a6fee4e3e2980030e52ebb6740731e109130f4f91"
+    },
+    {
+      "id": "i05",
+      "course": "i",
+      "number": 5,
+      "source_lesson": 5,
+      "title": "教育法規と学習指導要領の法的根拠",
+      "slides": 32,
+      "seconds": 740.6333333333333,
+      "path": "reorganized/20261105/main/05",
+      "body_sha256_lf": "cb5dc5cbfd6498c7a766402bf02c2e3fe228686c5f450b25d02a48945262b9c4"
     },
     {
       "id": "i08",
@@ -123,6 +134,17 @@
       "body_sha256_lf": "5f53f773879f5289723bc6e37483495b31d234f50d4a2ba4451110592d44f01e"
     },
     {
+      "id": "ii05",
+      "course": "ii",
+      "number": 5,
+      "source_lesson": 6,
+      "title": "商業・ビジネス・情報の学びとキャリア",
+      "slides": 18,
+      "seconds": 370.83333333333337,
+      "path": "reorganized/20261105/main/05",
+      "body_sha256_lf": "d41ebe6250a8146d817e03708991c4c3c0513987cb1f188288fe57598f7db61e"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -145,7 +167,7 @@
       "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
     }
   ],
-  "remaining_lessons": 17,
+  "remaining_lessons": 15,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

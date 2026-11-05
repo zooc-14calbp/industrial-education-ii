@@ -1,0 +1,196 @@
+{
+  "seconds": 370.83333333333337,
+  "fps": 30,
+  "slides": 18,
+  "captions": 58,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "商業・ビジネス・情報の学びとキャリア",
+      "start": 0,
+      "end": 17.9,
+      "seconds": 17.9,
+      "spoken_seconds": 16.392,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 17.9,
+      "end": 33.733333333333334,
+      "seconds": 15.833333333333334,
+      "spoken_seconds": 14.304,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 33.733333333333334,
+      "end": 54.7,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 54.7,
+      "end": 66.83333333333334,
+      "seconds": 12.133333333333333,
+      "spoken_seconds": 10.632,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 66.83333333333334,
+      "end": 78.26666666666668,
+      "seconds": 11.433333333333334,
+      "spoken_seconds": 9.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "売上と利益と判断の根拠",
+      "start": 78.26666666666668,
+      "end": 103.26666666666668,
+      "seconds": 25.0,
+      "spoken_seconds": 23.472,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "売上と利益と判断の根拠（2）",
+      "start": 103.26666666666668,
+      "end": 134.8,
+      "seconds": 31.533333333333335,
+      "spoken_seconds": 30.024,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "売上と利益と判断の根拠（3）",
+      "start": 134.8,
+      "end": 164.76666666666668,
+      "seconds": 29.966666666666665,
+      "spoken_seconds": 28.44,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "販売企画で使う記録と根拠",
+      "start": 164.76666666666668,
+      "end": 182.3,
+      "seconds": 17.533333333333335,
+      "spoken_seconds": 16.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "販売企画で使う記録と根拠（2）",
+      "start": 182.3,
+      "end": 201.66666666666669,
+      "seconds": 19.366666666666667,
+      "spoken_seconds": 17.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "販売の記録を読む",
+      "start": 201.66666666666669,
+      "end": 218.9666666666667,
+      "seconds": 17.3,
+      "spoken_seconds": 15.792,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "考える時間：一つの問い",
+      "start": 218.9666666666667,
+      "end": 257.0666666666667,
+      "seconds": 38.1,
+      "spoken_seconds": 36.576,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 13,
+      "title": "自分の説明を確かめる",
+      "start": 257.0666666666667,
+      "end": 266.83333333333337,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 14,
+      "title": "説明例",
+      "start": 266.83333333333337,
+      "end": 293.20000000000005,
+      "seconds": 26.366666666666667,
+      "spoken_seconds": 24.864,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "今回の学びを次へ",
+      "start": 293.20000000000005,
+      "end": 316.50000000000006,
+      "seconds": 23.3,
+      "spoken_seconds": 21.768,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "参考資料：読む場所",
+      "start": 316.50000000000006,
+      "end": 334.40000000000003,
+      "seconds": 17.9,
+      "spoken_seconds": 16.368,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "参考資料：読む場所",
+      "start": 334.40000000000003,
+      "end": 352.4333333333334,
+      "seconds": 18.033333333333335,
+      "spoken_seconds": 16.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "参考資料：読む場所",
+      "start": 352.4333333333334,
+      "end": 370.83333333333337,
+      "seconds": 18.4,
+      "spoken_seconds": 16.872,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

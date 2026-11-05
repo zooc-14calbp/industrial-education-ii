@@ -382,20 +382,20 @@
         3,
         2,
         2,
-        2
+        3
       ],
       "before_total": 40,
-      "after_total": 60,
+      "after_total": 65,
       "finding": "会計の基礎用語とAIを使う判断が到達目標に比べて不足",
-      "remaining": "売上・費用・判断理由の関係を図で示す",
+      "remaining": "売上・費用・判断理由の関係を図で示す。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "売上と利益と判断の根拠",
       "source_lessons": [
         7
       ],
       "before_sha256": "d01e09544bda2a79a0adf4f8c7f57da47b669c8822ad3e44e5c0c172ba3ec8f2",
-      "after_sha256": "130053f4c58e7e683caf268ca7336171341e1c70c0bd71e9f9d85a08ca24605f",
+      "after_sha256": "be8e202230a3d8153c21f3b01e82475584ab318e0d83ac6d19fe1397c0795c3e",
       "chars_added": 525,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -418,13 +418,35 @@
           "after_total": 60,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "bbd22738f02530674a55ad7f57ab2489ccfd03bfc4ad18fc616ec527eb4e4472"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第8段階",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "before_total": 60,
+          "after_total": 65,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/05/README.md"
       }
     },
     {
