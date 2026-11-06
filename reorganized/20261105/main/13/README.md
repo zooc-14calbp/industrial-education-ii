@@ -1,8 +1,10 @@
 # 工業科教育論Ⅱ 第13回　高校で学び続ける条件と進路変更への支援
 
-2026年11月6日更新。動画は12分53秒、スライドは33枚です。
+2026年11月6日更新。冒頭に今回の問いと学ぶ順序を示し、音声で指す対象が分かりにくい箇所を修正しました。表の読み上げに不要な定型文を除き、スライド・ガイド・字幕付き動画をそろえています。動画の実測は11分49秒です。
 
-[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-13.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage12/industrial-education-ii-13-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
+2026年11月6日更新。動画は11分49秒、スライドは33枚です。
+
+[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-13.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-13-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
 
 [字幕（VTT）](captions.vtt)／[字幕（SRT）](captions.srt)／[読み上げ原稿](narration.txt)／[対応する本文](../../expanded/13.md)
 

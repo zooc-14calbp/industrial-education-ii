@@ -1,8 +1,10 @@
 # 工業科教育論Ⅱ 第2回　高校・高専等の制度と学校情報・資格の読み方
 
-2026年11月6日更新。動画は8分48秒、スライドは21枚です。
+2026年11月6日更新。冒頭に今回の問いと学ぶ順序を示し、音声で指す対象が分かりにくい箇所を修正しました。表の読み上げに不要な定型文を除き、スライド・ガイド・字幕付き動画をそろえています。動画の実測は8分51秒です。
 
-[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage4/industrial-education-ii-02.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage4/industrial-education-ii-02-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
+2026年11月6日更新。動画は8分51秒、スライドは21枚です。
+
+[動画（MP4）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-02.mp4)／[音声（MP3）](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-02-audio.mp3)／[スライド（PPTX）](slides.pptx)／[スライド（PDF）](slides.pdf)／[学生用ガイド（PDF）](student-guide.pdf)
 
 [字幕（VTT）](captions.vtt)／[字幕（SRT）](captions.srt)／[読み上げ原稿](narration.txt)／[対応する本文](../../expanded/02.md)
 

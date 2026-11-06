@@ -1,41 +1,41 @@
 {
-  "revision": "mainmedia-20261106-stage19",
+  "revision": "spoken-clarity-20261106-ii",
   "course": "ii",
   "lesson": 3,
-  "body_sha256_lf": "ff27feb3bcba0ee582596ec5cb9bd7e418a47382b8f5fca125387ad3930c2682",
+  "body_sha256_lf": "c463c033ed77c2261380e45b9dc3319b72978b2aa167ebe965ffad044dfde3a7",
   "slides": 32,
-  "video_seconds": 728.2333333333332,
+  "video_seconds": 696.2666666666667,
   "voice": "ja-JP-NanamiNeural",
   "files": {
-    "slides.pptx": "6742147f5b18e3df0a3f0da5b90585f575aae520e079ebf57584efbd9c85eab3",
-    "slides.pdf": "bbe0cf2c7bbf352e899e9a641a0a94bc4889dc39fa372d97078f1cf195011457",
-    "student-guide.pdf": "98ef26bc383e81ca04024e586d698e49f34e2297148a0065765cf6e762dfb98e",
-    "captions.srt": "8ffe93b6cc215f1ff0b295c4f0fca47759dbb98ba4d936efff70019224887ca5",
-    "captions.vtt": "e443993426ffa2ed331446eeeff3bdaa97cad7d8490e1085bd57280cce91a493",
-    "narration.txt": "ce3b0ff810e8fa37f63c619620bc3c0be7cd323ab460ceec18138fba7e1be2e1",
-    "timeline.json": "ae01a86a5cf543ddf4579e9ab0a1247317f6f24a3ba5bd9acc393a6116364649"
+    "slides.pptx": "ce27bcb72a492e7ef23e31557c140f193d1ff43a12861d6553056499512e7065",
+    "slides.pdf": "adffe5f57e50f5954dbb936c87c43cf8d722103d37af1e6cda1a04acaf3eeb53",
+    "student-guide.pdf": "0088ae699214fa933dde553f5d12372206174b26296197e0f9b145733efdebb7",
+    "captions.srt": "eba048cc92e4f76e88fe6dc0a6202e2aef01d4c454bb52f3c01878dffe16ae95",
+    "captions.vtt": "35f110f9a0f188ead1dbb9e4c355881e5614133a0718c03c1d93405903cd03af",
+    "narration.txt": "08c77519e8daeeaca52b31097ff93bc8938aa1e916e428c889098d1a78868d4d",
+    "timeline.json": "089a5a36d4fffec83a7b3bdf4bd23193e4d00c96a4cce7be3edba8f4e439ed96"
   },
   "video": {
-    "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage19/industrial-education-ii-03.mp4",
-    "sha256": "e00de8a9187a861af12f45c0f720dd55028314f9f56caefe479c2fba3c0c9592"
+    "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-03.mp4",
+    "sha256": "5b072296d3f1d53162ac5393eddf3c6380a48707f29ffffa048f6bccf12780b5"
   },
   "audio": {
-    "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage19/industrial-education-ii-03-audio.mp3",
-    "sha256": "0af5da7c921e057a29bd9ea29b69de75bd6183e5a1f64cf888d545a49c376cc2"
+    "url": "https://github.com/zooc-14calbp/industrial-education-ii/releases/download/spoken-clarity-20261106-ii/industrial-education-ii-03-audio.mp3",
+    "sha256": "5b8130e388c56f025fb60336941824e46d6bca2d27542c1bcd362f29584fc581"
   },
   "qa": {
     "id": "ii-03",
-    "video_seconds": 728.2333333333332,
-    "video_frames": 21847,
+    "video_seconds": 696.2666666666667,
+    "video_frames": 20888,
     "slides": 32,
     "all_slide_samples_matched": true,
     "worst_mean_pixel_difference": 2.2983697916666666,
-    "captions": 108,
+    "captions": 102,
     "subtitle_text_matched": true,
     "full_decode": "pass",
     "human_full_audio_review": false,
     "student_trial_completed": false,
-    "video_sha256": "e00de8a9187a861af12f45c0f720dd55028314f9f56caefe479c2fba3c0c9592"
+    "video_sha256": "5b072296d3f1d53162ac5393eddf3c6380a48707f29ffffa048f6bccf12780b5"
   },
   "student_trial_completed": false,
   "study_time_verified": false

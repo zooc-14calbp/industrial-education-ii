@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage20",
+  "revision": "spoken-clarity-20261106-ii",
   "updated": [
     {
       "id": "i01",
@@ -184,9 +184,9 @@
       "source_lesson": 3,
       "title": "高校・高専等の制度と学校情報・資格の読み方",
       "slides": 21,
-      "seconds": 528.1333333333334,
+      "seconds": 531.3333333333334,
       "path": "reorganized/20261105/main/02",
-      "body_sha256_lf": "f6beed9fa993f6d758c4b5f8ad98a702dbaef98d835a0b0b504a475c16adc8a9"
+      "body_sha256_lf": "cb82ff5524136ec462fd4b8edf15591096c3cf7f36d35fb417d8530aff2f92d9"
     },
     {
       "id": "ii03",
@@ -195,9 +195,9 @@
       "source_lesson": 4,
       "title": "工業高校の学びから仕事・進学を考える",
       "slides": 32,
-      "seconds": 728.2333333333332,
+      "seconds": 696.2666666666667,
       "path": "reorganized/20261105/main/03",
-      "body_sha256_lf": "ff27feb3bcba0ee582596ec5cb9bd7e418a47382b8f5fca125387ad3930c2682"
+      "body_sha256_lf": "c463c033ed77c2261380e45b9dc3319b72978b2aa167ebe965ffad044dfde3a7"
     },
     {
       "id": "ii04",
@@ -206,9 +206,9 @@
       "source_lesson": 5,
       "title": "農林水産・食品・環境の学びとキャリア",
       "slides": 19,
-      "seconds": 413.66666666666674,
+      "seconds": 416.76666666666677,
       "path": "reorganized/20261105/main/04",
-      "body_sha256_lf": "5f53f773879f5289723bc6e37483495b31d234f50d4a2ba4451110592d44f01e"
+      "body_sha256_lf": "c4a4c2e90d38cf859597e251d730cc6fa9701c832d059a6a20454f5777c85c8f"
     },
     {
       "id": "ii05",
@@ -217,9 +217,9 @@
       "source_lesson": 6,
       "title": "商業・ビジネス・情報の学びとキャリア",
       "slides": 18,
-      "seconds": 370.83333333333337,
+      "seconds": 376.6666666666667,
       "path": "reorganized/20261105/main/05",
-      "body_sha256_lf": "d41ebe6250a8146d817e03708991c4c3c0513987cb1f188288fe57598f7db61e"
+      "body_sha256_lf": "eb48f663eb36a31ec809a7d90cab11f4ca8f37270f340702d257082423f82679"
     },
     {
       "id": "ii06",
@@ -228,9 +228,9 @@
       "source_lesson": 7,
       "title": "家庭・看護・福祉の学びと資格・進路",
       "slides": 25,
-      "seconds": 562.7666666666668,
+      "seconds": 564.4666666666668,
       "path": "reorganized/20261105/main/06",
-      "body_sha256_lf": "6f5f3f335cf0c5921ea4b961ffec82ded2572feb5a43cbb10d71f177ca096233"
+      "body_sha256_lf": "992360632aa3b8a8a6abfec90b1f9e5617b0ac2010cbd41ca00b88723ea99482"
     },
     {
       "id": "ii07",
@@ -239,9 +239,9 @@
       "source_lesson": 8,
       "title": "特別支援に関わる職業教育と卒業後への移行",
       "slides": 20,
-      "seconds": 449.93333333333345,
+      "seconds": 453.86666666666673,
       "path": "reorganized/20261105/main/07",
-      "body_sha256_lf": "801effdc4e495524896ed47469f583a2d9482cf78aa1c51aecbb5f37b55f639e"
+      "body_sha256_lf": "0b28c6426ab6fa361e715a7f79f1c2375752707b837567500c426a6c2a4df9d4"
     },
     {
       "id": "ii08",
@@ -250,9 +250,9 @@
       "source_lesson": 8,
       "title": "卒業後の進学・仕事・学び直しと大学・大学院",
       "slides": 35,
-      "seconds": 807.5999999999999,
+      "seconds": 766.5666666666666,
       "path": "reorganized/20261105/main/08",
-      "body_sha256_lf": "70d7e79746a22bb8d6763dd670566733d9d866a4edd0c68d20047c96a003d90e"
+      "body_sha256_lf": "953404591f4960351159e38b69aab075324e35980baac2ec5b4790d1b59a1fc8"
     },
     {
       "id": "ii09",
@@ -261,9 +261,9 @@
       "source_lesson": 10,
       "title": "中学校の学びと専門教育をつなぐ数量・ICT・情報活用",
       "slides": 26,
-      "seconds": 643.0333333333333,
+      "seconds": 644.4333333333333,
       "path": "reorganized/20261105/main/09",
-      "body_sha256_lf": "1e0618a6778de3b5a55bad1720ddb62a4281b41870ac5c15c5e1c794b398fc2d"
+      "body_sha256_lf": "e35e70734005522a57e44e1003dcf67b1f39604753086b64bce34cd05c64af21"
     },
     {
       "id": "ii10",
@@ -272,9 +272,9 @@
       "source_lesson": 11,
       "title": "職場体験・インターンシップ・地域との連携",
       "slides": 29,
-      "seconds": 793.1666666666666,
+      "seconds": 802.4999999999999,
       "path": "reorganized/20261105/main/10",
-      "body_sha256_lf": "9c0c51068cba9b63cf78e3a8b302fec2ad3e52893beb2bde32d9c5d576c30386"
+      "body_sha256_lf": "73ac0d9d40887998c3ab0558985a80aad6d2027ba3ee828e5f27a4f6828975bb"
     },
     {
       "id": "ii11",
@@ -283,9 +283,9 @@
       "source_lesson": 8,
       "title": "OECDから学ぶ国際比較の基礎",
       "slides": 30,
-      "seconds": 698.6666666666666,
+      "seconds": 669.3666666666667,
       "path": "reorganized/20261105/main/11",
-      "body_sha256_lf": "1fcd50a498deeb68088c316c2287a1e0991c895d34b090e4ada54ec91b6002cb"
+      "body_sha256_lf": "6eb6563aed59559ba92d93ea0e9bcc86b50570eeb99f9060370433ef6acab5e3"
     },
     {
       "id": "ii12",
@@ -294,9 +294,9 @@
       "source_lesson": 12,
       "title": "各国の職業教育と学校・企業・資格",
       "slides": 37,
-      "seconds": 797.6333333333333,
+      "seconds": 779.2000000000002,
       "path": "reorganized/20261105/main/12",
-      "body_sha256_lf": "5e1f777f525e64c09d603261512b10e29ca52d020486ea26f536dc0ad7be95ad"
+      "body_sha256_lf": "0117acc83c3e28028377ae07a2474260d6cb826405efd4bc81ce88363c26bd01"
     },
     {
       "id": "ii13",
@@ -305,9 +305,9 @@
       "source_lesson": 13,
       "title": "高校で学び続ける条件と進路変更への支援",
       "slides": 33,
-      "seconds": 772.7000000000002,
+      "seconds": 708.7666666666668,
       "path": "reorganized/20261105/main/13",
-      "body_sha256_lf": "741a8a418bb087927f021102361edd2a19a727b27424385302d50b3b08df2ff4"
+      "body_sha256_lf": "7ac7fc0ba75ea1da0ec184ae70fdeaada515613faf331f3598d55e45b5cef5ba"
     },
     {
       "id": "ii14",
@@ -316,9 +316,9 @@
       "source_lesson": 14,
       "title": "高校進学以外の経路と学び・就業への支援",
       "slides": 33,
-      "seconds": 779.8000000000001,
+      "seconds": 712.1666666666667,
       "path": "reorganized/20261105/main/14",
-      "body_sha256_lf": "2a6bcab61afb697295e72f9f04a0a1c235e40e575376b3762361567ddc6249b2"
+      "body_sha256_lf": "5813ccfdd9bfbe48713cc8cb0bbea77e80d46593089c00b40dd8fdd13ad0e311"
     },
     {
       "id": "ii15",
@@ -327,9 +327,9 @@
       "source_lesson": 15,
       "title": "選択肢を広げる職業指導と進路相談",
       "slides": 23,
-      "seconds": 455.13333333333327,
+      "seconds": 452.7,
       "path": "reorganized/20261105/main/15",
-      "body_sha256_lf": "a9994a58ed74159b2bcf533ce8363d8fb48d3293765a8b31ec76689179f14c43"
+      "body_sha256_lf": "5f9bbdc34dc1a4a47413d1d987fcaaba73fe5dda8f8ce91c841c084354608063"
     }
   ],
   "remaining_lessons": 0,
