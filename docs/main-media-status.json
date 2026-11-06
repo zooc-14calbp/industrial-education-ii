@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage12",
+  "revision": "mainmedia-20261106-stage13",
   "updated": [
     {
       "id": "i01",
@@ -244,6 +244,17 @@
       "body_sha256_lf": "801effdc4e495524896ed47469f583a2d9482cf78aa1c51aecbb5f37b55f639e"
     },
     {
+      "id": "ii08",
+      "course": "ii",
+      "number": 8,
+      "source_lesson": 8,
+      "title": "卒業後の進学・仕事・学び直しと大学・大学院",
+      "slides": 29,
+      "seconds": 668.0666666666665,
+      "path": "reorganized/20261105/main/08",
+      "body_sha256_lf": "8e6751c50640fc837db460f0cd37abc55914abb5b15db9b75fec1e1a66d06cec"
+    },
+    {
       "id": "ii09",
       "course": "ii",
       "number": 9,
@@ -308,9 +319,20 @@
       "seconds": 779.8000000000001,
       "path": "reorganized/20261105/main/14",
       "body_sha256_lf": "2a6bcab61afb697295e72f9f04a0a1c235e40e575376b3762361567ddc6249b2"
+    },
+    {
+      "id": "ii15",
+      "course": "ii",
+      "number": 15,
+      "source_lesson": 15,
+      "title": "選択肢を広げる職業指導と進路相談",
+      "slides": 23,
+      "seconds": 455.13333333333327,
+      "path": "reorganized/20261105/main/15",
+      "body_sha256_lf": "a9994a58ed74159b2bcf533ce8363d8fb48d3293765a8b31ec76689179f14c43"
     }
   ],
-  "remaining_lessons": 2,
+  "remaining_lessons": 0,
   "scope": "reorganized course numbering; selected complete main-media packages",
   "study_time_verified": false
 }

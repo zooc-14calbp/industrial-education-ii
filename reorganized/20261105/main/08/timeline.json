@@ -1,0 +1,306 @@
+{
+  "seconds": 668.0666666666665,
+  "fps": 30,
+  "slides": 29,
+  "captions": 99,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": null,
+  "combined_minutes_planned": null,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "卒業後の進学・仕事・学び直しと大学・大学院",
+      "start": 0,
+      "end": 19.366666666666667,
+      "seconds": 19.366666666666667,
+      "spoken_seconds": 17.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 19.366666666666667,
+      "end": 40.0,
+      "seconds": 20.633333333333333,
+      "spoken_seconds": 19.128,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 40.0,
+      "end": 60.96666666666667,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "言葉を使って確かめる",
+      "start": 60.96666666666667,
+      "end": 74.0,
+      "seconds": 13.033333333333333,
+      "spoken_seconds": 11.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "言葉を使って確かめる：答え",
+      "start": 74.0,
+      "end": 85.6,
+      "seconds": 11.6,
+      "spoken_seconds": 10.08,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "大学と大学院で何を学ぶか",
+      "start": 85.6,
+      "end": 111.69999999999999,
+      "seconds": 26.1,
+      "spoken_seconds": 24.6,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "大学と大学院で何を学ぶか（2）",
+      "start": 111.69999999999999,
+      "end": 121.53333333333332,
+      "seconds": 9.833333333333334,
+      "spoken_seconds": 8.328,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "大学と大学院で何を学ぶか（3）",
+      "start": 121.53333333333332,
+      "end": 144.26666666666665,
+      "seconds": 22.733333333333334,
+      "spoken_seconds": 21.216,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "大学と大学院で何を学ぶか（4）",
+      "start": 144.26666666666665,
+      "end": 162.7,
+      "seconds": 18.433333333333334,
+      "spoken_seconds": 16.92,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "大学と大学院で何を学ぶか（5）",
+      "start": 162.7,
+      "end": 184.0,
+      "seconds": 21.3,
+      "spoken_seconds": 19.776,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "大学と大学院で何を学ぶか（6）",
+      "start": 184.0,
+      "end": 196.9,
+      "seconds": 12.9,
+      "spoken_seconds": 11.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "卒業時の進路とその先の経路",
+      "start": 196.9,
+      "end": 218.86666666666667,
+      "seconds": 21.966666666666665,
+      "spoken_seconds": 20.448,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "卒業時の進路とその先の経路（2）",
+      "start": 218.86666666666667,
+      "end": 239.3,
+      "seconds": 20.433333333333334,
+      "spoken_seconds": 18.912,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "卒業時の進路とその先の経路：表を読む",
+      "start": 239.3,
+      "end": 272.9666666666667,
+      "seconds": 33.666666666666664,
+      "spoken_seconds": 32.16,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "図を読む：図の読み取り",
+      "start": 272.9666666666667,
+      "end": 300.8666666666667,
+      "seconds": 27.9,
+      "spoken_seconds": 26.376,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "図の読み取り",
+      "start": 300.8666666666667,
+      "end": 322.3666666666667,
+      "seconds": 21.5,
+      "spoken_seconds": 19.968,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "図の読み取り：表を読む（1）",
+      "start": 322.3666666666667,
+      "end": 355.53333333333336,
+      "seconds": 33.166666666666664,
+      "spoken_seconds": 31.656,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "図の読み取り：表を読む（2）",
+      "start": 355.53333333333336,
+      "end": 388.9666666666667,
+      "seconds": 33.43333333333333,
+      "spoken_seconds": 31.92,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "図の読み取り：表を読む（3）",
+      "start": 388.9666666666667,
+      "end": 422.5,
+      "seconds": 33.53333333333333,
+      "spoken_seconds": 32.016,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "図の読み取り：表を読む（4）",
+      "start": 422.5,
+      "end": 455.0333333333333,
+      "seconds": 32.53333333333333,
+      "spoken_seconds": 31.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "図の読み取り：表を読む（5）",
+      "start": 455.0333333333333,
+      "end": 488.26666666666665,
+      "seconds": 33.233333333333334,
+      "spoken_seconds": 31.728,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "図の読み取り（2）",
+      "start": 488.26666666666665,
+      "end": 506.5,
+      "seconds": 18.233333333333334,
+      "spoken_seconds": 16.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 23,
+      "title": "考える時間：一つの問い",
+      "start": 506.5,
+      "end": 536.9,
+      "seconds": 30.4,
+      "spoken_seconds": 28.896,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 24,
+      "title": "自分の説明を確かめる",
+      "start": 536.9,
+      "end": 552.6333333333333,
+      "seconds": 15.733333333333333,
+      "spoken_seconds": 14.232,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 25,
+      "title": "説明例",
+      "start": 552.6333333333333,
+      "end": 578.3,
+      "seconds": 25.666666666666668,
+      "spoken_seconds": 24.144,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "今回の学びを次へ",
+      "start": 578.3,
+      "end": 604.2333333333332,
+      "seconds": 25.933333333333334,
+      "spoken_seconds": 24.432,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "参考資料：読む場所",
+      "start": 604.2333333333332,
+      "end": 626.2666666666665,
+      "seconds": 22.033333333333335,
+      "spoken_seconds": 20.52,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "参考資料：読む場所",
+      "start": 626.2666666666665,
+      "end": 649.1666666666665,
+      "seconds": 22.9,
+      "spoken_seconds": 21.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 29,
+      "title": "参考資料：読む場所",
+      "start": 649.1666666666665,
+      "end": 668.0666666666665,
+      "seconds": 18.9,
+      "spoken_seconds": 17.4,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ],
+  "study_time_verified": false,
+  "duration_note": "視聴・読解・考える時間・小休止を含む90分程度が目標。学生試用は未実施。動画と停止箇所の単純合計を授業時間としない。"
+}

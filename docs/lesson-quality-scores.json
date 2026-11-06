@@ -651,20 +651,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "大学・大学院と教育学の方法が増補本文からは理解しにくい",
-      "remaining": "既存の大学課程比較カードと統計読解を負担に応じて整理",
+      "remaining": "既存の大学課程比較カードと統計読解を負担に応じて整理。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "大学と大学院で何を学ぶか",
       "source_lessons": [
         9
       ],
       "before_sha256": "ae27fd42ff556e5efacfffbb18e0ceb614c0f5127924d589abefc5eb7279c190",
-      "after_sha256": "a059d0f077a202f7070ef775320ac81062e251ad0ac03e844788214137aa85cf",
+      "after_sha256": "035b69f523f8a3c012c7db9380c17b7d94cb995ba9365c58cb15716bcdfc07c6",
       "chars_added": 746,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -687,13 +687,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "617b463ce63a7402e432e08b0724fee6c8048c0e2538739189aa97e4b6f13f5a"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第13段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/08/README.md"
       }
     },
     {
@@ -1284,20 +1306,20 @@
         3,
         3,
         2,
-        2
+        3
       ],
       "before_total": 45,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "面談例に対しAI・適性検査と四項目の説明例が不足",
-      "remaining": "レポートBの二つの選択方式の分量と評価の対応を試読",
+      "remaining": "レポートBの二つの選択方式の分量と評価の対応を試読。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "関心を確かめ候補を一緒に見直す",
       "source_lessons": [
         15
       ],
       "before_sha256": "f53515007b5fb8b2bd3145efcabb8e481c56e23b9f3f4af604e45601a33c0569",
-      "after_sha256": "30ef9d86cbf71675b73a51d71d18eb302cd103b1d5ef34cbdda0cdfa119e518a",
+      "after_sha256": "8fc2f3142146ad675184dc89141635b49be13d1ed49ee5dd7a6cc339550423b2",
       "chars_added": 615,
-      "media_updated": false,
+      "media_updated": true,
       "revision_history": [
         {
           "date": "2026-11-05",
@@ -1320,13 +1342,35 @@
           "after_total": 65,
           "reason": "増補PPTX・PDFの説明要点、演習と説明例を本文に合わせ、頁対応と未更新媒体を記録。Eのみ1→2。",
           "before_body_sha256": "d7ed816eca23f311415cdca8b55a0b769ebb6567d9deb486061f38b4b417f7c2"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "本編媒体統合第13段階",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            2
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
         }
       ],
       "media_status": {
         "supplement_pptx": "updated",
         "supplement_pdf": "updated",
-        "original_slides": "pending",
-        "videos": "pending"
+        "original_slides": "updated_in_reorganized_main",
+        "videos": "updated_in_reorganized_main",
+        "main_entry": "reorganized/20261105/main/15/README.md"
       }
     }
   ]

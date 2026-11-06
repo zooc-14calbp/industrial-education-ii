@@ -1,6 +1,6 @@
 # 本編媒体への反映状況
 
-2026年11月6日。再編後の全30回のうち、28回で本編一式を作成しました。今回はⅠ・Ⅱ第11～14回を更新し、教材研究・安全・評価・免許と、国際比較・多様な学習経路を反映しました。
+2026年11月6日。再編後の全30回のうち、30回で本編一式を作成しました。今回はⅡ第8・15回を更新し、卒業後の進路・学び直しと、選択肢を広げる進路相談を反映しました。
 
 | 科目・回 | 教材 | 本編枚数 | 動画の実測時間 |
 |---|---|---:|---|
@@ -26,11 +26,13 @@
 | Ⅱ・5 | [商業・ビジネス・情報の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/05) | 18 | 6分11秒 |
 | Ⅱ・6 | [家庭・看護・福祉の学びと資格・進路](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/06) | 25 | 9分23秒 |
 | Ⅱ・7 | [特別支援に関わる職業教育と卒業後への移行](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/07) | 20 | 7分30秒 |
+| Ⅱ・8 | [卒業後の進学・仕事・学び直しと大学・大学院](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/08) | 29 | 11分08秒 |
 | Ⅱ・9 | [中学校の学びと専門教育をつなぐ数量・ICT・情報活用](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/09) | 26 | 10分43秒 |
 | Ⅱ・10 | [職場体験・インターンシップ・地域との連携](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/10) | 29 | 13分13秒 |
 | Ⅱ・11 | [OECDから学ぶ国際比較の基礎](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/11) | 20 | 7分16秒 |
 | Ⅱ・12 | [各国の職業教育と学校・企業・資格](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/12) | 37 | 13分18秒 |
 | Ⅱ・13 | [高校で学び続ける条件と進路変更への支援](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/13) | 33 | 12分53秒 |
 | Ⅱ・14 | [高校進学以外の経路と学び・就業への支援](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/14) | 33 | 13分00秒 |
+| Ⅱ・15 | [選択肢を広げる職業指導と進路相談](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/15) | 23 | 7分35秒 |
 
-各回の入口から、PPTX・PDF・学生用ガイド・Nanami音声・字幕・動画を利用できます。動画時間は実測です。読解や演習を含む所要時間、受講者による試用、担当者による全編の発音確認は今後の確認項目です。残る2回の本編統合は制作中です。
+各回の入口から、PPTX・PDF・学生用ガイド・Nanami音声・字幕・動画を利用できます。動画時間は実測です。読解や演習を含む所要時間、受講者による試用、担当者による全編の発音確認は今後の確認項目です。Ⅰ・Ⅱの全30回で本編一式が揃いました。
