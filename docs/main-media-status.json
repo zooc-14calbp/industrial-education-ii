@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage13",
+  "revision": "mainmedia-20261106-stage14",
   "updated": [
     {
       "id": "i01",
@@ -282,10 +282,10 @@
       "number": 11,
       "source_lesson": 8,
       "title": "OECDから学ぶ国際比較の基礎",
-      "slides": 20,
-      "seconds": 435.50000000000006,
+      "slides": 30,
+      "seconds": 698.6666666666666,
       "path": "reorganized/20261105/main/11",
-      "body_sha256_lf": "752ba2704c2842fb31dde48f3405c6eed0d9a85887e1a2d5410e3c79205830ae"
+      "body_sha256_lf": "1fcd50a498deeb68088c316c2287a1e0991c895d34b090e4ada54ec91b6002cb"
     },
     {
       "id": "ii12",

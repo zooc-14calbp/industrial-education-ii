@@ -931,7 +931,7 @@
       "evidence_heading": "OECDと教育段階の基礎",
       "source_lessons": [],
       "before_sha256": "73cd99a355594acf36235c9b46ff9401bb134ad3ed22c803b4c8127dcee92518",
-      "after_sha256": "a8513ba611aa7295b479065fbacc79475fc08825441c5f79a1c244bb45b1d5e9",
+      "after_sha256": "7ee3a9dd79a3cd2e2a0d1f17c1d3c5ac2881f119b782cdb982e729352ccd1827",
       "chars_added": 679,
       "media_updated": true,
       "revision_history": [
@@ -977,6 +977,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "統計図表の再作図",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "OECD原資料の実データから図を再作成し、本文と全媒体へ反映。採点尺度と未確認項目は維持。"
         }
       ],
       "media_status": {
