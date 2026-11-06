@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description" viewBox="0 0 1000 360">
+  <title id="title">商業科と工業科の卒業時の進路構成</title>
+  <desc id="description">令和7年3月卒業者。商業科は大学・短大等34.5パーセント、専修学校等29.3パーセント、就職33.6パーセント、その他2.6パーセント。工業科は順に18.2、16.6、63.3、1.9パーセント。</desc>
+  <rect width="1000" height="360" fill="#f8fafc"/>
+  <g fill="#172b4d" font-family="Yu Gothic,Meiryo,sans-serif">
+    <text x="30" y="43" font-size="25" font-weight="700">商業科と工業科の卒業時の進路</text>
+    <text x="30" y="73" font-size="17">令和7年3月卒・それぞれの学科の卒業者を100％とする</text>
+  </g>
+  <g font-family="Yu Gothic,Meiryo,sans-serif" font-size="20" fill="#172b4d">
+    <text x="32" y="135">商業科</text><text x="32" y="215">工業科</text>
+  </g>
+  <g>
+    <rect x="128" y="112" width="207" height="36" fill="#186a85"/>
+    <rect x="335" y="112" width="176" height="36" fill="#699c27"/>
+    <rect x="511" y="112" width="202" height="36" fill="#a65b20"/>
+    <rect x="713" y="112" width="15" height="36" fill="#727d8a"/>
+    <rect x="128" y="192" width="109" height="36" fill="#186a85"/>
+    <rect x="237" y="192" width="100" height="36" fill="#699c27"/>
+    <rect x="337" y="192" width="380" height="36" fill="#a65b20"/>
+    <rect x="717" y="192" width="11" height="36" fill="#727d8a"/>
+  </g>
+  <g font-family="Yu Gothic,Meiryo,sans-serif" font-size="18" fill="#172b4d">
+    <text x="755" y="139">51,570人</text><text x="755" y="219">63,695人</text>
+  </g>
+  <g font-family="Yu Gothic,Meiryo,sans-serif" font-size="17" fill="#172b4d">
+    <rect x="32" y="265" width="18" height="18" fill="#186a85"/><text x="57" y="281">大学・短大等</text>
+    <rect x="239" y="265" width="18" height="18" fill="#699c27"/><text x="264" y="281">専修学校等</text>
+    <rect x="438" y="265" width="18" height="18" fill="#a65b20"/><text x="463" y="281">就職者</text>
+    <rect x="592" y="265" width="18" height="18" fill="#727d8a"/><text x="617" y="281">その他</text>
+  </g>
+  <text x="32" y="330" fill="#334155" font-family="Yu Gothic,Meiryo,sans-serif" font-size="16">出典：文部科学省「専門高校に関する参考資料集」43頁。正確な割合は下の表を参照。</text>
+</svg>
