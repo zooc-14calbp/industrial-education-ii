@@ -133,7 +133,7 @@
     {
       "number": 5,
       "body": "reorganized/20261105/expanded/05.md",
-      "body_sha256": "e350978cd7ce0b2992a5b2bf1191f80f5ee8094c0be297673008aa522f9582e0",
+      "body_sha256": "d2d16f0eac9b3ee2afc902fdc43123c11ace9b7b3f2c6d9c924951a855908aea",
       "notes_body_sha256_lf": "67c22b34c181314c687244cdf0e0758286c22e8e6c4e0a34adffdfa3a0c0627f",
       "pages": [
         18,
@@ -154,8 +154,8 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/05/README.md",
       "main_manifest": "reorganized/20261105/main/05/manifest.json",
-      "main_notes_body_sha256_lf": "eb48f663eb36a31ec809a7d90cab11f4ca8f37270f340702d257082423f82679",
-      "reading_example_update": "各回の見通しと音声表現を本文・スライド・ガイド・字幕付き動画へ反映。"
+      "main_notes_body_sha256_lf": "b18b484c6fb8d4f0454a8eb309e7f0c897b6221bf8d3811e93350350ca23691c",
+      "reading_example_update": "第5章の四節、科目表、情報科目の比較、進路図を本編媒体へ統合。"
     },
     {
       "number": 6,

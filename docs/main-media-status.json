@@ -216,10 +216,11 @@
       "number": 5,
       "source_lesson": 6,
       "title": "商業・ビジネス・情報の学びとキャリア",
-      "slides": 18,
-      "seconds": 376.6666666666667,
+      "slides": 27,
+      "seconds": 646.7333333333332,
       "path": "reorganized/20261105/main/05",
-      "body_sha256_lf": "eb48f663eb36a31ec809a7d90cab11f4ca8f37270f340702d257082423f82679"
+      "body_sha256_lf": "b18b484c6fb8d4f0454a8eb309e7f0c897b6221bf8d3811e93350350ca23691c",
+      "revision": "ii05-integrated-20261106"
     },
     {
       "id": "ii06",

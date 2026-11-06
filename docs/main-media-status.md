@@ -23,7 +23,7 @@
 | Ⅱ・2 | [高校・高専等の制度と学校情報・資格の読み方](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/02) | 21 | 8分51秒 |
 | Ⅱ・3 | [工業高校の学びから仕事・進学を考える](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/03) | 32 | 11分36秒 |
 | Ⅱ・4 | [農林水産・食品・環境の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/04) | 19 | 6分57秒 |
-| Ⅱ・5 | [商業・ビジネス・情報の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/05) | 18 | 6分17秒 |
+| Ⅱ・5 | [商業・ビジネス・情報の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/05) | 27 | 10分47秒 |
 | Ⅱ・6 | [家庭・看護・福祉の学びと資格・進路](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/06) | 25 | 9分24秒 |
 | Ⅱ・7 | [特別支援に関わる職業教育と卒業後への移行](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/07) | 20 | 7分34秒 |
 | Ⅱ・8 | [卒業後の進学・仕事・学び直しと大学・大学院](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/08) | 35 | 12分47秒 |
