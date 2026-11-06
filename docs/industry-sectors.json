@@ -1,7 +1,7 @@
 {
   "source_title": "総務省統計局 日本の統計2026 表19-5",
   "source_url": "https://www.stat.go.jp/data/nihon/pdf/26nihon.pdf#page=207",
-  "checked_on": "2026-11-04",
+  "checked_on": "2026-11-06",
   "data_year": 2024,
   "period": "年平均",
   "total_ten_thousands": 6781,
@@ -28,5 +28,7 @@
       "share_percent": 1.8
     }
   ],
-  "rounding_note": "元の万人単位の丸めにより内訳合計6783と総数6781は一致しない。総数を分母とした概算比率。"
+  "rounding_note": "元の万人単位の丸めにより内訳合計6783と総数6781は一致しない。総数を分母とした概算比率。",
+  "calculation": "各区分の人数はindustry-employment.csvのlecture_sector別に合計。割合は区分別人数÷就業者総数6781万人×100、小数第1位に丸めた。",
+  "comparison_table": "同書表19-4は職業別就業者数。産業別の表19-5とは分類の対象が異なる。"
 }

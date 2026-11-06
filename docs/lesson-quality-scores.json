@@ -38,7 +38,7 @@
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "404b9b90fd8e2c08c1264a68fe3652c8c931fd1bca138dfb192ae4d0790fe906",
+      "after_sha256": "47a8b7a2831f284bf40c28ea183c7ddbdf42b29feee38d67af3fca2284b145e1",
       "chars_added": 655,
       "media_updated": true,
       "revision_history": [
@@ -84,6 +84,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "産業の基礎と学校の産業連関",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "産業部門の初学者向け説明、学校の発注と波及、就業者図の原表照合を全媒体に反映。支援技術・学生試用などは未確認。"
         }
       ],
       "media_status": {

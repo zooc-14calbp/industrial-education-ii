@@ -19,7 +19,7 @@
 | Ⅰ・13 | [学習評価と学びの証拠](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/13) | 21 | 6分20秒 |
 | Ⅰ・14 | [工業科教員の仕事と免許と教科経営](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/14) | 35 | 11分48秒 |
 | Ⅰ・15 | [目標と内容と指導と評価をつなぐ](https://github.com/zooc-14calbp/industrial-education-i/tree/main/reorganized/20261105/main/15) | 25 | 9分52秒 |
-| Ⅱ・1 | [社会・産業・仕事と職業教育の基礎](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/01) | 24 | 9分20秒 |
+| Ⅱ・1 | [社会・産業・仕事と職業教育の基礎](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/01) | 48 | 18分58秒 |
 | Ⅱ・2 | [高校・高専等の制度と学校情報・資格の読み方](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/02) | 21 | 8分48秒 |
 | Ⅱ・3 | [工業高校の学びから仕事・進学を考える](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/03) | 19 | 6分56秒 |
 | Ⅱ・4 | [農林水産・食品・環境の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/04) | 19 | 6分54秒 |

@@ -20,7 +20,7 @@
     {
       "number": 1,
       "body": "reorganized/20261105/expanded/01.md",
-      "body_sha256": "404b9b90fd8e2c08c1264a68fe3652c8c931fd1bca138dfb192ae4d0790fe906",
+      "body_sha256": "47a8b7a2831f284bf40c28ea183c7ddbdf42b29feee38d67af3fca2284b145e1",
       "notes_body_sha256_lf": "165ecc4c8e9d736213d430277de255f08618eca3675742c7d143280603ce7e5d",
       "pages": [
         2,
@@ -41,10 +41,11 @@
       "prerequisite_check": "本文の到達目標の後に問いと答えを追加。既存のスライド・PDF・動画は追加前の版。",
       "terminology_review": "増補スライドの説明頁に用語の手がかりを追加。問いと答えは各回の本文で確認。各回の旧本編と動画は今回の改訂前。",
       "active_learning_update": "日常の注文を例に、知識が判断に必要な理由を本文と増補説明頁に追加。",
-      "reading_example_update": "2026-11-06 第1回の本文に資料の読み分けを具体化。要点スライドのノートと動画は追記前。",
+      "reading_example_update": "産業部門、学校と産業のつながり、図の分母、波及の問いを本文・本編・ガイド・字幕付き動画へ反映。",
       "main_entry": "reorganized/20261105/main/01/README.md",
       "main_manifest": "reorganized/20261105/main/01/manifest.json",
-      "navigation_only_update": "本文末尾に本編入口を追加。本編スライドと動画は学校案内・就業者の例を反映。全15回の要点スライドは別冊。"
+      "navigation_only_update": "本文末尾に本編入口を追加。本編スライドと動画は学校案内・就業者の例を反映。全15回の要点スライドは別冊。",
+      "main_notes_body_sha256_lf": "403fe8bbd2c2f29ac048b7d43855efa36cb968015fab16225adf97b2a4c555b0"
     },
     {
       "number": 2,
