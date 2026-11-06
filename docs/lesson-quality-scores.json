@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "rubric_version": "1",
   "scope": "reorganized lessons and mapped existing media; editorial provisional scores",
   "dimensions": [
@@ -234,20 +234,20 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "就職先の産業と実際の仕事内容の違いが十分に具体化されていない",
-      "remaining": "公式の職業紹介を一例選び、学習活動との対応表へ追加。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
+      "remaining": "担当者による資料の再照合、支援技術での読み順確認、全編の発音と抑揚、受講者による読解・演習時間の試用。",
       "evidence_heading": "学校の進路実績を仕事の内容へつなぐ",
       "source_lessons": [
         4
       ],
       "before_sha256": "f5b5fa017b7ab361a2bd03c3639ca70d3639388032604c07047668754f021ab6",
-      "after_sha256": "e667d61760d94cc71aa9d8d1985321de2c543c590bc046b5b47bb75c498e0d1b",
+      "after_sha256": "6a7f1dea15c0623816780886d0625cf2debbd9ed0637036236310352972cf689",
       "chars_added": 510,
       "media_updated": true,
       "revision_history": [
@@ -293,6 +293,27 @@
           "before_total": 60,
           "after_total": 65,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "学校案内と職業情報の一次資料照合",
+          "before": [
+            3,
+            3,
+            2,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 65,
+          "after_total": 70,
+          "reason": "都立高校の学科案内、厚生労働省job tagの具体的作業、文科省の工業実習解説を照合し、本文・全媒体と演習へ反映。Cのみ2→3。"
         }
       ],
       "media_status": {

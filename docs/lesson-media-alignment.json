@@ -78,7 +78,7 @@
     {
       "number": 3,
       "body": "reorganized/20261105/expanded/03.md",
-      "body_sha256": "e667d61760d94cc71aa9d8d1985321de2c543c590bc046b5b47bb75c498e0d1b",
+      "body_sha256": "6a7f1dea15c0623816780886d0625cf2debbd9ed0637036236310352972cf689",
       "notes_body_sha256_lf": "0a3069333401994496794c2e956fdf4af992cef6bfe567d780263650c0dfd593",
       "pages": [
         10,
@@ -99,8 +99,8 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/03/README.md",
       "main_manifest": "reorganized/20261105/main/03/manifest.json",
-      "main_notes_body_sha256_lf": "e86ae6688f71e95805953c78fb50260ccaad22d943731825bd29d26a57e578cb",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "ff27feb3bcba0ee582596ec5cb9bd7e418a47382b8f5fca125387ad3930c2682",
+      "reading_example_update": "工業高校の学科案内とjob tagの作業内容を対応表で照合し、指導要領解説と進路相談の問いを全媒体へ反映。"
     },
     {
       "number": 4,

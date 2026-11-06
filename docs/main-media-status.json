@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage18",
+  "revision": "mainmedia-20261106-stage19",
   "updated": [
     {
       "id": "i01",
@@ -194,10 +194,10 @@
       "number": 3,
       "source_lesson": 4,
       "title": "工業高校の学びから仕事・進学を考える",
-      "slides": 19,
-      "seconds": 416.09999999999997,
+      "slides": 32,
+      "seconds": 728.2333333333332,
       "path": "reorganized/20261105/main/03",
-      "body_sha256_lf": "e86ae6688f71e95805953c78fb50260ccaad22d943731825bd29d26a57e578cb"
+      "body_sha256_lf": "ff27feb3bcba0ee582596ec5cb9bd7e418a47382b8f5fca125387ad3930c2682"
     },
     {
       "id": "ii04",
