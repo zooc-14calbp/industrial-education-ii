@@ -38,7 +38,7 @@
         2
       ],
       "before_sha256": "a35d95f93abd9dd4afabced577360fe474bdf95ac69dc46ee98d498fc7b2959f",
-      "after_sha256": "47a8b7a2831f284bf40c28ea183c7ddbdf42b29feee38d67af3fca2284b145e1",
+      "after_sha256": "259fc0eae67161045449a92ecaf531f3a965a880ae831f69aefc7ff366ead42d",
       "chars_added": 655,
       "media_updated": true,
       "revision_history": [
@@ -105,6 +105,27 @@
           "before_total": 70,
           "after_total": 70,
           "reason": "産業部門の初学者向け説明、学校の発注と波及、就業者図の原表照合を全媒体に反映。支援技術・学生試用などは未確認。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "聞いて分かる説明と図表の同期",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "冒頭で今回の問いを示し、曖昧な指示語とリンク除去後の文の欠落を修正。大阪府の産業連関表を事前に開き、図表説明中は対象を画面に表示する構成を全媒体に反映。支援技術・学生試用などは未確認。"
         }
       ],
       "media_status": {

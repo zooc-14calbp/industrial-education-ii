@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage19",
+  "revision": "mainmedia-20261106-stage20",
   "updated": [
     {
       "id": "i01",
@@ -172,10 +172,10 @@
       "number": 1,
       "source_lesson": 2,
       "title": "社会・産業・仕事と職業教育の基礎",
-      "slides": 48,
-      "seconds": 1137.6,
+      "slides": 53,
+      "seconds": 1281.1333333333334,
       "path": "reorganized/20261105/main/01",
-      "body_sha256_lf": "403fe8bbd2c2f29ac048b7d43855efa36cb968015fab16225adf97b2a4c555b0"
+      "body_sha256_lf": "76ca4ee4e23d59deabd0ed3d61007d4b4fab7871937516d81922d39ee167b1eb"
     },
     {
       "id": "ii02",

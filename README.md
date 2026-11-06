@@ -14,7 +14,7 @@
 
 | 回 | 内容・教材 | 動画 | 配布資料 |
 | ---: | --- | --- | --- |
-| 1 | [第1回 社会・産業・仕事と職業教育の基礎](reorganized/20261105/main/01/README.md) | [動画 18:58](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage18/industrial-education-ii-01.mp4) | スライド（[PDF](reorganized/20261105/main/01/slides.pdf), [PowerPoint](reorganized/20261105/main/01/slides.pptx)）・[学習ガイド](reorganized/20261105/main/01/student-guide.pdf)・[本文](reorganized/20261105/expanded/01.md) |
+| 1 | [第1回 社会・産業・仕事と職業教育の基礎](reorganized/20261105/main/01/README.md) | [動画 21:21](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage20/industrial-education-ii-01.mp4) | スライド（[PDF](reorganized/20261105/main/01/slides.pdf), [PowerPoint](reorganized/20261105/main/01/slides.pptx)）・[学習ガイド](reorganized/20261105/main/01/student-guide.pdf)・[本文](reorganized/20261105/expanded/01.md) |
 | 2 | [第2回 高校・高専等の制度と学校情報・資格の読み方](reorganized/20261105/main/02/README.md) | [動画 8:48](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage4/industrial-education-ii-02.mp4) | スライド（[PDF](reorganized/20261105/main/02/slides.pdf), [PowerPoint](reorganized/20261105/main/02/slides.pptx)）・[学習ガイド](reorganized/20261105/main/02/student-guide.pdf)・[本文](reorganized/20261105/expanded/02.md) |
 | 3 | [第3回 工業高校の学びから仕事・進学を考える](reorganized/20261105/main/03/README.md) | [動画 12:08](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage19/industrial-education-ii-03.mp4) | スライド（[PDF](reorganized/20261105/main/03/slides.pdf), [PowerPoint](reorganized/20261105/main/03/slides.pptx)）・[学習ガイド](reorganized/20261105/main/03/student-guide.pdf)・[本文](reorganized/20261105/expanded/03.md) |
 | 4 | [第4回 農林水産・食品・環境の学びとキャリア](reorganized/20261105/main/04/README.md) | [動画 6:54](https://github.com/zooc-14calbp/industrial-education-ii/releases/download/mainmedia-20261106-stage7/industrial-education-ii-04.mp4) | スライド（[PDF](reorganized/20261105/main/04/slides.pdf), [PowerPoint](reorganized/20261105/main/04/slides.pptx)）・[学習ガイド](reorganized/20261105/main/04/student-guide.pdf)・[本文](reorganized/20261105/expanded/04.md) |
@@ -43,6 +43,8 @@
 [レポートA・Bの課題文と評価基準](assessment/README.md)を確認してください。提出は科目全体で2本です。各回のメモや確認問題は提出不要です。正式な提出先・締切は、授業の案内に従ってください。
 
 ## 改訂情報・制作資料
+
+- 2026年11月6日　Ⅱ第1回の産業部門、学校と産業のつながり、図と考える時間を更新しました。
 
 - 2026年11月6日　Ⅱ第3回の学校案内・職業情報の対応例と進路指導の問いを更新しました。
 
