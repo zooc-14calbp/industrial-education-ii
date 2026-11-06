@@ -6,9 +6,9 @@
 
 ## 使用する実データ
 
-[文科省 高等学校卒業者の学科別進路状況](https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm)の令和7年3月卒業者の表から、農業・工業・商業・水産・普通科の5区分を抜粋した。出典は令和7年度学校基本統計。各行は当該学科の卒業者を分母にした割合で、学科の人数は同じではない。学校基本調査の[全日制・定時制の卒業後の状況の統計表](https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&tclass1=000001236922&tclass2=000001236962&tclass3=000001236975&tclass4=000001236979&toukei=00400001&tstat=000001011528)と対象を照合する。通信制等を含む別集計や中等教育学校等を含む集計と混ぜない。
+[文科省 高等学校卒業者の学科別進路状況](https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm)の令和7年3月卒業者の表から、農業・工業・商業・水産・普通科の5区分を抜粋した。出典は令和7年度学校基本統計。各行は当該学科の卒業者を分母にした割合で、学科の人数は同じではない。関連するe-Statの[全日制・定時制の表284](https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1=000001236922&tclass2=000001236962&tclass3=000001236975&tclass4=000001236979&toukei=00400001&tstat=000001011528)と、別集計の[通信制の表298](https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&tclass1=000001236922&tclass2=000001236962&tclass3=000001236975&tclass4=000001236980&tclass5val=0&toukei=00400001&tstat=000001011528)を確認する。図には通信制卒業者を足していない。
 
-[グラフと問いのPDF](statistics-exercise.pdf)／[グラフPNG](statistics-pathways.png)／[抜粋データCSV](statistics-pathways.csv)
+[更新したグラフPNG](statistics-pathways.png)／[抜粋データCSV](statistics-pathways.csv)／[元データと集計範囲](statistics-pathways-source.json)。[先行して作成した演習PDF](statistics-exercise.pdf)は制作履歴として残す。
 
 学科は原表に沿った順で並べ、割合の大小を学校・生徒の優劣として示さない。5区分は全学科の一覧ではなく、全体の構成比を計算するための標本でもない。「専門高校計」の値は、この5行の単純平均では求められない。
 

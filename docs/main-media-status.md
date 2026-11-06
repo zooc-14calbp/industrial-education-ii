@@ -1,6 +1,6 @@
 # 本編媒体への反映状況
 
-2026年11月6日。Ⅱ第11回にOECDの実データによる図と説明を追加しました。再編後の全30回のうち、30回で本編一式を作成しました。今回はⅡ第8・15回を更新し、卒業後の進路・学び直しと、選択肢を広げる進路相談を反映しました。
+2026年11月6日。Ⅱ第8回の学科別進路の図と集計範囲を更新しました。Ⅱ第11回にOECDの実データによる図と説明を追加しました。再編後の全30回のうち、30回で本編一式を作成しました。今回はⅡ第8・15回を更新し、卒業後の進路・学び直しと、選択肢を広げる進路相談を反映しました。
 
 | 科目・回 | 教材 | 本編枚数 | 動画の実測時間 |
 |---|---|---:|---|
@@ -26,7 +26,7 @@
 | Ⅱ・5 | [商業・ビジネス・情報の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/05) | 18 | 6分11秒 |
 | Ⅱ・6 | [家庭・看護・福祉の学びと資格・進路](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/06) | 25 | 9分23秒 |
 | Ⅱ・7 | [特別支援に関わる職業教育と卒業後への移行](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/07) | 20 | 7分30秒 |
-| Ⅱ・8 | [卒業後の進学・仕事・学び直しと大学・大学院](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/08) | 29 | 11分08秒 |
+| Ⅱ・8 | [卒業後の進学・仕事・学び直しと大学・大学院](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/08) | 35 | 13分28秒 |
 | Ⅱ・9 | [中学校の学びと専門教育をつなぐ数量・ICT・情報活用](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/09) | 26 | 10分43秒 |
 | Ⅱ・10 | [職場体験・インターンシップ・地域との連携](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/10) | 29 | 13分13秒 |
 | Ⅱ・11 | [OECDから学ぶ国際比較の基礎](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/11) | 30 | 11分39秒 |

@@ -1,5 +1,5 @@
 {
-  "revision": "mainmedia-20261106-stage14",
+  "revision": "mainmedia-20261106-stage17",
   "updated": [
     {
       "id": "i01",
@@ -249,10 +249,10 @@
       "number": 8,
       "source_lesson": 8,
       "title": "卒業後の進学・仕事・学び直しと大学・大学院",
-      "slides": 29,
-      "seconds": 668.0666666666665,
+      "slides": 35,
+      "seconds": 807.5999999999999,
       "path": "reorganized/20261105/main/08",
-      "body_sha256_lf": "8e6751c50640fc837db460f0cd37abc55914abb5b15db9b75fec1e1a66d06cec"
+      "body_sha256_lf": "70d7e79746a22bb8d6763dd670566733d9d866a4edd0c68d20047c96a003d90e"
     },
     {
       "id": "ii09",

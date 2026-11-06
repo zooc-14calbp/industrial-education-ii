@@ -212,7 +212,7 @@
     {
       "number": 8,
       "body": "reorganized/20261105/expanded/08.md",
-      "body_sha256": "035b69f523f8a3c012c7db9380c17b7d94cb995ba9365c58cb15716bcdfc07c6",
+      "body_sha256": "158f83d3dab409e2f1ce11b670cdaaf84f55c71e4e2e71f8ee92769e378f187b",
       "notes_body_sha256_lf": "8e6751c50640fc837db460f0cd37abc55914abb5b15db9b75fec1e1a66d06cec",
       "pages": [
         30,
@@ -233,8 +233,8 @@
       "terminology_review": "本文・本編で初出の用語を短く説明。増補要点スライドは別冊で前の版。",
       "main_entry": "reorganized/20261105/main/08/README.md",
       "main_manifest": "reorganized/20261105/main/08/manifest.json",
-      "main_notes_body_sha256_lf": "8e6751c50640fc837db460f0cd37abc55914abb5b15db9b75fec1e1a66d06cec",
-      "reading_example_update": "改訂本文を本編スライド・学習ガイド・字幕付き動画へ反映。全15回の要点スライドは別冊。"
+      "main_notes_body_sha256_lf": "70d7e79746a22bb8d6763dd670566733d9d866a4edd0c68d20047c96a003d90e",
+      "reading_example_update": "卒業者数と全日制・定時制、通信制の別集計を本文・本編・ガイド・字幕付き動画へ反映。"
     },
     {
       "number": 9,

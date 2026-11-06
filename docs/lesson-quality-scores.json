@@ -662,7 +662,7 @@
         9
       ],
       "before_sha256": "ae27fd42ff556e5efacfffbb18e0ceb614c0f5127924d589abefc5eb7279c190",
-      "after_sha256": "035b69f523f8a3c012c7db9380c17b7d94cb995ba9365c58cb15716bcdfc07c6",
+      "after_sha256": "158f83d3dab409e2f1ce11b670cdaaf84f55c71e4e2e71f8ee92769e378f187b",
       "chars_added": 746,
       "media_updated": true,
       "revision_history": [
@@ -708,6 +708,27 @@
           "before_total": 65,
           "after_total": 70,
           "reason": "本文・本編・ガイド・音声・字幕・動画と新版の案内を同期。Dは読み順精査が残るため2を維持。"
+        },
+        {
+          "date": "2026-11-06",
+          "stage": "学科別進路図の再作図",
+          "before": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "before_total": 70,
+          "after_total": 70,
+          "reason": "文科省公表値から図を再作成し、各学科の卒業者数と通信制の別集計を全媒体で説明。採点尺度と未確認項目は維持。"
         }
       ],
       "media_status": {
