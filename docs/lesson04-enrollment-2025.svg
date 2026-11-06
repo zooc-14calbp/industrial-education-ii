@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description" viewBox="0 0 900 370">
+  <title id="title">令和7年5月の高校生に占める職業学科の割合</title>
+  <desc id="description">全国の全日制・定時制高校生のうち、工業6.9パーセント、商業5.5パーセント、農業2.3パーセント、水産0.2パーセント。通信制は含まない。森林は農業科の科目に含まれる。</desc>
+  <rect width="900" height="370" fill="#f8fafc"/>
+  <g fill="#172b4d" font-family="Yu Gothic,Meiryo,sans-serif">
+    <text x="32" y="43" font-size="26" font-weight="700">高校生に占める各職業学科の割合</text>
+    <text x="32" y="73" font-size="17">全国・令和7年5月・全日制と定時制（通信制を除く）</text>
+  </g>
+  <g font-family="Yu Gothic,Meiryo,sans-serif" font-size="21" fill="#172b4d">
+    <text x="34" y="130">工業</text><text x="34" y="188">商業</text><text x="34" y="246">農業</text><text x="34" y="304">水産</text>
+    <text x="750" y="130">6.9％</text><text x="750" y="188">5.5％</text><text x="750" y="246">2.3％</text><text x="750" y="304">0.2％</text>
+  </g>
+  <g fill="#e2e8f0">
+    <rect x="125" y="106" width="600" height="28" rx="5"/>
+    <rect x="125" y="164" width="600" height="28" rx="5"/>
+    <rect x="125" y="222" width="600" height="28" rx="5"/>
+    <rect x="125" y="280" width="600" height="28" rx="5"/>
+  </g>
+  <g fill="#176c87">
+    <rect x="125" y="106" width="591" height="28" rx="5"/>
+    <rect x="125" y="164" width="471" height="28" rx="5"/>
+    <rect x="125" y="222" width="197" height="28" rx="5"/>
+    <rect x="125" y="280" width="17" height="28" rx="5"/>
+  </g>
+  <text x="32" y="349" fill="#334155" font-family="Yu Gothic,Meiryo,sans-serif" font-size="15">分母：全学科 2,865,463人　出典：文部科学省「令和7年度学校基本統計」</text>
+</svg>
