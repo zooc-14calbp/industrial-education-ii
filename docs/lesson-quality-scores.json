@@ -401,12 +401,12 @@
       "after": [
         3,
         3,
-        2,
+        3,
         2,
         3
       ],
       "before_total": 50,
-      "after_total": 65,
+      "after_total": 70,
       "finding": "農林水産の対象と情報・環境への広がりが概略にとどまる",
       "remaining": "森林と海洋の実際の教育課程を同一の観点で比較。支援技術での読み順、担当者による発音、受講者による読解・演習時間の確認。",
       "evidence_heading": "農林水産を生産から情報と環境まで見る",
@@ -415,7 +415,7 @@
         6
       ],
       "before_sha256": "3a41b6418aec39ad8f920047ad2fba4e4626bc6d382defa3ac7d18b14f13148d",
-      "after_sha256": "a90138521a9a678dcc0ad2afbf53b44466816cfabf36a137664f5ab78709da19",
+      "after_sha256": "3ed5f3c3f87d2b77c3f7498213f39857b632080b3fbbbfc7bed72167b2e0f013",
       "chars_added": 512,
       "media_updated": true,
       "revision_history": [
@@ -482,6 +482,19 @@
           "before_total": 65,
           "after_total": 65,
           "reason": "各回冒頭の問いと学ぶ順序を具体化。曖昧な指示語と表の不要な定型文を修正。スライド、ガイド、字幕付き動画に反映。端末・学生試用は未実施。"
+        },
+        {
+          "date": "2026-11-09",
+          "stage": "科目・生徒数の出典を本編へ統合",
+          "after": [
+            3,
+            3,
+            3,
+            2,
+            3
+          ],
+          "after_total": 70,
+          "reason": "文部科学省の農業編・水産編と令和7年5月の学科別生徒数を照合。本文・スライド・ガイド・字幕付き動画へ反映。Cのみ2→3。受講者試用は未実施。"
         }
       ],
       "media_status": {

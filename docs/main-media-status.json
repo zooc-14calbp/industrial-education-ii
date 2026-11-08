@@ -205,10 +205,11 @@
       "number": 4,
       "source_lesson": 5,
       "title": "農林水産・食品・環境の学びとキャリア",
-      "slides": 19,
-      "seconds": 416.76666666666677,
+      "slides": 28,
+      "seconds": 699.0666666666666,
       "path": "reorganized/20261105/main/04",
-      "body_sha256_lf": "c4a4c2e90d38cf859597e251d730cc6fa9701c832d059a6a20454f5777c85c8f"
+      "body_sha256_lf": "76b3b4922b1b21726d27e9da82a8555220a5321f6b616470fd906b56281a85db",
+      "revision": "ii04-expanded-20261109"
     },
     {
       "id": "ii05",

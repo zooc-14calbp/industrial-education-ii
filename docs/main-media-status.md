@@ -1,6 +1,6 @@
 # 本編媒体への反映状況
 
-2026年11月6日。全30回の本編に、各回の問いと学ぶ順序を示す導入を追加しました。音声の指示語と資料名を点検し、図表を説明する画面を重点回で修正しました。動画の時間は実測値です。
+2026年11月9日。全30回の本編に、各回の問いと学ぶ順序を示す導入を追加しました。音声の指示語と資料名を点検し、図表を説明する画面を重点回で修正しました。Ⅱ第4回の増補版も反映しています。動画の時間は実測値です。
 
 | 科目・回 | 教材 | 本編枚数 | 動画の実測時間 |
 |---|---|---:|---|
@@ -22,7 +22,7 @@
 | Ⅱ・1 | [社会・産業・仕事と職業教育の基礎](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/01) | 53 | 21分21秒 |
 | Ⅱ・2 | [高校・高専等の制度と学校情報・資格の読み方](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/02) | 21 | 8分51秒 |
 | Ⅱ・3 | [工業高校の学びから仕事・進学を考える](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/03) | 32 | 11分36秒 |
-| Ⅱ・4 | [農林水産・食品・環境の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/04) | 19 | 6分57秒 |
+| Ⅱ・4 | [農林水産・食品・環境の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/04) | 28 | 11分39秒 |
 | Ⅱ・5 | [商業・ビジネス・情報の学びとキャリア](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/05) | 27 | 10分47秒 |
 | Ⅱ・6 | [家庭・看護・福祉の学びと資格・進路](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/06) | 25 | 9分24秒 |
 | Ⅱ・7 | [特別支援に関わる職業教育と卒業後への移行](https://github.com/zooc-14calbp/industrial-education-ii/tree/main/reorganized/20261105/main/07) | 20 | 7分34秒 |
