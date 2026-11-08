@@ -1,0 +1,14 @@
+{
+  "id": "ii-04",
+  "video_seconds": 699.0666666666666,
+  "video_frames": 20972,
+  "slides": 28,
+  "all_slide_samples_matched": true,
+  "worst_mean_pixel_difference": 2.339692708333333,
+  "captions": 104,
+  "subtitle_text_matched": true,
+  "full_decode": "pass",
+  "human_full_audio_review": false,
+  "student_trial_completed": false,
+  "video_sha256": "13a297ad0f3d11468c43fa10536b40cfa9bb452f85e062fa17cbb2400c2d8154"
+}

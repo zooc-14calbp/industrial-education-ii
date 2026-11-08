@@ -1,0 +1,294 @@
+{
+  "seconds": 699.0666666666666,
+  "fps": 30,
+  "slides": 28,
+  "captions": 104,
+  "voice": "ja-JP-NanamiNeural",
+  "rate": "-5%",
+  "pause_minutes_planned": 20,
+  "reading_minutes_planned": 15,
+  "combined_minutes_planned": 31.65111111111111,
+  "student_trial_completed": false,
+  "timeline": [
+    {
+      "slide": 1,
+      "title": "第4章　農林水産・食品・環境の学び",
+      "start": 0,
+      "end": 27.2,
+      "seconds": 27.2,
+      "spoken_seconds": 25.68,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 2,
+      "title": "この回の到達目標",
+      "start": 27.2,
+      "end": 46.53333333333333,
+      "seconds": 19.333333333333332,
+      "spoken_seconds": 17.808,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 3,
+      "title": "考える時間を含む学び方",
+      "start": 46.53333333333333,
+      "end": 67.5,
+      "seconds": 20.966666666666665,
+      "spoken_seconds": 19.464,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 4,
+      "title": "第1節　「農業高校」の中身",
+      "start": 67.5,
+      "end": 96.96666666666667,
+      "seconds": 29.466666666666665,
+      "spoken_seconds": 27.936,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 5,
+      "title": "「森林」はどこにあるか",
+      "start": 96.96666666666667,
+      "end": 119.96666666666667,
+      "seconds": 23.0,
+      "spoken_seconds": 21.48,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 6,
+      "title": "第2節　教科・科目・学科",
+      "start": 119.96666666666667,
+      "end": 153.46666666666667,
+      "seconds": 33.5,
+      "spoken_seconds": 31.968,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 7,
+      "title": "食品から二つの教科を比べる",
+      "start": 153.46666666666667,
+      "end": 185.3,
+      "seconds": 31.833333333333332,
+      "spoken_seconds": 30.312,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 8,
+      "title": "機械と情報にも接点がある",
+      "start": 185.3,
+      "end": 213.66666666666669,
+      "seconds": 28.366666666666667,
+      "spoken_seconds": 26.856,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 9,
+      "title": "第3節　グラフの前に対象を確認",
+      "start": 213.66666666666669,
+      "end": 247.8,
+      "seconds": 34.13333333333333,
+      "spoken_seconds": 32.616,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 10,
+      "title": "専門学科の人数を図で読む",
+      "start": 247.8,
+      "end": 287.03333333333336,
+      "seconds": 39.233333333333334,
+      "spoken_seconds": 37.728,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 11,
+      "title": "人数から言えることを分ける",
+      "start": 287.03333333333336,
+      "end": 312.70000000000005,
+      "seconds": 25.666666666666668,
+      "spoken_seconds": 24.144,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 12,
+      "title": "第4節　学校案内を読む順序",
+      "start": 312.70000000000005,
+      "end": 344.03333333333336,
+      "seconds": 31.333333333333332,
+      "spoken_seconds": 29.832,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 13,
+      "title": "言葉を使って確かめる",
+      "start": 344.03333333333336,
+      "end": 357.93333333333334,
+      "seconds": 13.9,
+      "spoken_seconds": 12.384,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 14,
+      "title": "言葉を使って確かめる（2）",
+      "start": 357.93333333333334,
+      "end": 367.8,
+      "seconds": 9.866666666666667,
+      "spoken_seconds": 8.352,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 15,
+      "title": "言葉を使って確かめる：答え",
+      "start": 367.8,
+      "end": 377.43333333333334,
+      "seconds": 9.633333333333333,
+      "spoken_seconds": 8.112,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 16,
+      "title": "農林水産を生産から情報と環境まで見る",
+      "start": 377.43333333333334,
+      "end": 406.76666666666665,
+      "seconds": 29.333333333333332,
+      "spoken_seconds": 27.816,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 17,
+      "title": "農林水産を生産から情報と環境まで見る（2）",
+      "start": 406.76666666666665,
+      "end": 439.29999999999995,
+      "seconds": 32.53333333333333,
+      "spoken_seconds": 31.008,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 18,
+      "title": "農林水産を生産から情報と環境まで見る（3）",
+      "start": 439.29999999999995,
+      "end": 474.16666666666663,
+      "seconds": 34.86666666666667,
+      "spoken_seconds": 33.336,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 19,
+      "title": "生産・加工・環境を学ぶ専門高校",
+      "start": 474.16666666666663,
+      "end": 498.4,
+      "seconds": 24.233333333333334,
+      "spoken_seconds": 22.704,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 20,
+      "title": "生産・加工・環境を学ぶ専門高校（2）",
+      "start": 498.4,
+      "end": 521.6999999999999,
+      "seconds": 23.3,
+      "spoken_seconds": 21.768,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 21,
+      "title": "農林水産の学びを比べる",
+      "start": 521.6999999999999,
+      "end": 543.0999999999999,
+      "seconds": 21.4,
+      "spoken_seconds": 19.896,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 22,
+      "title": "考える時間：一つの問い",
+      "start": 543.0999999999999,
+      "end": 587.1333333333332,
+      "seconds": 44.03333333333333,
+      "spoken_seconds": 42.504,
+      "pause_minutes": 15,
+      "exercise": true
+    },
+    {
+      "slide": 23,
+      "title": "自分の説明を確かめる",
+      "start": 587.1333333333332,
+      "end": 596.8999999999999,
+      "seconds": 9.766666666666667,
+      "spoken_seconds": 8.256,
+      "pause_minutes": 5,
+      "exercise": true
+    },
+    {
+      "slide": 24,
+      "title": "説明例",
+      "start": 596.8999999999999,
+      "end": 620.6333333333332,
+      "seconds": 23.733333333333334,
+      "spoken_seconds": 22.224,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 25,
+      "title": "今回の学びを次へ",
+      "start": 620.6333333333332,
+      "end": 643.1999999999999,
+      "seconds": 22.566666666666666,
+      "spoken_seconds": 21.048,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 26,
+      "title": "参考資料：読む場所",
+      "start": 643.1999999999999,
+      "end": 661.2333333333332,
+      "seconds": 18.033333333333335,
+      "spoken_seconds": 16.512,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 27,
+      "title": "参考資料：読む場所",
+      "start": 661.2333333333332,
+      "end": 678.8333333333333,
+      "seconds": 17.6,
+      "spoken_seconds": 16.08,
+      "pause_minutes": 0,
+      "exercise": false
+    },
+    {
+      "slide": 28,
+      "title": "参考資料：読む場所",
+      "start": 678.8333333333333,
+      "end": 699.0666666666666,
+      "seconds": 20.233333333333334,
+      "spoken_seconds": 18.72,
+      "pause_minutes": 0,
+      "exercise": false
+    }
+  ]
+}
