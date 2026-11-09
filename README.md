@@ -4,7 +4,7 @@
 
 専門高校や高専での学び、その先の仕事と進学を知り、中学校の授業や進路相談でどんな情報を伝えられるかを考えます。
 
-[受講方法を読む](docs/study-guide.md) ／ [教材一覧を開く](#各回の教材) ／ [提出課題と評価基準](assessment/README.md)
+[受講方法を読む](docs/study-guide.md) ／ [授業方法と学習支援](docs/online-course-guidance.md) ／ [教材一覧を開く](#各回の教材) ／ [提出課題と評価基準](assessment/README.md)
 
 ## 最初に：受講方法を読む
 
