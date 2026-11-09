@@ -6,7 +6,7 @@
 
 [字幕（VTT）](captions.vtt)／[字幕（SRT）](captions.srt)／[読み上げ原稿](narration.txt)／[対応する本文](../../expanded/01.md)／[産業構成図を拡大](../../../../docs/statistics-industry.png)／[学校と産業の図を拡大](../../../../docs/school-industry-links.png)
 
-[大阪府の産業連関表・公式解説書（PDF、印刷p.126）](https://www.pref.osaka.lg.jp/documents/121665/r2io_03.pdf)を、産業間の取引を扱う前にダウンロードしてください。授業スライドにも必要な部分を示しています。
+[産業連関表の読み方を図で見る](../../../../docs/io-three-sector-2020-osaka.svg)／[大阪府の産業連関表・公式解説書（PDF、印刷p.126）](https://www.pref.osaka.lg.jp/documents/121665/r2io_03.pdf)を、産業間の取引を扱う前にダウンロードしてください。授業スライドにも必要な部分を示しています。
 
 ## 学び方
 
