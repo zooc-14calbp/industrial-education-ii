@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">産業連関表の読み方：行は供給側、列は購入側</title>
+<desc id="desc">大阪府の2020年産業連関表の三部門の取引を示す。第一次産業から第二次産業へは213351百万円、逆方向は8419百万円。二つは別の取引である。</desc>
+<rect width="1600" height="900" fill="#f8f6f1"/>
+<text x="86" y="84" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="46" font-weight="700" fill="#172e3b">産業連関表は「売る側」と「買う側」を読む</text>
+<text x="86" y="133" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="25" fill="#344b55">大阪府・2020年の取引額　単位：百万円</text>
+<rect x="81" y="190" width="1050" height="480" rx="20" fill="#ffffff" stroke="#b8c7cc" stroke-width="2"/>
+<text x="340" y="245" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="26" font-weight="700" fill="#173d51">購入する産業（列） →</text>
+<text x="102" y="315" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="25" font-weight="700" fill="#173d51">供給する産業</text>
+<text x="102" y="350" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="22" fill="#173d51">（行）↓</text>
+<g font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="25" text-anchor="middle" fill="#172e3b"><text x="480" y="318">第一次</text><text x="727" y="318">第二次</text><text x="974" y="318">第三次</text></g>
+<g fill="#edf2f3"><rect x="364" y="340" width="232" height="87" rx="7"/><rect x="611" y="340" width="232" height="87" rx="7"/><rect x="858" y="340" width="232" height="87" rx="7"/><rect x="364" y="439" width="232" height="87" rx="7"/><rect x="611" y="439" width="232" height="87" rx="7"/><rect x="858" y="439" width="232" height="87" rx="7"/><rect x="364" y="538" width="232" height="87" rx="7"/><rect x="611" y="538" width="232" height="87" rx="7"/><rect x="858" y="538" width="232" height="87" rx="7"/></g>
+<rect x="611" y="340" width="232" height="87" rx="7" fill="#ffe3a6" stroke="#bb6a00" stroke-width="4"/>
+<rect x="364" y="439" width="232" height="87" rx="7" fill="#c8e8e1" stroke="#126954" stroke-width="4"/>
+<g font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="26" fill="#172e3b"><text x="132" y="394">第一次産業</text><text x="132" y="493">第二次産業</text><text x="132" y="592">第三次産業</text></g>
+<g font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="26" text-anchor="middle" fill="#172e3b"><text x="480" y="394">3,552</text><text x="727" y="394" font-weight="700">213,351</text><text x="974" y="394">69,130</text><text x="480" y="493" font-weight="700">8,419</text><text x="727" y="493">8,332,223</text><text x="974" y="493">4,383,239</text><text x="480" y="592">10,529</text><text x="727" y="592">3,172,670</text><text x="974" y="592">16,029,472</text></g>
+<rect x="1172" y="272" width="343" height="334" rx="18" fill="#e9f0f2"/>
+<text x="1202" y="322" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="27" font-weight="700" fill="#173d51">交点を一つ読む</text>
+<text x="1202" y="377" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="23" fill="#172e3b">黄色：第一次から</text>
+<text x="1202" y="410" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="23" fill="#172e3b">第二次への取引</text>
+<text x="1202" y="475" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="23" fill="#172e3b">緑色：第二次から</text>
+<text x="1202" y="508" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="23" fill="#172e3b">第一次への取引</text>
+<text x="1202" y="565" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="23" font-weight="700" fill="#173d51">向きが違う別の取引</text>
+<text x="86" y="733" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="26" font-weight="700" fill="#172e3b">考える：学校が校舎の改修を頼むと、どの産業との取引が生まれるか。</text>
+<text x="86" y="789" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="19" fill="#344b55">出典：大阪府「令和2年大阪府産業連関表」第3部、印刷 p.126（PDF 12ページ目）の三部門表より作図。</text>
+<text x="86" y="824" font-family="Noto Sans CJK JP, Yu Gothic, sans-serif" font-size="19" fill="#344b55">https://www.pref.osaka.lg.jp/documents/121665/r2io_03.pdf　※行・列の９つの取引額のみを抜粋。</text>
+</svg>
+
